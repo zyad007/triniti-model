@@ -92,6 +92,7 @@ Thank You.
 ### Important Links
 - [Trinit Chatbot Main host](https://triniti-chatbot.onrender.com).     (might take 90 seconds to open in cold start)
 - [System Architecture Diagrams](https://drive.google.com/file/d/15BB7L7vjhYlS1kbN9fIe8hJDQGMlzMmG/view?usp=sharing).
+- [General Chatbot Architecture Explained](https://blog.vsoftconsulting.com/blog/understanding-the-architecture-of-conversational-chatbot)
 - [Library for NLU (Natural Language Understanding)](https://www.npmjs.com/package/node-nlp).
 - [Natural is a Javascript library for natural language processing](https://naturalnode.github.io/natural/).
 - [Weaviate Vector Database](https://weaviate.io/developers/weaviate).
