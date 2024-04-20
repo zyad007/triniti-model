@@ -1,3 +1,5 @@
+list vendors
+list vendor
 Can you provide a list of potential vendors for a Talent Acquisition software?
 Could you compile a list of prospective vendors for a Talent Acquisition software?
 Would you be able to gather a roster of potential vendors for a Talent Acquisition software?
