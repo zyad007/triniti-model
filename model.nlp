@@ -893,6 +893,418 @@
           "a,acquisit,could,establish,for,list,of,potenti,softwar,solut,talent,you": {
             "intent": "list.vendors",
             "domain": "default"
+          },
+          "a,could,for,negoti,propos,strategi,you": {
+            "intent": "strategy",
+            "domain": "default"
+          },
+          "for,negoti,recommend,tactic,what,would,you": {
+            "intent": "strategy",
+            "domain": "default"
+          },
+          "a,could,for,negoti,outlin,plan,you": {
+            "intent": "strategy",
+            "domain": "default"
+          },
+          "advic,am,ani,for,i,negoti,on,seek,strategi,suggest,you": {
+            "intent": "strategy",
+            "domain": "default"
+          },
+          "for,insight,look,negoti,on,propos,strategi,what,would,you": {
+            "intent": "strategy",
+            "domain": "default"
+          },
+          "for,is,negoti,recommend,strategi,what,your": {
+            "intent": "strategy",
+            "domain": "default"
+          },
+          "about,ani,effect,for,idea,inquir,negoti,strategi": {
+            "intent": "strategy",
+            "domain": "default"
+          },
+          "advis,approach,do,for,negoti,to,what,you": {
+            "intent": "strategy",
+            "domain": "default"
+          },
+          "can,for,guidanc,negoti,on,provid,techniqu,you": {
+            "intent": "strategy",
+            "domain": "default"
+          },
+          "is,method,negoti,on,perspect,recommend,seek,what,your": {
+            "intent": "strategy",
+            "domain": "default"
+          },
+          "for,in,interest,learn,negoti,propos,strategi,what,would,you": {
+            "intent": "strategy",
+            "domain": "default"
+          },
+          "be,employ,for,negoti,should,tactic,what": {
+            "intent": "strategy",
+            "domain": "default"
+          },
+          "ani,do,for,negoti,on,recommend,strategi,suggest,what,you": {
+            "intent": "strategy",
+            "domain": "default"
+          },
+          "ask,for,input,is,negoti,on,tactic,take,what,your": {
+            "intent": "strategy",
+            "domain": "default"
+          },
+          "are,do,effect,for,input,negoti,on,seek,strategi,techniqu,think,what,you": {
+            "intent": "strategy",
+            "domain": "default"
+          },
+          "about,curious,for,negoti,propos,strategi,what,would,you": {
+            "intent": "strategy",
+            "domain": "default"
+          },
+          "approach,are,for,negoti,on,thought,what,your": {
+            "intent": "strategy",
+            "domain": "default"
+          },
+          "about,ani,for,hear,in,interest,negoti,strategi,suggest": {
+            "intent": "strategy",
+            "domain": "default"
+          },
+          "advic,is,negoti,on,perspect,seek,tactic,what,your": {
+            "intent": "strategy",
+            "domain": "default"
+          },
+          "do,for,method,negoti,suggest,what,you": {
+            "intent": "strategy",
+            "domain": "default"
+          },
+          "advic,ask,for,is,negoti,on,recommend,strategi,what,your": {
+            "intent": "strategy",
+            "domain": "default"
+          },
+          "2,communic,propos,the,top,vendor,with": {
+            "intent": "propose.vendors",
+            "domain": "default"
+          },
+          "communic,suggest,the,top,two,vendor,with": {
+            "intent": "propose.vendors",
+            "domain": "default"
+          },
+          "2,communic,initi,propos,the,top,vendor,with": {
+            "intent": "propose.vendors",
+            "domain": "default"
+          },
+          "2,communic,for,out,reach,recommend,the,to,top,vendor": {
+            "intent": "propose.vendors",
+            "domain": "default"
+          },
+          "advoc,contact,for,the,top,two,vendor": {
+            "intent": "propose.vendors",
+            "domain": "default"
+          },
+          "2,a,engag,for,forward,put,suggest,the,top,vendor,with": {
+            "intent": "propose.vendors",
+            "domain": "default"
+          },
+          "advis,communic,on,the,top,two,vendor,with": {
+            "intent": "propose.vendors",
+            "domain": "default"
+          },
+          "2,communic,encourag,for,out,reach,the,to,top,vendor": {
+            "intent": "propose.vendors",
+            "domain": "default"
+          },
+          "communic,initi,recommend,the,top,two,vendor,with": {
+            "intent": "propose.vendors",
+            "domain": "default"
+          },
+          "2,communic,initi,suggest,the,top,vendor,with": {
+            "intent": "propose.vendors",
+            "domain": "default"
+          },
+          "advoc,for,out,reach,the,to,top,two,vendor": {
+            "intent": "propose.vendors",
+            "domain": "default"
+          },
+          "2,a,engag,for,forward,propos,put,the,top,vendor,with": {
+            "intent": "propose.vendors",
+            "domain": "default"
+          },
+          "advis,communic,initi,the,top,two,vendor,with": {
+            "intent": "propose.vendors",
+            "domain": "default"
+          },
+          "2,communic,encourag,the,top,vendor,with": {
+            "intent": "propose.vendors",
+            "domain": "default"
+          },
+          "out,reach,recommend,the,to,top,two,vendor": {
+            "intent": "propose.vendors",
+            "domain": "default"
+          },
+          "advoc,communic,for,initi,the,top,two,vendor,with": {
+            "intent": "propose.vendors",
+            "domain": "default"
+          },
+          "2,a,for,forward,out,put,reach,suggest,the,to,top,vendor": {
+            "intent": "propose.vendors",
+            "domain": "default"
+          },
+          "advis,on,out,reach,the,to,top,two,vendor": {
+            "intent": "propose.vendors",
+            "domain": "default"
+          },
+          "2,communic,encourag,initi,the,top,vendor,with": {
+            "intent": "propose.vendors",
+            "domain": "default"
+          },
+          "communic,for,out,reach,recommend,the,to,top,two,vendor": {
+            "intent": "propose.vendors",
+            "domain": "default"
+          },
+          "a,chart,cost,display,for,illustr,of,ownership,propos,tco,the,total,various": {
+            "intent": "chart.TCO",
+            "domain": "default"
+          },
+          "a,across,chart,depict,differ,present,propos,tco,the": {
+            "intent": "chart.TCO",
+            "domain": "default"
+          },
+          "a,chart,comparison,differ,exhibit,for,propos,showcas,tco,the": {
+            "intent": "chart.TCO",
+            "domain": "default"
+          },
+          "a,among,chart,demonstr,illustr,propos,tco,the,variat": {
+            "intent": "chart.TCO",
+            "domain": "default"
+          },
+          "a,chart,each,for,outlin,propos,showcas,tco,the": {
+            "intent": "chart.TCO",
+            "domain": "default"
+          },
+          "a,across,chart,differ,propos,provid,tco,the,visual": {
+            "intent": "chart.TCO",
+            "domain": "default"
+          },
+          "a,among,chart,demonstr,differ,outlin,propos,tco,the": {
+            "intent": "chart.TCO",
+            "domain": "default"
+          },
+          "a,chart,comparison,depict,differ,for,illustr,propos,tco,the": {
+            "intent": "chart.TCO",
+            "domain": "default"
+          },
+          "a,breakdown,chart,display,each,for,present,propos,tco,the": {
+            "intent": "chart.TCO",
+            "domain": "default"
+          },
+          "a,analysi,chart,exhibit,for,indic,propos,tco,the,various": {
+            "intent": "chart.TCO",
+            "domain": "default"
+          },
+          "a,among,chart,detail,differ,propos,show,tco,the": {
+            "intent": "chart.TCO",
+            "domain": "default"
+          },
+          "a,across,chart,display,illustr,propos,tco,the,varianc": {
+            "intent": "chart.TCO",
+            "domain": "default"
+          },
+          "a,among,chart,comparison,depict,present,propos,tco,the": {
+            "intent": "chart.TCO",
+            "domain": "default"
+          },
+          "a,chart,distribut,each,for,illustr,propos,showcas,tco,the": {
+            "intent": "chart.TCO",
+            "domain": "default"
+          },
+          "a,across,chart,differ,propos,provid,tco,the,variat,visual": {
+            "intent": "chart.TCO",
+            "domain": "default"
+          },
+          "a,chart,comparison,demonstr,each,for,outlin,propos,tco,the": {
+            "intent": "chart.TCO",
+            "domain": "default"
+          },
+          "a,across,analysi,chart,depict,illustr,propos,tco,the": {
+            "intent": "chart.TCO",
+            "domain": "default"
+          },
+          "a,among,breakdown,chart,detail,propos,show,tco,the": {
+            "intent": "chart.TCO",
+            "domain": "default"
+          },
+          "a,chart,differ,distribut,exhibit,for,indic,propos,tco,the": {
+            "intent": "chart.TCO",
+            "domain": "default"
+          },
+          "a,chart,comparison,display,each,for,present,propos,tco,the": {
+            "intent": "chart.TCO",
+            "domain": "default"
+          },
+          "an,can,do,generat,me,rfp,same,the,you": {
+            "intent": "generate.rfp",
+            "domain": "default"
+          },
+          "an,could,for,generat,me,pleas,rfp,you": {
+            "intent": "generate.rfp",
+            "domain": "default"
+          },
+          "an,can,creat,for,me,rfp,you": {
+            "intent": "generate.rfp",
+            "domain": "default"
+          },
+          "an,for,generat,me,mind,rfp,would,you": {
+            "intent": "generate.rfp",
+            "domain": "default"
+          },
+          "an,for,generat,is,it,me,possibl,rfp,to,you": {
+            "intent": "generate.rfp",
+            "domain": "default"
+          },
+          "an,could,for,generat,kind,me,rfp,you": {
+            "intent": "generate.rfp",
+            "domain": "default"
+          },
+          "an,assist,can,generat,in,me,rfp,you": {
+            "intent": "generate.rfp",
+            "domain": "default"
+          },
+          "abl,an,be,generat,help,me,rfp,to,would,you": {
+            "intent": "generate.rfp",
+            "domain": "default"
+          },
+          "an,could,generat,pleas,rfp,you": {
+            "intent": "generate.rfp",
+            "domain": "default"
+          },
+          "an,can,draft,for,me,rfp,you": {
+            "intent": "generate.rfp",
+            "domain": "default"
+          },
+          "an,be,for,generat,me,rfp,to,will,would,you": {
+            "intent": "generate.rfp",
+            "domain": "default"
+          },
+          "an,could,document,for,generat,me,rfp,you": {
+            "intent": "generate.rfp",
+            "domain": "default"
+          },
+          "an,can,for,me,produc,rfp,you": {
+            "intent": "generate.rfp",
+            "domain": "default"
+          },
+          "an,as,be,creat,for,kind,me,rfp,so,to,would,you": {
+            "intent": "generate.rfp",
+            "domain": "default"
+          },
+          "an,could,draft,help,me,rfp,you": {
+            "intent": "generate.rfp",
+            "domain": "default"
+          },
+          "an,can,me,provid,rfp,with,you": {
+            "intent": "generate.rfp",
+            "domain": "default"
+          },
+          "abl,an,be,draft,for,me,rfp,to,would,you": {
+            "intent": "generate.rfp",
+            "domain": "default"
+          },
+          "an,behalf,could,creat,my,on,rfp,you": {
+            "intent": "generate.rfp",
+            "domain": "default"
+          },
+          "an,can,for,me,prepar,rfp,you": {
+            "intent": "generate.rfp",
+            "domain": "default"
+          },
+          "an,draft,for,me,mind,rfp,would,you": {
+            "intent": "generate.rfp",
+            "domain": "default"
+          },
+          "an,could,generat,if,possibl,rfp,you": {
+            "intent": "generate.rfp",
+            "domain": "default"
+          },
+          "a,can,generat,in,it,new,portal,tab,you": {
+            "intent": "portal",
+            "domain": "default"
+          },
+          "a,can,in,it,new,open,pleas,portal,tab,you": {
+            "intent": "portal",
+            "domain": "default"
+          },
+          "a,could,generat,in,it,new,pleas,portal,tab,you": {
+            "intent": "portal",
+            "domain": "default"
+          },
+          "a,generat,in,it,mind,new,portal,tab,would,you": {
+            "intent": "portal",
+            "domain": "default"
+          },
+          "a,generat,in,is,it,new,portal,possibl,tab,to": {
+            "intent": "portal",
+            "domain": "default"
+          },
+          "a,could,in,it,new,open,pleas,portal,tab,you": {
+            "intent": "portal",
+            "domain": "default"
+          },
+          "a,generat,in,it,kind,new,portal,tab,would,you": {
+            "intent": "portal",
+            "domain": "default"
+          },
+          "a,can,generat,in,it,new,pleas,portal,tab,you": {
+            "intent": "portal",
+            "domain": "default"
+          },
+          "a,be,generat,in,it,new,portal,possibl,tab,to,would": {
+            "intent": "portal",
+            "domain": "default"
+          },
+          "a,could,for,in,it,me,new,open,pleas,portal,tab,you": {
+            "intent": "portal",
+            "domain": "default"
+          },
+          "a,abl,be,generat,in,it,new,portal,tab,to,would,you": {
+            "intent": "portal",
+            "domain": "default"
+          },
+          "a,generat,in,is,it,new,portal,tab,there,to,way": {
+            "intent": "portal",
+            "domain": "default"
+          },
+          "a,can,generat,in,it,new,open,portal,so,tab,you": {
+            "intent": "portal",
+            "domain": "default"
+          },
+          "a,could,generat,in,it,new,open,portal,tab,that,you": {
+            "intent": "portal",
+            "domain": "default"
+          },
+          "a,can,generat,if,in,it,new,portal,possibl,tab,you": {
+            "intent": "portal",
+            "domain": "default"
+          },
+          "a,abl,be,for,generat,in,it,me,new,portal,tab,to,would,you": {
+            "intent": "portal",
+            "domain": "default"
+          },
+          "a,can,feasibl,if,in,is,it,new,open,portal,tab,that,you": {
+            "intent": "portal",
+            "domain": "default"
+          },
+          "a,as,be,generat,in,it,kind,new,portal,so,tab,to,would,you": {
+            "intent": "portal",
+            "domain": "default"
+          },
+          "a,can,conveni,generat,if,in,is,it,new,portal,tab,that,you": {
+            "intent": "portal",
+            "domain": "default"
+          },
+          "a,an,could,generat,if,in,is,it,new,option,pleas,portal,tab,that,you": {
+            "intent": "portal",
+            "domain": "default"
+          },
+          "a,can,doabl,generat,if,in,is,it,new,portal,tab,that,you": {
+            "intent": "portal",
+            "domain": "default"
           }
         },
         "intentDict": {
@@ -900,7 +1312,12 @@
           "list.requirements": "default",
           "add.requirement": "default",
           "send.team": "default",
-          "list.vendors": "default"
+          "list.vendors": "default",
+          "strategy": "default",
+          "propose.vendors": "default",
+          "chart.TCO": "default",
+          "generate.rfp": "default",
+          "portal": "default"
         },
         "sentences": [
           {
@@ -2252,6 +2669,526 @@
             "domain": "default",
             "utterance": "Could you establish a list of potential solutions for a Talent Acquisition software?",
             "intent": "list.vendors"
+          },
+          {
+            "domain": "default",
+            "utterance": "Could you propose a negotiation strategy for",
+            "intent": "strategy"
+          },
+          {
+            "domain": "default",
+            "utterance": "What negotiation tactics would you recommend for",
+            "intent": "strategy"
+          },
+          {
+            "domain": "default",
+            "utterance": "Could you outline a negotiation plan for",
+            "intent": "strategy"
+          },
+          {
+            "domain": "default",
+            "utterance": "I'm seeking advice on negotiating; any strategies you suggest for",
+            "intent": "strategy"
+          },
+          {
+            "domain": "default",
+            "utterance": "Looking for insights on negotiation strategies; what would you propose for",
+            "intent": "strategy"
+          },
+          {
+            "domain": "default",
+            "utterance": "What's your recommended negotiation strategy for",
+            "intent": "strategy"
+          },
+          {
+            "domain": "default",
+            "utterance": "Inquiring about effective negotiation strategies; any ideas for",
+            "intent": "strategy"
+          },
+          {
+            "domain": "default",
+            "utterance": "What approaches to negotiation do you advise for",
+            "intent": "strategy"
+          },
+          {
+            "domain": "default",
+            "utterance": "Can you provide guidance on negotiation techniques for",
+            "intent": "strategy"
+          },
+          {
+            "domain": "default",
+            "utterance": "Seeking recommendations on negotiation methods; what's your perspective on",
+            "intent": "strategy"
+          },
+          {
+            "domain": "default",
+            "utterance": "Interested in learning negotiation strategies; what would you propose for",
+            "intent": "strategy"
+          },
+          {
+            "domain": "default",
+            "utterance": "What negotiation tactics should be employed for",
+            "intent": "strategy"
+          },
+          {
+            "domain": "default",
+            "utterance": "Any suggestions on negotiating? What strategies do you recommend for",
+            "intent": "strategy"
+          },
+          {
+            "domain": "default",
+            "utterance": "Asking for input on negotiation tactics; what's your take on",
+            "intent": "strategy"
+          },
+          {
+            "domain": "default",
+            "utterance": "Seeking input on negotiation techniques; what strategies do you think are effective for",
+            "intent": "strategy"
+          },
+          {
+            "domain": "default",
+            "utterance": "Curious about negotiation strategies; what would you propose for",
+            "intent": "strategy"
+          },
+          {
+            "domain": "default",
+            "utterance": "What are your thoughts on negotiation approaches for",
+            "intent": "strategy"
+          },
+          {
+            "domain": "default",
+            "utterance": "Interested in hearing about negotiation strategies; any suggestions for",
+            "intent": "strategy"
+          },
+          {
+            "domain": "default",
+            "utterance": "Seeking advice on negotiation tactics; what's your perspective on",
+            "intent": "strategy"
+          },
+          {
+            "domain": "default",
+            "utterance": "What negotiation methods do you suggest for",
+            "intent": "strategy"
+          },
+          {
+            "domain": "default",
+            "utterance": "Asking for recommendations on negotiation strategies; what's your advice for",
+            "intent": "strategy"
+          },
+          {
+            "domain": "default",
+            "utterance": "Propose communications with the top 2 vendors",
+            "intent": "propose.vendors"
+          },
+          {
+            "domain": "default",
+            "utterance": "Suggest communication with the top two vendors.",
+            "intent": "propose.vendors"
+          },
+          {
+            "domain": "default",
+            "utterance": "Propose initiating communication with the top 2 vendors.",
+            "intent": "propose.vendors"
+          },
+          {
+            "domain": "default",
+            "utterance": "Recommend reaching out to the top 2 vendors for communication.",
+            "intent": "propose.vendors"
+          },
+          {
+            "domain": "default",
+            "utterance": "Advocate for contacting the top two vendors.",
+            "intent": "propose.vendors"
+          },
+          {
+            "domain": "default",
+            "utterance": "Put forward a suggestion for engaging with the top 2 vendors.",
+            "intent": "propose.vendors"
+          },
+          {
+            "domain": "default",
+            "utterance": "Advise on communicating with the top two vendors.",
+            "intent": "propose.vendors"
+          },
+          {
+            "domain": "default",
+            "utterance": "Encourage reaching out to the top 2 vendors for communication.",
+            "intent": "propose.vendors"
+          },
+          {
+            "domain": "default",
+            "utterance": "Recommend initiating communication with the top two vendors.",
+            "intent": "propose.vendors"
+          },
+          {
+            "domain": "default",
+            "utterance": "Suggest initiating communication with the top 2 vendors.",
+            "intent": "propose.vendors"
+          },
+          {
+            "domain": "default",
+            "utterance": "Advocate for reaching out to the top two vendors.",
+            "intent": "propose.vendors"
+          },
+          {
+            "domain": "default",
+            "utterance": "Put forward a proposal for engaging with the top 2 vendors.",
+            "intent": "propose.vendors"
+          },
+          {
+            "domain": "default",
+            "utterance": "Advise initiating communication with the top two vendors.",
+            "intent": "propose.vendors"
+          },
+          {
+            "domain": "default",
+            "utterance": "Encourage communication with the top 2 vendors.",
+            "intent": "propose.vendors"
+          },
+          {
+            "domain": "default",
+            "utterance": "Recommend reaching out to the top two vendors.",
+            "intent": "propose.vendors"
+          },
+          {
+            "domain": "default",
+            "utterance": "Suggest initiating communication with the top 2 vendors.",
+            "intent": "propose.vendors"
+          },
+          {
+            "domain": "default",
+            "utterance": "Advocate for initiating communication with the top two vendors.",
+            "intent": "propose.vendors"
+          },
+          {
+            "domain": "default",
+            "utterance": "Put forward a suggestion for reaching out to the top 2 vendors.",
+            "intent": "propose.vendors"
+          },
+          {
+            "domain": "default",
+            "utterance": "Advise on reaching out to the top two vendors.",
+            "intent": "propose.vendors"
+          },
+          {
+            "domain": "default",
+            "utterance": "Encourage initiating communication with the top 2 vendors.",
+            "intent": "propose.vendors"
+          },
+          {
+            "domain": "default",
+            "utterance": "Recommend reaching out to the top two vendors for communication.",
+            "intent": "propose.vendors"
+          },
+          {
+            "domain": "default",
+            "utterance": "Display a chart illustrating the Total Cost of Ownership (TCO) for the various proposals.",
+            "intent": "chart.TCO"
+          },
+          {
+            "domain": "default",
+            "utterance": "Present a chart depicting the TCO across different proposals.",
+            "intent": "chart.TCO"
+          },
+          {
+            "domain": "default",
+            "utterance": "Exhibit a chart showcasing the TCO comparison for the different proposals.",
+            "intent": "chart.TCO"
+          },
+          {
+            "domain": "default",
+            "utterance": "Illustrate a chart demonstrating the TCO variation among the proposals.",
+            "intent": "chart.TCO"
+          },
+          {
+            "domain": "default",
+            "utterance": "Showcase a chart outlining the TCO for each proposal.",
+            "intent": "chart.TCO"
+          },
+          {
+            "domain": "default",
+            "utterance": "Provide a chart visualizing the TCO across the different proposals.",
+            "intent": "chart.TCO"
+          },
+          {
+            "domain": "default",
+            "utterance": "Demonstrate a chart outlining the TCO differences among the proposals.",
+            "intent": "chart.TCO"
+          },
+          {
+            "domain": "default",
+            "utterance": "Depict a chart illustrating the TCO comparison for the different proposals.",
+            "intent": "chart.TCO"
+          },
+          {
+            "domain": "default",
+            "utterance": "Present a chart displaying the TCO breakdown for each proposal.",
+            "intent": "chart.TCO"
+          },
+          {
+            "domain": "default",
+            "utterance": "Exhibit a chart indicating the TCO analysis for the various proposals.",
+            "intent": "chart.TCO"
+          },
+          {
+            "domain": "default",
+            "utterance": "Show a chart detailing the TCO differences among the proposals.",
+            "intent": "chart.TCO"
+          },
+          {
+            "domain": "default",
+            "utterance": "Display a chart illustrating the TCO variance across the proposals.",
+            "intent": "chart.TCO"
+          },
+          {
+            "domain": "default",
+            "utterance": "Present a chart depicting the TCO comparison among the proposals.",
+            "intent": "chart.TCO"
+          },
+          {
+            "domain": "default",
+            "utterance": "Illustrate a chart showcasing the TCO distribution for each proposal.",
+            "intent": "chart.TCO"
+          },
+          {
+            "domain": "default",
+            "utterance": "Provide a chart visualizing the TCO variations across the different proposals.",
+            "intent": "chart.TCO"
+          },
+          {
+            "domain": "default",
+            "utterance": "Demonstrate a chart outlining the TCO comparison for each proposal.",
+            "intent": "chart.TCO"
+          },
+          {
+            "domain": "default",
+            "utterance": "Depict a chart illustrating the TCO analysis across the proposals.",
+            "intent": "chart.TCO"
+          },
+          {
+            "domain": "default",
+            "utterance": "Show a chart detailing the TCO breakdown among the proposals.",
+            "intent": "chart.TCO"
+          },
+          {
+            "domain": "default",
+            "utterance": "Exhibit a chart indicating the TCO distribution for the different proposals.",
+            "intent": "chart.TCO"
+          },
+          {
+            "domain": "default",
+            "utterance": "Present a chart displaying the TCO comparison for each proposal.",
+            "intent": "chart.TCO"
+          },
+          {
+            "domain": "default",
+            "utterance": "do the same : Can you generate me an RFP",
+            "intent": "generate.rfp"
+          },
+          {
+            "domain": "default",
+            "utterance": "Could you please generate an RFP for me?",
+            "intent": "generate.rfp"
+          },
+          {
+            "domain": "default",
+            "utterance": "Can you create an RFP for me?",
+            "intent": "generate.rfp"
+          },
+          {
+            "domain": "default",
+            "utterance": "Would you mind generating an RFP for me?",
+            "intent": "generate.rfp"
+          },
+          {
+            "domain": "default",
+            "utterance": "Is it possible for you to generate an RFP for me?",
+            "intent": "generate.rfp"
+          },
+          {
+            "domain": "default",
+            "utterance": "Could you kindly generate an RFP for me?",
+            "intent": "generate.rfp"
+          },
+          {
+            "domain": "default",
+            "utterance": "Can you assist me in generating an RFP?",
+            "intent": "generate.rfp"
+          },
+          {
+            "domain": "default",
+            "utterance": "Would you be able to help me generate an RFP?",
+            "intent": "generate.rfp"
+          },
+          {
+            "domain": "default",
+            "utterance": "Could you generate an RFP, please?",
+            "intent": "generate.rfp"
+          },
+          {
+            "domain": "default",
+            "utterance": "Can you draft an RFP for me?",
+            "intent": "generate.rfp"
+          },
+          {
+            "domain": "default",
+            "utterance": "Would you be willing to generate an RFP for me?",
+            "intent": "generate.rfp"
+          },
+          {
+            "domain": "default",
+            "utterance": "Could you generate an RFP document for me?",
+            "intent": "generate.rfp"
+          },
+          {
+            "domain": "default",
+            "utterance": "Can you produce an RFP for me?",
+            "intent": "generate.rfp"
+          },
+          {
+            "domain": "default",
+            "utterance": "Would you be so kind as to create an RFP for me?",
+            "intent": "generate.rfp"
+          },
+          {
+            "domain": "default",
+            "utterance": "Could you help me draft an RFP?",
+            "intent": "generate.rfp"
+          },
+          {
+            "domain": "default",
+            "utterance": "Can you provide me with an RFP?",
+            "intent": "generate.rfp"
+          },
+          {
+            "domain": "default",
+            "utterance": "Would you be able to draft an RFP for me?",
+            "intent": "generate.rfp"
+          },
+          {
+            "domain": "default",
+            "utterance": "Could you create an RFP on my behalf?",
+            "intent": "generate.rfp"
+          },
+          {
+            "domain": "default",
+            "utterance": "Can you prepare an RFP for me?",
+            "intent": "generate.rfp"
+          },
+          {
+            "domain": "default",
+            "utterance": "Would you mind drafting an RFP for me?",
+            "intent": "generate.rfp"
+          },
+          {
+            "domain": "default",
+            "utterance": "Could you generate an RFP, if possible?",
+            "intent": "generate.rfp"
+          },
+          {
+            "domain": "default",
+            "utterance": "Can you generate it in a new tab portal",
+            "intent": "portal"
+          },
+          {
+            "domain": "default",
+            "utterance": "Can you open it in a new tab portal, please?",
+            "intent": "portal"
+          },
+          {
+            "domain": "default",
+            "utterance": "Could you generate it in a new tab portal, please?",
+            "intent": "portal"
+          },
+          {
+            "domain": "default",
+            "utterance": "Would you mind generating it in a new tab portal?",
+            "intent": "portal"
+          },
+          {
+            "domain": "default",
+            "utterance": "Is it possible to generate it in a new tab portal?",
+            "intent": "portal"
+          },
+          {
+            "domain": "default",
+            "utterance": "Could you please open it in a new tab portal?",
+            "intent": "portal"
+          },
+          {
+            "domain": "default",
+            "utterance": "Would you kindly generate it in a new tab portal?",
+            "intent": "portal"
+          },
+          {
+            "domain": "default",
+            "utterance": "Can you please generate it in a new tab portal?",
+            "intent": "portal"
+          },
+          {
+            "domain": "default",
+            "utterance": "Would it be possible to generate it in a new tab portal?",
+            "intent": "portal"
+          },
+          {
+            "domain": "default",
+            "utterance": "Could you please open it in a new tab portal for me?",
+            "intent": "portal"
+          },
+          {
+            "domain": "default",
+            "utterance": "Would you be able to generate it in a new tab portal?",
+            "intent": "portal"
+          },
+          {
+            "domain": "default",
+            "utterance": "Is there a way to generate it in a new tab portal?",
+            "intent": "portal"
+          },
+          {
+            "domain": "default",
+            "utterance": "Can you generate it so it opens in a new tab portal?",
+            "intent": "portal"
+          },
+          {
+            "domain": "default",
+            "utterance": "Could you generate it in a portal that opens in a new tab?",
+            "intent": "portal"
+          },
+          {
+            "domain": "default",
+            "utterance": "Can you generate it in a new tab portal, if possible?",
+            "intent": "portal"
+          },
+          {
+            "domain": "default",
+            "utterance": "Would you be able to generate it in a new tab portal for me?",
+            "intent": "portal"
+          },
+          {
+            "domain": "default",
+            "utterance": "Can you open it in a new tab portal, if that's feasible?",
+            "intent": "portal"
+          },
+          {
+            "domain": "default",
+            "utterance": "Would you be so kind as to generate it in a new tab portal?",
+            "intent": "portal"
+          },
+          {
+            "domain": "default",
+            "utterance": "Can you generate it in a new tab portal, if that's convenient?",
+            "intent": "portal"
+          },
+          {
+            "domain": "default",
+            "utterance": "Could you please generate it in a new tab portal, if that's an option?",
+            "intent": "portal"
+          },
+          {
+            "domain": "default",
+            "utterance": "Can you generate it in a new tab portal, if that's doable?",
+            "intent": "portal"
           }
         ],
         "domains": {
@@ -2268,6 +3205,7 @@
               "log": true
             },
             "features": {
+              "2": 1,
               "hello": 1,
               "ana": 1,
               "hi": 1,
@@ -2429,14 +3367,102 @@
               "establish": 1,
               "set": 1,
               "up": 1,
-              "solut": 1
+              "solut": 1,
+              "propos": 1,
+              "negoti": 1,
+              "strategi": 1,
+              "what": 1,
+              "tactic": 1,
+              "plan": 1,
+              "i": 1,
+              "am": 1,
+              "seek": 1,
+              "ani": 1,
+              "suggest": 1,
+              "look": 1,
+              "insight": 1,
+              "your": 1,
+              "inquir": 1,
+              "about": 1,
+              "effect": 1,
+              "idea": 1,
+              "approach": 1,
+              "do": 1,
+              "advis": 1,
+              "techniqu": 1,
+              "method": 1,
+              "perspect": 1,
+              "interest": 1,
+              "learn": 1,
+              "should": 1,
+              "employ": 1,
+              "ask": 1,
+              "think": 1,
+              "curious": 1,
+              "hear": 1,
+              "top": 1,
+              "two": 1,
+              "initi": 1,
+              "advoc": 1,
+              "contact": 1,
+              "engag": 1,
+              "encourag": 1,
+              "display": 1,
+              "chart": 1,
+              "illustr": 1,
+              "total": 1,
+              "cost": 1,
+              "ownership": 1,
+              "tco": 1,
+              "various": 1,
+              "depict": 1,
+              "across": 1,
+              "differ": 1,
+              "exhibit": 1,
+              "showcas": 1,
+              "comparison": 1,
+              "demonstr": 1,
+              "variat": 1,
+              "among": 1,
+              "each": 1,
+              "visual": 1,
+              "breakdown": 1,
+              "indic": 1,
+              "analysi": 1,
+              "show": 1,
+              "varianc": 1,
+              "same": 1,
+              "me": 1,
+              "rfp": 1,
+              "draft": 1,
+              "document": 1,
+              "produc": 1,
+              "so": 1,
+              "as": 1,
+              "my": 1,
+              "behalf": 1,
+              "prepar": 1,
+              "if": 1,
+              "new": 1,
+              "tab": 1,
+              "portal": 1,
+              "open": 1,
+              "way": 1,
+              "conveni": 1,
+              "option": 1,
+              "doabl": 1
             },
             "intents": {
               "greetings": 1,
               "list.requirements": 1,
               "add.requirement": 1,
               "send.team": 1,
-              "list.vendors": 1
+              "list.vendors": 1,
+              "strategy": 1,
+              "propose.vendors": 1,
+              "chart.TCO": 1,
+              "generate.rfp": 1,
+              "portal": 1
             },
             "intentFeatures": {
               "greetings": {
@@ -2651,9 +3677,203 @@
                 "set": 1,
                 "up": 1,
                 "solut": 1
+              },
+              "strategy": {
+                "could": 1,
+                "you": 1,
+                "propos": 1,
+                "a": 1,
+                "negoti": 1,
+                "strategi": 1,
+                "for": 1,
+                "what": 1,
+                "tactic": 1,
+                "would": 1,
+                "recommend": 1,
+                "outlin": 1,
+                "plan": 1,
+                "i": 1,
+                "am": 1,
+                "seek": 1,
+                "advic": 1,
+                "on": 1,
+                "ani": 1,
+                "suggest": 1,
+                "look": 1,
+                "insight": 1,
+                "is": 1,
+                "your": 1,
+                "inquir": 1,
+                "about": 1,
+                "effect": 1,
+                "idea": 1,
+                "approach": 1,
+                "to": 1,
+                "do": 1,
+                "advis": 1,
+                "can": 1,
+                "provid": 1,
+                "guidanc": 1,
+                "techniqu": 1,
+                "method": 1,
+                "perspect": 1,
+                "interest": 1,
+                "in": 1,
+                "learn": 1,
+                "should": 1,
+                "be": 1,
+                "employ": 1,
+                "ask": 1,
+                "input": 1,
+                "take": 1,
+                "think": 1,
+                "are": 1,
+                "curious": 1,
+                "thought": 1,
+                "hear": 1
+              },
+              "propose.vendors": {
+                "2": 1,
+                "propos": 1,
+                "communic": 1,
+                "with": 1,
+                "the": 1,
+                "top": 1,
+                "vendor": 1,
+                "suggest": 1,
+                "two": 1,
+                "initi": 1,
+                "recommend": 1,
+                "reach": 1,
+                "out": 1,
+                "to": 1,
+                "for": 1,
+                "advoc": 1,
+                "contact": 1,
+                "put": 1,
+                "forward": 1,
+                "a": 1,
+                "engag": 1,
+                "advis": 1,
+                "on": 1,
+                "encourag": 1
+              },
+              "chart.TCO": {
+                "display": 1,
+                "a": 1,
+                "chart": 1,
+                "illustr": 1,
+                "the": 1,
+                "total": 1,
+                "cost": 1,
+                "of": 1,
+                "ownership": 1,
+                "tco": 1,
+                "for": 1,
+                "various": 1,
+                "propos": 1,
+                "present": 1,
+                "depict": 1,
+                "across": 1,
+                "differ": 1,
+                "exhibit": 1,
+                "showcas": 1,
+                "comparison": 1,
+                "demonstr": 1,
+                "variat": 1,
+                "among": 1,
+                "outlin": 1,
+                "each": 1,
+                "provid": 1,
+                "visual": 1,
+                "breakdown": 1,
+                "indic": 1,
+                "analysi": 1,
+                "show": 1,
+                "detail": 1,
+                "varianc": 1,
+                "distribut": 1
+              },
+              "generate.rfp": {
+                "do": 1,
+                "the": 1,
+                "same": 1,
+                "can": 1,
+                "you": 1,
+                "generat": 1,
+                "me": 1,
+                "an": 1,
+                "rfp": 1,
+                "could": 1,
+                "pleas": 1,
+                "for": 1,
+                "creat": 1,
+                "would": 1,
+                "mind": 1,
+                "is": 1,
+                "it": 1,
+                "possibl": 1,
+                "to": 1,
+                "kind": 1,
+                "assist": 1,
+                "in": 1,
+                "be": 1,
+                "abl": 1,
+                "help": 1,
+                "draft": 1,
+                "will": 1,
+                "document": 1,
+                "produc": 1,
+                "so": 1,
+                "as": 1,
+                "provid": 1,
+                "with": 1,
+                "on": 1,
+                "my": 1,
+                "behalf": 1,
+                "prepar": 1,
+                "if": 1
+              },
+              "portal": {
+                "can": 1,
+                "you": 1,
+                "generat": 1,
+                "it": 1,
+                "in": 1,
+                "a": 1,
+                "new": 1,
+                "tab": 1,
+                "portal": 1,
+                "open": 1,
+                "pleas": 1,
+                "could": 1,
+                "would": 1,
+                "mind": 1,
+                "is": 1,
+                "possibl": 1,
+                "to": 1,
+                "kind": 1,
+                "be": 1,
+                "for": 1,
+                "me": 1,
+                "abl": 1,
+                "there": 1,
+                "way": 1,
+                "so": 1,
+                "that": 1,
+                "if": 1,
+                "feasibl": 1,
+                "as": 1,
+                "conveni": 1,
+                "an": 1,
+                "option": 1,
+                "doabl": 1
               }
             },
             "featuresToIntent": {
+              "2": [
+                "propose.vendors"
+              ],
               "hello": [
                 "greetings"
               ],
@@ -2685,13 +3905,22 @@
                 "list.requirements",
                 "add.requirement",
                 "send.team",
-                "list.vendors"
+                "list.vendors",
+                "strategy",
+                "propose.vendors",
+                "chart.TCO",
+                "generate.rfp",
+                "portal"
               ],
               "a": [
                 "list.requirements",
                 "add.requirement",
                 "send.team",
-                "list.vendors"
+                "list.vendors",
+                "strategy",
+                "propose.vendors",
+                "chart.TCO",
+                "portal"
               ],
               "talent": [
                 "list.requirements",
@@ -2706,7 +3935,9 @@
                 "list.vendors"
               ],
               "an": [
-                "list.requirements"
+                "list.requirements",
+                "generate.rfp",
+                "portal"
               ],
               "enumer": [
                 "list.requirements"
@@ -2720,30 +3951,42 @@
               ],
               "outlin": [
                 "list.requirements",
-                "list.vendors"
+                "list.vendors",
+                "strategy",
+                "chart.TCO"
               ],
               "the": [
                 "list.requirements",
-                "send.team"
+                "send.team",
+                "propose.vendors",
+                "chart.TCO",
+                "generate.rfp"
               ],
               "of": [
                 "list.requirements",
                 "send.team",
-                "list.vendors"
+                "list.vendors",
+                "chart.TCO"
               ],
               "provid": [
                 "list.requirements",
                 "send.team",
-                "list.vendors"
+                "list.vendors",
+                "strategy",
+                "chart.TCO",
+                "generate.rfp"
               ],
               "detail": [
-                "list.requirements"
+                "list.requirements",
+                "chart.TCO"
               ],
               "present": [
-                "list.requirements"
+                "list.requirements",
+                "chart.TCO"
               ],
               "out": [
-                "list.requirements"
+                "list.requirements",
+                "propose.vendors"
               ],
               "highlight": [
                 "list.requirements"
@@ -2759,7 +4002,10 @@
               ],
               "on": [
                 "list.requirements",
-                "send.team"
+                "send.team",
+                "strategy",
+                "propose.vendors",
+                "generate.rfp"
               ],
               "overview": [
                 "list.requirements"
@@ -2767,12 +4013,18 @@
               "can": [
                 "add.requirement",
                 "send.team",
-                "list.vendors"
+                "list.vendors",
+                "strategy",
+                "generate.rfp",
+                "portal"
               ],
               "you": [
                 "add.requirement",
                 "send.team",
-                "list.vendors"
+                "list.vendors",
+                "strategy",
+                "generate.rfp",
+                "portal"
               ],
               "add": [
                 "add.requirement"
@@ -2793,25 +4045,39 @@
               "could": [
                 "add.requirement",
                 "send.team",
-                "list.vendors"
+                "list.vendors",
+                "strategy",
+                "generate.rfp",
+                "portal"
               ],
               "featur": [
                 "add.requirement"
               ],
               "is": [
-                "add.requirement"
+                "add.requirement",
+                "strategy",
+                "generate.rfp",
+                "portal"
               ],
               "it": [
-                "add.requirement"
+                "add.requirement",
+                "generate.rfp",
+                "portal"
               ],
               "possibl": [
                 "add.requirement",
-                "list.vendors"
+                "list.vendors",
+                "generate.rfp",
+                "portal"
               ],
               "to": [
                 "add.requirement",
                 "send.team",
-                "list.vendors"
+                "list.vendors",
+                "strategy",
+                "propose.vendors",
+                "generate.rfp",
+                "portal"
               ],
               "condit": [
                 "add.requirement"
@@ -2828,12 +4094,17 @@
               "would": [
                 "add.requirement",
                 "send.team",
-                "list.vendors"
+                "list.vendors",
+                "strategy",
+                "generate.rfp",
+                "portal"
               ],
               "mind": [
                 "add.requirement",
                 "send.team",
-                "list.vendors"
+                "list.vendors",
+                "generate.rfp",
+                "portal"
               ],
               "ad": [
                 "add.requirement"
@@ -2850,13 +4121,17 @@
               "be": [
                 "add.requirement",
                 "send.team",
-                "list.vendors"
+                "list.vendors",
+                "strategy",
+                "generate.rfp",
+                "portal"
               ],
               "viabl": [
                 "add.requirement"
               ],
               "feasibl": [
-                "add.requirement"
+                "add.requirement",
+                "portal"
               ],
               "incorpor": [
                 "add.requirement"
@@ -2874,7 +4149,8 @@
                 "add.requirement"
               ],
               "there": [
-                "add.requirement"
+                "add.requirement",
+                "portal"
               ],
               "introduc": [
                 "add.requirement"
@@ -2886,7 +4162,8 @@
                 "add.requirement"
               ],
               "distribut": [
-                "send.team"
+                "send.team",
+                "chart.TCO"
               ],
               "these": [
                 "send.team"
@@ -2910,7 +4187,8 @@
                 "send.team"
               ],
               "input": [
-                "send.team"
+                "send.team",
+                "strategy"
               ],
               "send": [
                 "send.team"
@@ -2919,7 +4197,8 @@
                 "send.team"
               ],
               "forward": [
-                "send.team"
+                "send.team",
+                "propose.vendors"
               ],
               "comment": [
                 "send.team"
@@ -2928,17 +4207,22 @@
                 "send.team"
               ],
               "with": [
-                "send.team"
+                "send.team",
+                "propose.vendors",
+                "generate.rfp"
               ],
               "gather": [
                 "send.team",
                 "list.vendors"
               ],
               "thought": [
-                "send.team"
+                "send.team",
+                "strategy"
               ],
               "pleas": [
-                "send.team"
+                "send.team",
+                "generate.rfp",
+                "portal"
               ],
               "dissemin": [
                 "send.team"
@@ -2960,13 +4244,16 @@
               ],
               "abl": [
                 "send.team",
-                "list.vendors"
+                "list.vendors",
+                "generate.rfp",
+                "portal"
               ],
               "convey": [
                 "send.team"
               ],
               "communic": [
-                "send.team"
+                "send.team",
+                "propose.vendors"
               ],
               "request": [
                 "send.team"
@@ -2978,10 +4265,13 @@
                 "send.team"
               ],
               "reach": [
-                "send.team"
+                "send.team",
+                "propose.vendors"
               ],
               "kind": [
-                "send.team"
+                "send.team",
+                "generate.rfp",
+                "portal"
               ],
               "deliv": [
                 "send.team"
@@ -2990,10 +4280,12 @@
                 "send.team"
               ],
               "that": [
-                "send.team"
+                "send.team",
+                "portal"
               ],
               "are": [
-                "send.team"
+                "send.team",
+                "strategy"
               ],
               "sent": [
                 "send.team"
@@ -3016,7 +4308,8 @@
                 "send.team"
               ],
               "take": [
-                "send.team"
+                "send.team",
+                "strategy"
               ],
               "charg": [
                 "send.team"
@@ -3034,10 +4327,14 @@
                 "send.team"
               ],
               "assist": [
-                "send.team"
+                "send.team",
+                "generate.rfp"
               ],
               "in": [
-                "send.team"
+                "send.team",
+                "strategy",
+                "generate.rfp",
+                "portal"
               ],
               "support": [
                 "send.team"
@@ -3046,7 +4343,8 @@
                 "send.team"
               ],
               "help": [
-                "send.team"
+                "send.team",
+                "generate.rfp"
               ],
               "contribut": [
                 "send.team"
@@ -3077,7 +4375,8 @@
                 "send.team"
               ],
               "will": [
-                "send.team"
+                "send.team",
+                "generate.rfp"
               ],
               "lend": [
                 "send.team"
@@ -3101,22 +4400,27 @@
                 "send.team"
               ],
               "guidanc": [
-                "send.team"
+                "send.team",
+                "strategy"
               ],
               "direct": [
                 "send.team"
               ],
               "advic": [
-                "send.team"
+                "send.team",
+                "strategy"
               ],
               "recommend": [
-                "send.team"
+                "send.team",
+                "strategy",
+                "propose.vendors"
               ],
               "potenti": [
                 "list.vendors"
               ],
               "vendor": [
-                "list.vendors"
+                "list.vendors",
+                "propose.vendors"
               ],
               "compil": [
                 "list.vendors"
@@ -3134,16 +4438,20 @@
                 "list.vendors"
               ],
               "creat": [
-                "list.vendors"
+                "list.vendors",
+                "generate.rfp"
               ],
               "generat": [
-                "list.vendors"
+                "list.vendors",
+                "generate.rfp",
+                "portal"
               ],
               "rundown": [
                 "list.vendors"
               ],
               "put": [
-                "list.vendors"
+                "list.vendors",
+                "propose.vendors"
               ],
               "curat": [
                 "list.vendors"
@@ -3180,6 +4488,264 @@
               ],
               "solut": [
                 "list.vendors"
+              ],
+              "propos": [
+                "strategy",
+                "propose.vendors",
+                "chart.TCO"
+              ],
+              "negoti": [
+                "strategy"
+              ],
+              "strategi": [
+                "strategy"
+              ],
+              "what": [
+                "strategy"
+              ],
+              "tactic": [
+                "strategy"
+              ],
+              "plan": [
+                "strategy"
+              ],
+              "i": [
+                "strategy"
+              ],
+              "am": [
+                "strategy"
+              ],
+              "seek": [
+                "strategy"
+              ],
+              "ani": [
+                "strategy"
+              ],
+              "suggest": [
+                "strategy",
+                "propose.vendors"
+              ],
+              "look": [
+                "strategy"
+              ],
+              "insight": [
+                "strategy"
+              ],
+              "your": [
+                "strategy"
+              ],
+              "inquir": [
+                "strategy"
+              ],
+              "about": [
+                "strategy"
+              ],
+              "effect": [
+                "strategy"
+              ],
+              "idea": [
+                "strategy"
+              ],
+              "approach": [
+                "strategy"
+              ],
+              "do": [
+                "strategy",
+                "generate.rfp"
+              ],
+              "advis": [
+                "strategy",
+                "propose.vendors"
+              ],
+              "techniqu": [
+                "strategy"
+              ],
+              "method": [
+                "strategy"
+              ],
+              "perspect": [
+                "strategy"
+              ],
+              "interest": [
+                "strategy"
+              ],
+              "learn": [
+                "strategy"
+              ],
+              "should": [
+                "strategy"
+              ],
+              "employ": [
+                "strategy"
+              ],
+              "ask": [
+                "strategy"
+              ],
+              "think": [
+                "strategy"
+              ],
+              "curious": [
+                "strategy"
+              ],
+              "hear": [
+                "strategy"
+              ],
+              "top": [
+                "propose.vendors"
+              ],
+              "two": [
+                "propose.vendors"
+              ],
+              "initi": [
+                "propose.vendors"
+              ],
+              "advoc": [
+                "propose.vendors"
+              ],
+              "contact": [
+                "propose.vendors"
+              ],
+              "engag": [
+                "propose.vendors"
+              ],
+              "encourag": [
+                "propose.vendors"
+              ],
+              "display": [
+                "chart.TCO"
+              ],
+              "chart": [
+                "chart.TCO"
+              ],
+              "illustr": [
+                "chart.TCO"
+              ],
+              "total": [
+                "chart.TCO"
+              ],
+              "cost": [
+                "chart.TCO"
+              ],
+              "ownership": [
+                "chart.TCO"
+              ],
+              "tco": [
+                "chart.TCO"
+              ],
+              "various": [
+                "chart.TCO"
+              ],
+              "depict": [
+                "chart.TCO"
+              ],
+              "across": [
+                "chart.TCO"
+              ],
+              "differ": [
+                "chart.TCO"
+              ],
+              "exhibit": [
+                "chart.TCO"
+              ],
+              "showcas": [
+                "chart.TCO"
+              ],
+              "comparison": [
+                "chart.TCO"
+              ],
+              "demonstr": [
+                "chart.TCO"
+              ],
+              "variat": [
+                "chart.TCO"
+              ],
+              "among": [
+                "chart.TCO"
+              ],
+              "each": [
+                "chart.TCO"
+              ],
+              "visual": [
+                "chart.TCO"
+              ],
+              "breakdown": [
+                "chart.TCO"
+              ],
+              "indic": [
+                "chart.TCO"
+              ],
+              "analysi": [
+                "chart.TCO"
+              ],
+              "show": [
+                "chart.TCO"
+              ],
+              "varianc": [
+                "chart.TCO"
+              ],
+              "same": [
+                "generate.rfp"
+              ],
+              "me": [
+                "generate.rfp",
+                "portal"
+              ],
+              "rfp": [
+                "generate.rfp"
+              ],
+              "draft": [
+                "generate.rfp"
+              ],
+              "document": [
+                "generate.rfp"
+              ],
+              "produc": [
+                "generate.rfp"
+              ],
+              "so": [
+                "generate.rfp",
+                "portal"
+              ],
+              "as": [
+                "generate.rfp",
+                "portal"
+              ],
+              "my": [
+                "generate.rfp"
+              ],
+              "behalf": [
+                "generate.rfp"
+              ],
+              "prepar": [
+                "generate.rfp"
+              ],
+              "if": [
+                "generate.rfp",
+                "portal"
+              ],
+              "new": [
+                "portal"
+              ],
+              "tab": [
+                "portal"
+              ],
+              "portal": [
+                "portal"
+              ],
+              "open": [
+                "portal"
+              ],
+              "way": [
+                "portal"
+              ],
+              "conveni": [
+                "portal"
+              ],
+              "option": [
+                "portal"
+              ],
+              "doabl": [
+                "portal"
               ]
             },
             "neuralNetwork": {
@@ -3356,114 +4922,207 @@
                 "establish",
                 "set",
                 "up",
-                "solut"
+                "solut",
+                "propos",
+                "negoti",
+                "strategi",
+                "what",
+                "tactic",
+                "plan",
+                "i",
+                "am",
+                "seek",
+                "ani",
+                "suggest",
+                "look",
+                "insight",
+                "your",
+                "inquir",
+                "about",
+                "effect",
+                "idea",
+                "approach",
+                "do",
+                "advis",
+                "techniqu",
+                "method",
+                "perspect",
+                "interest",
+                "learn",
+                "should",
+                "employ",
+                "ask",
+                "think",
+                "curious",
+                "hear",
+                "2",
+                "top",
+                "two",
+                "initi",
+                "advoc",
+                "contact",
+                "engag",
+                "encourag",
+                "display",
+                "chart",
+                "illustr",
+                "total",
+                "cost",
+                "ownership",
+                "tco",
+                "various",
+                "depict",
+                "across",
+                "differ",
+                "exhibit",
+                "showcas",
+                "comparison",
+                "demonstr",
+                "variat",
+                "among",
+                "each",
+                "visual",
+                "breakdown",
+                "indic",
+                "analysi",
+                "show",
+                "varianc",
+                "same",
+                "me",
+                "rfp",
+                "draft",
+                "document",
+                "produc",
+                "so",
+                "as",
+                "my",
+                "behalf",
+                "prepar",
+                "if",
+                "new",
+                "tab",
+                "portal",
+                "open",
+                "way",
+                "conveni",
+                "option",
+                "doabl"
               ],
               "intents": [
                 "greetings",
                 "list.requirements",
                 "add.requirement",
                 "send.team",
-                "list.vendors"
+                "list.vendors",
+                "strategy",
+                "propose.vendors",
+                "chart.TCO",
+                "generate.rfp",
+                "portal"
               ],
               "perceptrons": [
                 [
-                  3.098417043685913,
-                  3.098417043685913,
-                  5.901320934295654,
-                  5.838144779205322,
-                  5.77379846572876,
-                  -0.5012509822845459,
-                  -1.1381903886795044,
-                  -1.7069817781448364,
-                  -2.9085681438446045,
-                  -1.0794451236724854,
-                  -0.3102002441883087,
-                  -0.5539235472679138,
-                  -2.9539246559143066,
-                  -0.36174917221069336,
-                  -0.888584315776825,
-                  -0.4778106212615967,
-                  -1.7130924463272095,
-                  -0.5025907158851624,
-                  -1.2640633583068848,
-                  -0.7427024245262146,
+                  3.6736931800842285,
+                  3.6736931800842285,
+                  6.425348281860352,
+                  6.315896034240723,
+                  6.206751346588135,
+                  -0.3800835907459259,
+                  -0.8701995611190796,
+                  -1.065719485282898,
+                  -3.077458381652832,
+                  -1.6961008310317993,
+                  -0.25340813398361206,
+                  -0.3840106725692749,
+                  -2.2923405170440674,
+                  -1.5805073976516724,
+                  -0.7939316630363464,
+                  -0.4038274586200714,
+                  -1.3632444143295288,
+                  -0.3873860239982605,
+                  -2.459362506866455,
+                  -0.4089829921722412,
+                  -0.21552780270576477,
+                  -0.19024614989757538,
+                  -0.6614258289337158,
+                  -0.27054333686828613,
                   0,
-                  -0.03335507959127426,
-                  -0.7033218741416931,
+                  -0.00954023189842701,
+                  -0.12687157094478607,
+                  -0.02146293595433235,
+                  -0.9403290748596191,
+                  0,
+                  -0.5669668912887573,
+                  -1.9025360345840454,
+                  -0.13378411531448364,
+                  -0.16719689965248108,
+                  -0.25892505049705505,
+                  -0.16719689965248108,
+                  -0.16719689965248108,
+                  -1.0913236141204834,
+                  -0.04323175549507141,
+                  -0.946124255657196,
+                  -0.5236800909042358,
+                  -0.3492528200149536,
+                  -0.8115488886833191,
+                  -0.014281363226473331,
+                  -0.00017823833331931382,
+                  -0.02734205685555935,
+                  -0.005546037573367357,
+                  -0.31829747557640076,
+                  -0.0049965642392635345,
+                  -0.003443681402131915,
+                  -0.007967917248606682,
                   0,
                   0,
-                  -0.037358928471803665,
+                  -0.5028015971183777,
+                  -0.0032961671240627766,
+                  -0.005546037573367357,
                   0,
-                  -0.24370774626731873,
-                  -0.24370774626731873,
                   0,
-                  -0.32677900791168213,
-                  -0.8181029558181763,
-                  -0.33211472630500793,
-                  -0.6734107136726379,
-                  -1.0765267610549927,
-                  -0.6734107136726379,
-                  -0.6734107136726379,
-                  -0.39300134778022766,
-                  -0.12729455530643463,
-                  -0.18230405449867249,
-                  -0.19953225553035736,
-                  -0.18230405449867249,
-                  -0.4763859212398529,
-                  -0.07453210651874542,
-                  -0.03533565625548363,
-                  -0.1651047319173813,
-                  -0.06435710191726685,
-                  -0.19704948365688324,
-                  -0.08623407781124115,
-                  -0.08345595002174377,
-                  -0.13527217507362366,
-                  -0.016182254999876022,
                   0,
-                  -0.09906595945358276,
-                  -0.03999997302889824,
-                  -0.0584094375371933,
-                  -0.016182254999876022,
-                  -0.0011059450916945934,
-                  -0.0015374856302514672,
-                  -0.010718020610511303,
-                  -0.06707434356212616,
-                  -0.08169391751289368,
-                  -0.14094939827919006,
                   0,
-                  -0.003140518441796303,
+                  0,
+                  -0.11019323766231537,
+                  -0.01908443495631218,
+                  0,
+                  0,
                   -0.0071871899999678135,
-                  -0.426283597946167,
-                  -0.426283597946167,
-                  -0.426283597946167,
-                  -0.426283597946167,
+                  -0.09280455857515335,
+                  -0.09280455857515335,
+                  -0.09280455857515335,
+                  -0.09280455857515335,
                   -0.0071871899999678135,
                   -0.003204206470400095,
-                  -0.4091978669166565,
+                  -0.07682202011346817,
                   -0.003204206470400095,
-                  -0.0017909937305375934,
-                  -0.0017909937305375934,
+                  -0.0008706645458005369,
+                  -0.0008706645458005369,
                   0,
-                  -0.1709020584821701,
-                  -0.2315121591091156,
-                  -0.2315121591091156,
-                  -0.2315121591091156,
-                  -0.2315121591091156,
+                  -0.011865186505019665,
+                  -0.04700513184070587,
+                  -1.049263834953308,
+                  -0.04700513184070587,
+                  -0.07672100514173508,
+                  -0.4666711688041687,
                   0,
                   0,
                   0,
                   0,
                   0,
                   0,
+                  -0.062414638698101044,
                   0,
+                  -0.893572211265564,
+                  -0.011865186505019665,
                   0,
                   0,
-                  -0.1709020584821701,
-                  -0.1709020584821701,
+                  -0.27054333686828613,
                   0,
                   0,
                   0,
                   0,
+                  -0.007114385720342398,
                   0,
                   0,
                   0,
@@ -3476,8 +5135,11 @@
                   0,
                   0,
                   0,
+                  -0.16095727682113647,
+                  -0.7296883463859558,
                   0,
                   0,
+                  -0.4265698194503784,
                   0,
                   0,
                   0,
@@ -3495,13 +5157,19 @@
                   0,
                   0,
                   0,
+                  -0.007911145687103271,
                   0,
+                  -0.31626683473587036,
+                  -0.7306903600692749,
                   0,
+                  -1.1440620422363281,
                   0,
                   0,
                   0,
                   0,
                   0,
+                  -0.19077731668949127,
+                  -1.0794906616210938,
                   0,
                   0,
                   0,
@@ -3516,106 +5184,175 @@
                   0,
                   0,
                   0,
+                  -1.0109453201293945,
+                  -1.6002917289733887,
+                  -0.6027620434761047,
+                  -1.0714972019195557,
+                  -0.6332692503929138,
+                  -0.0011240020394325256,
+                  -0.03253943845629692,
+                  -0.03253943845629692,
+                  -0.6509767174720764,
+                  -0.5060665607452393,
+                  -0.37408897280693054,
+                  -0.00857333280146122,
+                  -0.00857333280146122,
+                  -0.6825615167617798,
+                  -0.40424203872680664,
+                  -0.4574546813964844,
+                  -0.40424203872680664,
+                  -0.40424203872680664,
+                  -0.013456035405397415,
+                  -0.029044101014733315,
+                  -0.12062110006809235,
+                  -0.007911145687103271,
+                  -0.3307633399963379,
+                  -0.6023648977279663,
+                  -0.05149113014340401,
                   0,
+                  -0.2857040762901306,
+                  -0.2857040762901306,
                   0,
                   0,
                   0,
+                  -0.05149113014340401,
+                  -0.529510498046875,
+                  -1.1440620422363281,
+                  -0.6108689904212952,
+                  -0.1658855527639389,
                   0,
                   0,
                   0,
+                  -0.231832817196846,
+                  -0.10023532062768936,
+                  -0.717464804649353,
+                  -0.30515167117118835,
                   0,
                   0,
                   0,
+                  -0.717464804649353,
                   0,
+                  -0.16093847155570984,
+                  -0.3603224754333496,
+                  -0.286309152841568,
                   0,
                   0,
-                  8.29465048802765
+                  0,
+                  -0.17287728190422058,
+                  -0.17287728190422058,
+                  -0.35489436984062195,
+                  0,
+                  -0.09485036134719849,
+                  -0.12274575233459473,
+                  0,
+                  -0.019676323980093002,
+                  -0.1706390082836151,
+                  -0.10023532062768936,
+                  -0.021583905443549156,
+                  -0.763453483581543,
+                  -1.3627206087112427,
+                  -0.3416314721107483,
+                  0,
+                  0,
+                  0,
+                  0,
+                  -0.19077731668949127,
+                  -0.19077731668949127,
+                  0,
+                  -0.05796800181269646,
+                  -0.4804787039756775,
+                  -0.4804787039756775,
+                  -0.4804787039756775,
+                  -0.12082374840974808,
+                  -0.09526749700307846,
+                  0,
+                  0,
+                  0,
+                  7.435801836822161
                 ],
                 [
-                  -0.4606078565120697,
-                  -0.4606078565120697,
-                  -0.7637990117073059,
-                  -0.7526051998138428,
-                  -0.7413819432258606,
-                  0.6569635272026062,
-                  0.1696092039346695,
-                  4.755972862243652,
-                  1.4693418741226196,
-                  -0.08057381957769394,
-                  -0.02166033536195755,
-                  -0.01463992428034544,
-                  6.707213878631592,
-                  -0.07583504915237427,
-                  0.44436851143836975,
-                  0.41933485865592957,
-                  4.209970474243164,
-                  1.097614049911499,
-                  -0.006359799765050411,
-                  0.05566941201686859,
-                  -0.9540359377861023,
-                  0.19443373382091522,
-                  0.5936117768287659,
-                  -0.1508481502532959,
-                  0.15802694857120514,
-                  0.6458011269569397,
-                  0.18228471279144287,
-                  0.9637956619262695,
-                  0.9637956619262695,
-                  1.7976722717285156,
-                  -2.7745697498321533,
-                  -6.23521614074707,
-                  -1.1248290538787842,
-                  -1.433678388595581,
-                  -1.433678388595581,
-                  -1.433678388595581,
-                  -1.433678388595581,
-                  -2.3442203998565674,
+                  -0.3357512354850769,
+                  -0.3357512354850769,
+                  -0.5165106654167175,
+                  -0.5050752758979797,
+                  -0.49381157755851746,
+                  0.8892457485198975,
+                  0.2519899904727936,
+                  4.904717445373535,
+                  0.9032872319221497,
+                  -0.13377833366394043,
+                  0.06113860383629799,
+                  -0.005799907259643078,
+                  7.250725269317627,
+                  -0.044811610132455826,
+                  0.3641203045845032,
+                  0.523776650428772,
+                  4.723470211029053,
+                  1.041891098022461,
+                  -0.12510600686073303,
+                  -0.106548011302948,
+                  -0.6653488278388977,
+                  0.06103123724460602,
+                  0.31569579243659973,
+                  -0.35824230313301086,
+                  0.14573971927165985,
+                  0.5107365250587463,
+                  0.3630627393722534,
+                  1.060056209564209,
+                  0.6974642872810364,
+                  1.8470795154571533,
+                  -2.7518045902252197,
+                  -6.258617877960205,
+                  -1.108824610710144,
+                  -1.2664278745651245,
+                  -1.2664278745651245,
+                  -1.2664278745651245,
+                  -1.2664278745651245,
+                  -2.344292640686035,
                   -0.1287817358970642,
-                  -0.3674021363258362,
-                  -0.3674021363258362,
-                  -1.1588666439056396,
-                  -1.1715178489685059,
+                  -0.5149680376052856,
+                  -0.22843849658966064,
+                  -1.1772509813308716,
+                  -1.0802654027938843,
                   0,
                   0,
                   0,
                   0,
-                  -0.9953660368919373,
-                  -0.8447637557983398,
+                  -1.0062849521636963,
+                  -0.858845055103302,
                   -0.05595638230443001,
                   0,
                   0,
                   -0.05595638230443001,
+                  -0.15581673383712769,
                   0,
-                  -0.02464451640844345,
-                  -0.0007352595566771924,
                   0,
-                  -0.0007352595566771924,
-                  -0.02464451640844345,
                   0,
                   0,
                   0,
                   0,
                   0,
                   0,
-                  -0.3426286578178406,
-                  -0.8697870969772339,
-                  -0.8697870969772339,
-                  -0.8697870969772339,
-                  -0.8697870969772339,
-                  -0.3426286578178406,
-                  -0.19068951904773712,
-                  -0.32696276903152466,
-                  -0.24113249778747559,
-                  -0.05245128646492958,
-                  -0.05245128646492958,
                   0,
-                  -0.04169268161058426,
-                  -0.04169268161058426,
-                  -0.04169268161058426,
                   0,
                   0,
+                  -0.22717569768428802,
+                  -0.8247417211532593,
+                  -0.8247417211532593,
+                  -0.8247417211532593,
+                  -0.8247417211532593,
+                  -0.22717569768428802,
+                  -0.20228509604930878,
+                  -0.28511717915534973,
+                  -0.3112403452396393,
+                  -0.051450394093990326,
+                  -0.051450394093990326,
                   0,
+                  -0.017757972702383995,
+                  -0.017757972702383995,
+                  -0.13622327148914337,
                   0,
+                  -0.22877033054828644,
                   0,
                   0,
                   0,
@@ -3625,67 +5362,67 @@
                   0,
                   0,
                   0,
-                  -0.016300754621624947,
-                  -0.016300754621624947,
-                  -0.016300754621624947,
+                  -0.1066044345498085,
                   0,
+                  -0.0034427240025252104,
+                  -0.0034427240025252104,
+                  -0.0034427240025252104,
                   0,
                   0,
                   0,
                   0,
+                  -0.22877033054828644,
                   0,
                   0,
                   0,
                   0,
                   0,
                   0,
+                  -0.03174065425992012,
                   0,
                   0,
                   0,
                   0,
                   0,
                   0,
+                  -0.08350850641727448,
                   0,
-                  -0.04169268161058426,
-                  -0.0003338948590680957,
                   0,
                   0,
                   0,
-                  -0.007416378706693649,
-                  -0.007416378706693649,
                   0,
                   0,
                   0,
-                  -0.19436538219451904,
-                  -0.018920082598924637,
                   0,
                   0,
+                  -0.18747714161872864,
+                  -0.017757972702383995,
                   0,
                   0,
                   0,
                   0,
                   0,
                   0,
-                  -0.0003338948590680957,
                   0,
                   0,
                   0,
                   0,
-                  -2.1622073650360107,
-                  -2.973214626312256,
-                  -1.002608060836792,
-                  -1.002608060836792,
                   0,
                   0,
+                  -0.13578708469867706,
+                  -2.1791837215423584,
+                  -3.1285560131073,
+                  -0.9931656718254089,
+                  -0.9931656718254089,
                   0,
-                  -0.30174559354782104,
                   0,
                   0,
-                  -0.19436538219451904,
-                  -0.4106510281562805,
-                  -0.1320280283689499,
+                  -0.3061571717262268,
                   0,
                   0,
+                  -0.18747714161872864,
+                  -0.4369366466999054,
+                  -0.15313290059566498,
                   0,
                   0,
                   0,
@@ -3693,75 +5430,161 @@
                   0,
                   0,
                   0,
-                  -0.2651767432689667,
-                  0.8296078094144637
+                  0,
+                  0,
+                  -0.3038482964038849,
+                  -0.8618861436843872,
+                  -0.9385074973106384,
+                  -0.4163384735584259,
+                  -0.6582401990890503,
+                  -0.21069882810115814,
+                  0,
+                  0,
+                  0,
+                  -0.018373139202594757,
+                  -0.26295313239097595,
+                  -0.08116437494754791,
+                  0,
+                  0,
+                  -0.4703575670719147,
+                  -0.16156846284866333,
+                  -0.26295313239097595,
+                  -0.16156846284866333,
+                  -0.16156846284866333,
+                  -0.22877033054828644,
+                  0,
+                  -0.014022824354469776,
+                  0,
+                  -0.018373139202594757,
+                  -0.018373139202594757,
+                  -0.048973456025123596,
+                  0,
+                  -0.15581673383712769,
+                  -0.15581673383712769,
+                  -0.03174065425992012,
+                  0,
+                  0,
+                  -0.048973456025123596,
+                  -0.050237756222486496,
+                  -0.15411703288555145,
+                  -0.08528892695903778,
+                  -0.003300997195765376,
+                  -0.030436497181653976,
+                  -0.030436497181653976,
+                  0,
+                  0,
+                  -0.18138520419597626,
+                  -0.7927019596099854,
+                  -0.0003257145290262997,
+                  -0.0003257145290262997,
+                  -0.0003257145290262997,
+                  -0.0003257145290262997,
+                  -0.7927019596099854,
+                  -0.009543081745505333,
+                  -0.100574791431427,
+                  -0.100574791431427,
+                  -0.24588273465633392,
+                  -0.12912917137145996,
+                  -0.35296350717544556,
+                  -0.19713878631591797,
+                  -0.045550715178251266,
+                  0,
+                  0,
+                  -0.5043070912361145,
+                  0,
+                  -0.14721830189228058,
+                  -0.008932367898523808,
+                  -0.008932367898523808,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0.6149431553073632
                 ],
                 [
-                  -0.06711659580469131,
-                  -0.06711659580469131,
-                  -0.09784169495105743,
-                  -0.09685008227825165,
-                  -0.09581016004085541,
-                  -0.8346062898635864,
-                  -0.10668106377124786,
-                  0.16518619656562805,
-                  0.5571931600570679,
-                  1.347013235092163,
-                  -1.0910334587097168,
-                  -0.8584199547767639,
-                  -1.3554574251174927,
+                  -0.0030413137283176184,
+                  -0.0030413137283176184,
+                  -0.003723025554791093,
+                  -0.003578925272449851,
+                  -0.0034403770696371794,
+                  -0.6674658060073853,
+                  -0.03241535276174545,
+                  0.2457098811864853,
+                  0.333991676568985,
+                  1.0209466218948364,
+                  -0.8564016222953796,
+                  -0.7521290183067322,
+                  -0.9346186518669128,
+                  -0.11857417225837708,
+                  -0.07307932525873184,
+                  -0.049149706959724426,
+                  0.19920837879180908,
+                  -0.33791404962539673,
+                  -0.9763528108596802,
+                  -0.654373288154602,
+                  -0.3286747634410858,
                   0,
-                  -0.218160480260849,
-                  -0.15688686072826385,
-                  0.12276507169008255,
-                  -0.07269309461116791,
-                  -0.7510247230529785,
-                  -0.6645923852920532,
-                  -0.33366909623146057,
-                  0,
-                  -0.041129227727651596,
-                  0,
-                  0,
+                  -0.03569454699754715,
                   0,
                   0,
                   0,
                   0,
                   0,
-                  0.2297297716140747,
-                  0.4481129050254822,
-                  0.2794015109539032,
-                  2.791445732116699,
-                  2.791445732116699,
-                  2.791445732116699,
-                  2.791445732116699,
-                  0.2280530035495758,
-                  0.16792619228363037,
-                  0.40326982736587524,
-                  0.3268945813179016,
-                  0.2010352611541748,
-                  -0.19398453831672668,
-                  0.17167066037654877,
-                  0.16288945078849792,
-                  0.10535766184329987,
-                  0.1649998277425766,
-                  0.23371876776218414,
-                  0.02504240907728672,
-                  0.292971134185791,
-                  0.14882095158100128,
-                  0.16651538014411926,
-                  0.030112840235233307,
-                  0.17837828397750854,
-                  0.14624732732772827,
-                  0.14035889506340027,
-                  0.28194937109947205,
-                  0.27230367064476013,
-                  0.28105390071868896,
-                  0.2790949046611786,
-                  0.2824705243110657,
-                  0.31789928674697876,
-                  0.2829689383506775,
-                  0.27273818850517273,
-                  0.2671683430671692,
+                  -0.02049008198082447,
+                  0,
+                  0.029518330469727516,
+                  -0.1612996757030487,
+                  0.3096531927585602,
+                  3.128563404083252,
+                  3.128563404083252,
+                  3.128563404083252,
+                  3.128563404083252,
+                  0.027156496420502663,
+                  0.24910637736320496,
+                  0.15253762900829315,
+                  0.11766357719898224,
+                  0.1358249932527542,
+                  -0.4627529978752136,
+                  0.2494177520275116,
+                  0.24534529447555542,
+                  0.16782352328300476,
+                  0.24594883620738983,
+                  0.06371163576841354,
+                  0.0024910415522754192,
+                  0.32142719626426697,
+                  0.2328871637582779,
+                  0.24939124286174774,
+                  0.006321216467767954,
+                  0.09768712520599365,
+                  0.06773082166910172,
+                  0.06471037864685059,
+                  0.3163771629333496,
+                  0.3055424094200134,
+                  0.31540217995643616,
+                  0.31914854049682617,
+                  0.31028032302856445,
+                  0.12852030992507935,
+                  0.31869086623191833,
+                  0.30567896366119385,
+                  0.30674508213996887,
                   -0.22115005552768707,
                   -0.7510247230529785,
                   -0.7510247230529785,
@@ -3770,13 +5593,22 @@
                   -0.22115005552768707,
                   -0.1407778114080429,
                   -0.26233068108558655,
-                  -0.1407778114080429,
+                  -0.21525336802005768,
                   -0.025895526632666588,
                   -0.025895526632666588,
+                  -0.013625002466142178,
+                  -0.05116395652294159,
+                  -0.05116395652294159,
+                  -0.09037093818187714,
+                  -0.03253734111785889,
                   0,
-                  -0.05116395652294159,
-                  -0.05116395652294159,
-                  -0.05116395652294159,
+                  -0.05622129887342453,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
                   -0.03253734111785889,
                   0,
                   0,
@@ -3786,7 +5618,6 @@
                   0,
                   0,
                   0,
-                  -0.03253734111785889,
                   0,
                   0,
                   0,
@@ -3796,22 +5627,14 @@
                   0,
                   0,
                   0,
+                  -0.00408664345741272,
                   0,
                   0,
                   0,
                   0,
                   0,
                   0,
-                  0,
-                  0,
-                  0,
-                  0,
-                  0,
-                  0,
-                  0,
-                  0,
-                  0,
-                  -0.05116395652294159,
+                  -0.3977552354335785,
                   0,
                   0,
                   0,
@@ -3821,7 +5644,7 @@
                   0,
                   0,
                   0,
-                  -0.021414490416646004,
+                  -0.008779969997704029,
                   0,
                   0,
                   0,
@@ -3834,19 +5657,45 @@
                   0,
                   0,
                   0,
-                  0,
-                  0,
+                  -0.0004980826051905751,
+                  -0.07537379860877991,
                   -0.31201833486557007,
-                  -0.6990345120429993,
+                  -0.7292894124984741,
                   -0.11114922910928726,
                   -0.11114922910928726,
                   -0.03253734111785889,
                   0,
                   0,
+                  -0.005253711249679327,
+                  -0.347764253616333,
+                  0,
+                  -0.02652333304286003,
+                  -0.0013802407775074244,
                   0,
                   0,
                   0,
-                  -0.021414490416646004,
+                  0,
+                  0,
+                  0,
+                  -0.008779969997704029,
+                  0,
+                  0,
+                  0,
+                  -0.007965099066495895,
+                  -0.43867892026901245,
+                  -0.7313048243522644,
+                  -0.3434313237667084,
+                  -0.09075748920440674,
+                  -0.038528695702552795,
+                  -0.2375302016735077,
+                  0,
+                  0,
+                  -0.012379826046526432,
+                  0,
+                  -0.013625002466142178,
+                  0,
+                  0,
+                  -0.05569947883486748,
                   0,
                   0,
                   0,
@@ -3854,160 +5703,220 @@
                   0,
                   0,
                   0,
-                  -0.021048936992883682,
+                  0,
+                  -0.007921162061393261,
+                  -0.012379826046526432,
                   0,
                   0,
                   0,
-                  -0.010107025504112244,
-                  0.09766799477051
+                  0,
+                  -0.00408664345741272,
+                  0,
+                  0,
+                  0,
+                  -0.013625002466142178,
+                  -0.013625002466142178,
+                  0,
+                  0,
+                  0,
+                  0,
+                  -0.013625002466142178,
+                  0,
+                  -0.0025079133920371532,
+                  -0.07153210043907166,
+                  -0.0027217967435717583,
+                  0,
+                  0,
+                  0,
+                  -0.07153210043907166,
+                  -0.000020595613023033366,
+                  -0.02045806497335434,
+                  -0.01459908951073885,
+                  -0.05581779032945633,
+                  -0.03290078043937683,
+                  -0.03321966901421547,
+                  -0.03560198098421097,
+                  0,
+                  0,
+                  0,
+                  -0.0030171391554176807,
+                  0,
+                  -0.0025079133920371532,
+                  -0.000020595613023033366,
+                  -0.000020595613023033366,
+                  0,
+                  0,
+                  0,
+                  -0.14058859646320343,
+                  -0.11857417225837708,
+                  -0.001306672114878893,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  -0.29547736048698425,
+                  -0.29547736048698425,
+                  -0.29547736048698425,
+                  -0.04050922766327858,
+                  0,
+                  0,
+                  0,
+                  0,
+                  -0.005776748933480539
                 ],
                 [
-                  -0.027763022109866142,
-                  -0.027763022109866142,
-                  -0.027267027646303177,
-                  -0.026150047779083252,
-                  -0.025078801438212395,
-                  -0.753288745880127,
-                  -0.601428210735321,
-                  0.969967246055603,
-                  -0.056125808507204056,
-                  -0.6253357529640198,
-                  -0.6064212918281555,
-                  -0.80036461353302,
-                  -1.5389339923858643,
-                  -0.16487611830234528,
-                  -0.015372927300632,
-                  -0.07335774600505829,
-                  -0.07335774600505829,
-                  -0.19857187569141388,
-                  1.451115369796753,
-                  -0.6349532604217529,
-                  -0.25181546807289124,
-                  -0.07335774600505829,
-                  0,
-                  -0.14085248112678528,
-                  -0.22414539754390717,
-                  0,
-                  0,
-                  0,
-                  -0.10355211049318314,
-                  0,
-                  0.41259530186653137,
-                  1.0554510354995728,
-                  -0.32431989908218384,
-                  -0.5314217805862427,
-                  -0.08279479295015335,
-                  -0.5314217805862427,
-                  -0.5314217805862427,
-                  0.31520915031433105,
-                  -0.015042033046483994,
-                  0,
-                  0,
-                  0,
-                  0.6933701634407043,
-                  0,
-                  0,
-                  0,
-                  0,
-                  0.32532498240470886,
-                  0.6564146876335144,
-                  -0.03000585362315178,
-                  -0.03000585362315178,
-                  0,
-                  0,
-                  -0.2742984890937805,
-                  0,
-                  0,
-                  -0.0743093192577362,
-                  -0.06302198022603989,
                   0,
                   0,
                   0,
                   0,
                   0,
-                  0,
-                  0,
-                  0.31191569566726685,
-                  2.219806671142578,
-                  2.219806671142578,
-                  2.219806671142578,
-                  2.219806671142578,
-                  0.5889662504196167,
-                  0.26274678111076355,
-                  0.5631705522537231,
-                  0.4376576244831085,
-                  0.02780730463564396,
-                  0.4432046711444855,
-                  0.38298529386520386,
-                  0.2991873621940613,
-                  0.4747803211212158,
-                  0.4747803211212158,
-                  0.5783122181892395,
-                  -0.06753934174776077,
-                  0.25589174032211304,
-                  0.25589174032211304,
-                  0.25589174032211304,
-                  0.24586132168769836,
-                  0.24059341847896576,
-                  -0.02275051921606064,
-                  -0.02275051921606064,
-                  -0.2590324580669403,
-                  0.44444936513900757,
-                  0.10101431608200073,
-                  -0.26278120279312134,
-                  0.13355475664138794,
-                  0.13355475664138794,
-                  0.13355475664138794,
-                  -0.30207735300064087,
-                  -0.28594517707824707,
-                  -0.14629864692687988,
-                  -0.14629864692687988,
-                  -0.14629864692687988,
-                  -0.14629864692687988,
-                  -0.7659710049629211,
-                  -0.4580061435699463,
-                  -0.15448123216629028,
-                  -0.23701535165309906,
-                  0.08404596149921417,
-                  0.2500210702419281,
-                  0.2500210702419281,
-                  0.2102489322423935,
-                  0.563143253326416,
-                  0.09487148374319077,
-                  -0.15393976867198944,
-                  -0.051010724157094955,
-                  0.048487596213817596,
-                  -0.20565690100193024,
-                  -0.2726024091243744,
-                  -0.0030189312528818846,
-                  -0.0809265598654747,
-                  0.34418660402297974,
-                  0.34418660402297974,
-                  -0.080721415579319,
-                  -0.10355211049318314,
-                  0.03011298179626465,
-                  0.03011298179626465,
-                  0.03352353349328041,
-                  0.05254339054226875,
-                  0.1264931708574295,
-                  0.0717788115143776,
-                  0.25738289952278137,
-                  -0.1825547218322754,
-                  -0.02060537599027157,
-                  -0.2978672981262207,
-                  -0.026290826499462128,
-                  0.04396269470453262,
-                  0.08379791676998138,
-                  -0.20924842357635498,
-                  -0.1592218279838562,
-                  0.0027942941524088383,
-                  -0.29108908772468567,
+                  -0.6123706698417664,
+                  -0.5065402388572693,
+                  1.4441725015640259,
+                  -0.14607694745063782,
+                  -0.6255368590354919,
                   -0.4806376099586487,
+                  -0.5907788872718811,
+                  -1.2755742073059082,
+                  -0.3710390627384186,
+                  -0.011686639860272408,
+                  0,
+                  0,
+                  -0.25006046891212463,
+                  1.0875152349472046,
+                  -0.6055988073348999,
+                  -0.21944589912891388,
+                  0,
+                  -0.0032910038717091084,
+                  -0.2802034616470337,
+                  -0.24293817579746246,
+                  0,
+                  0,
+                  -0.0010292463703081012,
+                  -0.26596352458000183,
+                  0,
+                  0.32878249883651733,
+                  0.5622588992118835,
+                  -0.2338123321533203,
+                  -0.3348587155342102,
+                  -0.1314864158630371,
+                  -0.3348587155342102,
+                  -0.3348587155342102,
+                  0.2211751788854599,
+                  0,
+                  -0.10978877544403076,
+                  -0.11335182934999466,
+                  -0.02169320359826088,
+                  0.712398886680603,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0.20907366275787354,
+                  0.6543657183647156,
+                  0,
+                  0,
+                  0,
+                  0,
+                  -0.3492763042449951,
+                  -0.002673923270776868,
+                  -0.021181823685765266,
+                  -0.0449560172855854,
+                  -0.04009859636425972,
+                  -0.002673923270776868,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0.3684063255786896,
+                  2.423499584197998,
+                  2.423499584197998,
+                  2.423499584197998,
+                  2.423499584197998,
+                  0.6346162557601929,
+                  0.347107857465744,
+                  0.555668830871582,
+                  0.4759136736392975,
+                  0.01756756566464901,
+                  0.5235680341720581,
+                  0.39898553490638733,
+                  0.27737003564834595,
+                  0.5733249187469482,
+                  0.3053932189941406,
+                  0.41131606698036194,
+                  0.038274165242910385,
+                  0.2557998597621918,
+                  0.2557998597621918,
+                  0.2557998597621918,
+                  0.20605477690696716,
+                  0.11682292819023132,
+                  -0.16970723867416382,
+                  -0.16970723867416382,
+                  -0.4271180033683777,
+                  0.31428462266921997,
+                  -0.026530126109719276,
+                  -0.3432803153991699,
+                  0.1028350368142128,
+                  0.1028350368142128,
+                  -0.060518790036439896,
+                  -0.32972484827041626,
+                  -0.34262901544570923,
+                  -0.14084558188915253,
+                  -0.14084558188915253,
+                  -0.17581325769424438,
+                  -0.14084558188915253,
+                  -0.49582818150520325,
+                  -0.17955705523490906,
+                  -0.05146501585841179,
+                  -0.2256718873977661,
+                  0.07681086659431458,
+                  0.21745875477790833,
+                  0.2702370882034302,
+                  0.12244721502065659,
+                  0.5843852162361145,
+                  -0.07685025036334991,
+                  -0.184894859790802,
+                  -0.11724216490983963,
+                  0.07891964167356491,
+                  -0.164709210395813,
+                  -0.19449098408222198,
+                  0.07321690768003464,
+                  -0.05019814893603325,
+                  0.39550453424453735,
+                  0.39550453424453735,
+                  -0.12972423434257507,
+                  -0.10765393078327179,
+                  -0.0434005968272686,
+                  -0.0434005968272686,
+                  0.024464096873998642,
+                  -0.017737556248903275,
+                  0.028916729614138603,
+                  0.11170419305562973,
+                  0.30097705125808716,
+                  -0.0860762894153595,
+                  -0.028770629316568375,
+                  -0.31731054186820984,
+                  -0.08154651522636414,
+                  0.09554074704647064,
+                  0.06196126341819763,
+                  -0.22429300844669342,
+                  -0.24801263213157654,
+                  -0.03702168166637421,
+                  -0.29108908772468567,
+                  -1.0383942127227783,
                   -0.1010330393910408,
                   -0.1010330393910408,
                   -0.06309542804956436,
                   0,
                   0,
+                  -0.009849293157458305,
+                  -0.3072560429573059,
                   0,
                   0,
                   0,
@@ -4022,93 +5931,156 @@
                   0,
                   0,
                   0,
+                  -0.40502873063087463,
+                  -0.6217340230941772,
+                  -0.2394150346517563,
+                  -0.3707899749279022,
+                  -0.17117856442928314,
+                  -0.026383232325315475,
+                  -0.019967196509242058,
+                  -0.019967196509242058,
+                  -0.05873413383960724,
+                  -0.019967196509242058,
+                  -0.11440268158912659,
+                  -0.014283743686974049,
+                  -0.014283743686974049,
+                  -0.036956656724214554,
                   0,
                   0,
-                  -0.004505978299602002
+                  -0.023791540414094925,
+                  0,
+                  -0.07666017860174179,
+                  -0.31786611676216125,
+                  -0.07666017860174179,
+                  -0.023791540414094925,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  -0.036956656724214554,
+                  -0.023791540414094925,
+                  0,
+                  0,
+                  -0.25468170642852783,
+                  -0.40629369020462036,
+                  -0.12368883192539215,
+                  -0.017213627696037292,
+                  -0.020963290706276894,
+                  0,
+                  0,
+                  -0.025264084339141846,
+                  -0.0005066969315521419,
+                  -0.06224020943045616,
+                  -0.024099573493003845,
+                  0,
+                  0,
+                  0,
+                  -0.06224020943045616,
+                  0,
+                  -0.004407693166285753,
+                  -0.0018562045879662037,
+                  -0.027210412546992302,
+                  -0.020143555477261543,
+                  -0.028572864830493927,
+                  -0.008531756699085236,
+                  0,
+                  0,
+                  0,
+                  -0.022424539551138878,
+                  0,
+                  -0.0005066969315521419,
+                  -0.013235185295343399,
+                  0,
+                  0,
+                  0,
+                  -0.15794137120246887,
+                  -0.3023936450481415,
+                  -0.3023936450481415,
+                  -0.03040412999689579,
+                  0,
+                  0,
+                  -0.013794015161693096,
+                  -0.013794015161693096,
+                  0,
+                  0,
+                  0,
+                  0,
+                  -0.05212993919849396,
+                  -0.05212993919849396,
+                  -0.05212993919849396,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  -0.35736666315511206
                 ],
                 [
-                  -0.06426771730184555,
-                  -0.06426771730184555,
-                  -0.06321729719638824,
-                  -0.06063117831945419,
-                  -0.058150794357061386,
-                  -0.10742209851741791,
-                  -2.0038981437683105,
-                  -4.6401543617248535,
-                  -0.7456645965576172,
-                  -0.35057568550109863,
-                  1.1431832313537598,
-                  1.1630496978759766,
-                  0.6958779692649841,
-                  -0.5009492039680481,
-                  -1.114803671836853,
-                  -0.7290340662002563,
-                  -1.928006887435913,
-                  1.9651702642440796,
-                  -1.1747617721557617,
-                  2.016195058822632,
-                  0.8865488171577454,
-                  -0.0006929822848178446,
-                  -0.07647572457790375,
                   0,
                   0,
                   0,
                   0,
                   0,
+                  -0.08264991641044617,
+                  -2.0028464794158936,
+                  -5.2894158363342285,
+                  -1.0895887613296509,
+                  -0.7596085667610168,
+                  2.148909330368042,
+                  2.1640303134918213,
+                  1.9693052768707275,
+                  -2.0307703018188477,
+                  -1.3572680950164795,
+                  -0.7524968385696411,
+                  -1.936505675315857,
+                  1.9868605136871338,
+                  -1.7662534713745117,
+                  2.337430000305176,
+                  1.0953553915023804,
                   0,
-                  -0.0516667366027832,
-                  1.8346525430679321,
-                  5.248055458068848,
-                  -0.7779481410980225,
-                  -1.357337474822998,
-                  -1.3882709741592407,
-                  -1.357337474822998,
-                  -1.357337474822998,
-                  2.054900884628296,
-                  -0.36306431889533997,
+                  -0.27320238947868347,
+                  -0.17128732800483704,
                   0,
                   0,
-                  2.8534607887268066,
-                  0.2595357298851013,
-                  -0.2544611990451813,
-                  -0.1250864863395691,
                   0,
-                  -0.1202348917722702,
-                  1.3483891487121582,
-                  1.0809359550476074,
-                  -0.2459544539451599,
-                  -0.3118482232093811,
-                  -0.061829060316085815,
                   0,
-                  0.2607138156890869,
+                  -0.5891633629798889,
+                  -0.016425414010882378,
+                  1.6885982751846313,
+                  3.8921706676483154,
+                  -0.24894411861896515,
+                  -0.38588201999664307,
+                  -0.38588201999664307,
+                  -0.38588201999664307,
+                  -0.38588201999664307,
+                  1.342445969581604,
+                  -0.06467701494693756,
+                  -0.003063948592171073,
+                  -0.7363333106040955,
+                  2.9561805725097656,
+                  0.021460622549057007,
+                  -0.1256299614906311,
+                  -0.012676779180765152,
                   0,
+                  -0.04988308623433113,
+                  0.9816247820854187,
+                  1.0114407539367676,
+                  -0.08405204862356186,
+                  -0.09212712198495865,
                   0,
-                  -0.06213124096393585,
-                  -0.008015090599656105,
-                  -0.02045072428882122,
-                  -0.040824007242918015,
-                  -0.16012273728847504,
                   0,
+                  0.24858641624450684,
                   0,
-                  -0.0025287773460149765,
                   0,
-                  -0.0005890695611014962,
-                  -0.3018258512020111,
-                  -0.3018258512020111,
-                  -0.3018258512020111,
-                  -0.3018258512020111,
-                  -0.257813960313797,
                   0,
-                  -0.3018258512020111,
                   0,
+                  -0.01878243312239647,
                   0,
+                  -0.018954681232571602,
                   0,
                   0,
-                  -0.0005890695611014962,
-                  -0.28826409578323364,
-                  -0.28826409578323364,
-                  0.20635159313678741,
-                  -0.015466750599443913,
                   0,
                   0,
                   0,
@@ -4116,80 +6088,1428 @@
                   0,
                   0,
                   0,
-                  0.2607138156890869,
                   0,
                   0,
                   0,
                   0,
                   0,
                   0,
+                  -0.15346945822238922,
                   0,
                   0,
+                  -0.9117150902748108,
+                  0.5741017460823059,
                   0,
+                  -0.21692542731761932,
                   0,
                   0,
                   0,
-                  -0.3680836260318756,
-                  -0.1032666340470314,
                   0,
                   0,
                   0,
-                  -0.257813960313797,
-                  -0.257813960313797,
+                  0.25944846868515015,
                   0,
+                  -0.30686795711517334,
                   0,
                   0,
                   0,
-                  -0.0005890695611014962,
-                  -0.0005890695611014962,
+                  -0.17128732800483704,
                   0,
                   0,
                   0,
                   0,
                   0,
                   0,
+                  -0.7461202144622803,
+                  -0.23996934294700623,
                   0,
                   0,
                   0,
-                  0.42176201939582825,
                   0,
                   0,
                   0,
                   0,
                   0,
                   0,
+                  -0.034166499972343445,
+                  -0.7838380336761475,
                   0,
                   0,
+                  -0.01786969229578972,
                   0,
                   0,
                   0,
                   0,
                   0,
                   0,
-                  2.6341238021850586,
-                  1.7220726013183594,
-                  0.9409611225128174,
-                  1.416906476020813,
-                  0.2372850924730301,
-                  0.30009570717811584,
-                  0.30009570717811584,
-                  0.5054250955581665,
-                  0.4267539978027344,
-                  0.4267539978027344,
-                  0.42176201939582825,
-                  0.5030673742294312,
-                  0.29054227471351624,
-                  0.06873946636915207,
-                  0.3277798891067505,
-                  0.4710376262664795,
-                  -0.22999602556228638,
-                  -0.4706404507160187,
-                  -0.8105263113975525,
-                  0.04615103453397751,
-                  0.14111994206905365,
-                  0.14111994206905365,
-                  1.049881935119629,
-                  -0.6579690389462848
+                  0.5020855665206909,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  -0.522933304309845,
+                  0,
+                  -0.03337577357888222,
+                  -0.4261952042579651,
+                  3.1488001346588135,
+                  3.129733085632324,
+                  1.1341160535812378,
+                  1.8981115818023682,
+                  0.5741017460823059,
+                  0.4258948862552643,
+                  0.4258948862552643,
+                  0.449933260679245,
+                  -0.6880688071250916,
+                  0.8442443609237671,
+                  0.32417160272598267,
+                  0.5006781816482544,
+                  0.3393052816390991,
+                  -0.19997936487197876,
+                  -0.11767932772636414,
+                  -0.31840482354164124,
+                  -0.32121407985687256,
+                  -0.458618700504303,
+                  -0.8998857736587524,
+                  0.15364043414592743,
+                  0.41391751170158386,
+                  0.41391751170158386,
+                  0.9562849402427673,
+                  -0.8799550533294678,
+                  -2.4006388187408447,
+                  -0.594774603843689,
+                  -0.24536854028701782,
+                  -0.150538831949234,
+                  -0.778057873249054,
+                  -0.03337577357888222,
+                  -0.03337577357888222,
+                  -0.03337577357888222,
+                  -0.03337577357888222,
+                  -0.32451164722442627,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  -0.019560284912586212,
+                  -0.053298208862543106,
+                  -0.031559668481349945,
+                  -0.522933304309845,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  -0.3809528052806854,
+                  -0.7021169662475586,
+                  -0.2924022674560547,
+                  -0.01976519264280796,
+                  -0.11625447869300842,
+                  -0.10909825563430786,
+                  -0.09787190705537796,
+                  0,
+                  -0.10667947679758072,
+                  -0.10667947679758072,
+                  -0.10667947679758072,
+                  -0.10667947679758072,
+                  -0.10667947679758072,
+                  -0.10667947679758072,
+                  -0.10667947679758072,
+                  -0.10667947679758072,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  -0.019067710265517235,
+                  -0.8947392106056213,
+                  -1.818314790725708,
+                  -0.11955955624580383,
+                  0,
+                  -0.038151875138282776,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  -1.2654780149459839,
+                  -0.7302053570747375,
+                  -0.7302053570747375,
+                  -0.7302053570747375,
+                  -0.17777405679225922,
+                  0,
+                  0,
+                  0,
+                  0,
+                  -2.1569190125208046
+                ],
+                [
+                  -0.13350261747837067,
+                  -0.13350261747837067,
+                  -0.19484147429466248,
+                  -0.1914762258529663,
+                  -0.18811878561973572,
+                  -0.554807722568512,
+                  -0.411238431930542,
+                  -0.9303932785987854,
+                  1.581700086593628,
+                  -0.014417357742786407,
+                  -0.9730703234672546,
+                  -0.7475624680519104,
+                  -1.5419796705245972,
+                  -1.6176174879074097,
+                  -0.35420122742652893,
+                  -0.2149980217218399,
+                  -0.5200868844985962,
+                  0.8577228784561157,
+                  -2.4517481327056885,
+                  -0.7109489440917969,
+                  0.6981901526451111,
+                  0,
+                  -0.12014558166265488,
+                  -0.33306342363357544,
+                  0,
+                  0,
+                  -0.00031271707848645747,
+                  0,
+                  0.12433122843503952,
+                  0,
+                  0.40278005599975586,
+                  1.1670113801956177,
+                  -0.7466964721679688,
+                  -1.007910132408142,
+                  -1.007910132408142,
+                  -1.007910132408142,
+                  -1.007910132408142,
+                  1.0342562198638916,
+                  -0.3165857493877411,
+                  0.5785255432128906,
+                  -0.5551404356956482,
+                  -0.11057506501674652,
+                  -0.07283633202314377,
+                  -0.02943585440516472,
+                  -0.16537250578403473,
+                  0,
+                  0,
+                  -0.280982106924057,
+                  -0.3897012770175934,
+                  -0.0606992281973362,
+                  -0.04831505939364433,
+                  -0.08468154072761536,
+                  -0.005554603412747383,
+                  0.27895045280456543,
+                  0,
+                  -0.018389390781521797,
+                  -0.06207652390003204,
+                  -0.006044105160981417,
+                  0,
+                  -0.02943585440516472,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  -0.283164381980896,
+                  -0.283164381980896,
+                  -0.283164381980896,
+                  -0.283164381980896,
+                  -0.08902622014284134,
+                  -0.046054549515247345,
+                  -0.283164381980896,
+                  -0.4353582262992859,
+                  -0.002758923452347517,
+                  -0.07186365127563477,
+                  -0.09626460820436478,
+                  0,
+                  -0.031253088265657425,
+                  -0.5783860683441162,
+                  -0.20827803015708923,
+                  0.3732357919216156,
+                  -0.9116303324699402,
+                  0,
+                  0,
+                  0,
+                  0,
+                  -0.06252707540988922,
+                  -0.06252707540988922,
+                  -0.02162327989935875,
+                  0,
+                  -0.901318371295929,
+                  0,
+                  0,
+                  0,
+                  -0.33306342363357544,
+                  -0.08423378318548203,
+                  0,
+                  0,
+                  -0.018389390781521797,
+                  -0.015278791077435017,
+                  0,
+                  -0.031253088265657425,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0.06702813506126404,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  -0.054030194878578186,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  -0.002758923452347517,
+                  0,
+                  1.1269086599349976,
+                  0,
+                  -0.09629926085472107,
+                  -0.06356919556856155,
+                  -0.395346999168396,
+                  -1.3132535219192505,
+                  0,
+                  0,
+                  -0.20827803015708923,
+                  -0.14134912192821503,
+                  -0.14134912192821503,
+                  -0.47079741954803467,
+                  -1.2925904989242554,
+                  0,
+                  -0.09626460820436478,
+                  -0.010476711206138134,
+                  -0.004229020792990923,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0.4069131016731262,
+                  8.263486862182617,
+                  1.3216274976730347,
+                  1.49136483669281,
+                  1.7153335809707642,
+                  1.2244895696640015,
+                  0.28345367312431335,
+                  0.28345367312431335,
+                  0.4358914792537689,
+                  0.35525548458099365,
+                  0.26451340317726135,
+                  -0.022830596193671227,
+                  -0.022830596193671227,
+                  1.073125958442688,
+                  0.6921144127845764,
+                  0.9052889347076416,
+                  0.2501722276210785,
+                  0.6921144127845764,
+                  1.2101130485534668,
+                  -0.30856621265411377,
+                  0.7894574403762817,
+                  0.7618992924690247,
+                  1.6006531715393066,
+                  0.5949411392211914,
+                  0.581454336643219,
+                  -0.32246148586273193,
+                  0.4178873896598816,
+                  0.4178873896598816,
+                  -0.2605513334274292,
+                  -0.4414263665676117,
+                  -0.6933043003082275,
+                  0.9066343307495117,
+                  -0.636893630027771,
+                  -1.1738903522491455,
+                  -0.3405833840370178,
+                  -0.02587536908686161,
+                  -0.19645054638385773,
+                  -0.13085272908210754,
+                  -0.09626460820436478,
+                  0,
+                  -0.14479316771030426,
+                  -0.7283602356910706,
+                  -0.14479316771030426,
+                  -0.14479316771030426,
+                  -0.14479316771030426,
+                  -0.14479316771030426,
+                  -0.7283602356910706,
+                  -0.14479316771030426,
+                  0,
+                  0,
+                  -0.09889070689678192,
+                  -0.09889070689678192,
+                  -0.3058813810348511,
+                  -0.24309711158275604,
+                  -0.07003837823867798,
+                  0,
+                  0,
+                  -0.25169795751571655,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  -0.04126274958252907,
+                  -1.5566539764404297,
+                  -1.6176174879074097,
+                  -0.02162327989935875,
+                  -0.018481235951185226,
+                  0,
+                  -0.03026951663196087,
+                  -0.03026951663196087,
+                  -0.0788385346531868,
+                  -0.0788385346531868,
+                  0,
+                  -0.018389390781521797,
+                  -0.5166872143745422,
+                  -0.5166872143745422,
+                  -0.5166872143745422,
+                  -0.29398947954177856,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0.19492403395126923
+                ],
+                [
+                  -0.12171010673046112,
+                  -0.12171010673046112,
+                  -0.19368982315063477,
+                  -0.19023041427135468,
+                  -0.1867881715297699,
+                  -0.31070274114608765,
+                  -0.169702410697937,
+                  -0.8565806746482849,
+                  -0.5192579627037048,
+                  -0.6702253818511963,
+                  -0.21404632925987244,
+                  -0.42180126905441284,
+                  -0.9966781139373779,
+                  -0.5648261308670044,
+                  -0.044798947870731354,
+                  -0.23521052300930023,
+                  -0.39704474806785583,
+                  -0.21416319906711578,
+                  1.6682636737823486,
+                  -0.7172788381576538,
+                  -0.02922365441918373,
+                  -0.1947537213563919,
+                  -0.1435207724571228,
+                  0.5500274300575256,
+                  0,
+                  -0.08101336658000946,
+                  0,
+                  0,
+                  0.08419089764356613,
+                  0,
+                  -0.40693148970603943,
+                  -0.8164518475532532,
+                  0,
+                  0,
+                  -0.20099100470542908,
+                  0,
+                  0,
+                  -0.1748892068862915,
+                  0,
+                  -0.11688429862260818,
+                  -0.04125848785042763,
+                  -0.04366853088140488,
+                  0.4408019483089447,
+                  0,
+                  0,
+                  0,
+                  0,
+                  -0.11720225214958191,
+                  -0.003787775756791234,
+                  0,
+                  0,
+                  0,
+                  0,
+                  -0.11622506380081177,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  -0.0002772581356111914,
+                  0,
+                  0,
+                  0,
+                  -0.023725705221295357,
+                  -0.3493449091911316,
+                  -0.3493449091911316,
+                  -0.3493449091911316,
+                  -0.3493449091911316,
+                  -0.023725705221295357,
+                  -0.017842113971710205,
+                  -0.2943241596221924,
+                  -0.017842113971710205,
+                  -0.003787775756791234,
+                  -0.017092976719141006,
+                  0.6001604199409485,
+                  -0.08444087952375412,
+                  -0.10960695147514343,
+                  1.3123468160629272,
+                  -0.1633518487215042,
+                  -0.10960695147514343,
+                  -0.016427503898739815,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  -0.07793677598237991,
+                  0,
+                  0.6198096871376038,
+                  -0.08444087952375412,
+                  0,
+                  0,
+                  0.8503990173339844,
+                  -0.0074768345803022385,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  -0.011281244456768036,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  -0.10478363931179047,
+                  0,
+                  0,
+                  -0.021470563486218452,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  -0.0009964221389964223,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0.3654373586177826,
+                  -0.0661444216966629,
+                  4.001622200012207,
+                  -0.0013129626167938113,
+                  0,
+                  -0.05644599720835686,
+                  0,
+                  0,
+                  -0.008966741152107716,
+                  -0.2904268205165863,
+                  0,
+                  0.6001604199409485,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0.4319465756416321,
+                  -0.19095776975154877,
+                  -0.09550659358501434,
+                  -0.07845018804073334,
+                  0,
+                  0,
+                  0,
+                  0,
+                  -0.06690476089715958,
+                  -0.09137562662363052,
+                  0.4110085070133209,
+                  0,
+                  0,
+                  -0.06885596364736557,
+                  0,
+                  -0.08238127827644348,
+                  0,
+                  0,
+                  0,
+                  -0.1554175764322281,
+                  0.3273918032646179,
+                  0,
+                  -0.06690476089715958,
+                  -0.06690476089715958,
+                  -0.08238127827644348,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  -0.08238127827644348,
+                  2.0423970222473145,
+                  4.091599464416504,
+                  2.047872304916382,
+                  -0.06377943605184555,
+                  0.982314944267273,
+                  1.7181717157363892,
+                  0.5309296250343323,
+                  0.33435195684432983,
+                  -0.23672230541706085,
+                  -0.9558770656585693,
+                  -0.3770417869091034,
+                  -0.23672230541706085,
+                  -0.23672230541706085,
+                  -0.23672230541706085,
+                  -0.9558770656585693,
+                  -0.23672230541706085,
+                  -0.1435207724571228,
+                  -0.1435207724571228,
+                  -0.3193863034248352,
+                  -0.104105144739151,
+                  -0.16916240751743317,
+                  -0.104105144739151,
+                  -0.02195833995938301,
+                  -0.02195833995938301,
+                  -0.02195833995938301,
+                  -0.013004685752093792,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  -0.1004137247800827,
+                  -0.3302367031574249,
+                  -0.3302367031574249,
+                  0,
+                  0,
+                  0,
+                  -0.0074768345803022385,
+                  -0.0074768345803022385,
+                  0,
+                  0,
+                  0,
+                  0,
+                  -0.003625688375905156,
+                  -0.003625688375905156,
+                  -0.003625688375905156,
+                  0,
+                  -0.0002772581356111914,
+                  0,
+                  0,
+                  0,
+                  0.21047746165175082
+                ],
+                [
+                  -0.04466015845537186,
+                  -0.04466015845537186,
+                  -0.044030774384737015,
+                  -0.042233195155858994,
+                  -0.040508951991796494,
+                  -0.5063737630844116,
+                  -0.6870047450065613,
+                  -0.7906531095504761,
+                  -0.13305777311325073,
+                  1.0719573497772217,
+                  -1.1422436237335205,
+                  -0.529732882976532,
+                  -1.3211818933486938,
+                  -0.3690650165081024,
+                  -0.07488566637039185,
+                  -0.3546864092350006,
+                  -0.5313372611999512,
+                  0.4948144853115082,
+                  1.700439453125,
+                  -0.03632283955812454,
+                  0.27133703231811523,
+                  0.2676180899143219,
+                  0.45809173583984375,
+                  0,
+                  0,
+                  -0.05569043755531311,
+                  0,
+                  0,
+                  -0.04738859087228775,
+                  0,
+                  -0.5026361346244812,
+                  -1.3303146362304688,
+                  -0.041078053414821625,
+                  -0.09870848059654236,
+                  -0.11016688495874405,
+                  -0.09870848059654236,
+                  -0.09870848059654236,
+                  -0.5886049866676331,
+                  0,
+                  -0.14548781514167786,
+                  -0.4708496928215027,
+                  -0.15380360186100006,
+                  -0.19445855915546417,
+                  0,
+                  0,
+                  -0.08607596904039383,
+                  0,
+                  -0.10531490296125412,
+                  0,
+                  0,
+                  -0.005347385536879301,
+                  0,
+                  0,
+                  -0.02525647170841694,
+                  -0.005347385536879301,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  -0.045649100095033646,
+                  -0.045649100095033646,
+                  0,
+                  0,
+                  -0.0666973739862442,
+                  -0.014611662365496159,
+                  -0.014611662365496159,
+                  -0.014611662365496159,
+                  -0.014611662365496159,
+                  0,
+                  0,
+                  -0.014611662365496159,
+                  -0.006032330449670553,
+                  0,
+                  0,
+                  -0.2807486355304718,
+                  0,
+                  -0.005719554610550404,
+                  -0.9827530384063721,
+                  -0.005719554610550404,
+                  -0.005719554610550404,
+                  -0.19069480895996094,
+                  0,
+                  0,
+                  -0.006032330449670553,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  -0.6327446103096008,
+                  0,
+                  0,
+                  0,
+                  0,
+                  -0.007847610861063004,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  -0.41792377829551697,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  -0.006032330449670553,
+                  -0.006032330449670553,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  -0.9713194370269775,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  -0.03471231460571289,
+                  -0.620189368724823,
+                  0,
+                  -0.2807486355304718,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  2.170476198196411,
+                  -0.5284274816513062,
+                  -0.5284274816513062,
+                  -0.06810564547777176,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  -0.023691723123192787,
+                  -0.04738859087228775,
+                  -0.04738859087228775,
+                  0,
+                  0,
+                  -0.009194714017212391,
+                  0,
+                  0,
+                  0,
+                  -0.14006660878658295,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  -0.009194714017212391,
+                  0,
+                  -0.9237443208694458,
+                  -0.9713194370269775,
+                  -0.023691723123192787,
+                  -0.13784173130989075,
+                  0,
+                  0,
+                  -0.2807486355304718,
+                  0,
+                  0.4069006145000458,
+                  3.695767641067505,
+                  0.7605626583099365,
+                  0.19774942100048065,
+                  0.19774942100048065,
+                  0.19774942100048065,
+                  3.695767641067505,
+                  0.558032214641571,
+                  0.4201822876930237,
+                  0.8441475033760071,
+                  0.6583400964736938,
+                  0.848198652267456,
+                  0.7746471166610718,
+                  0.41398119926452637,
+                  0.5143665671348572,
+                  0.26466983556747437,
+                  0.7530413866043091,
+                  0.9675036072731018,
+                  0.27133703231811523,
+                  0.6768651604652405,
+                  0.735874593257904,
+                  0.2833031415939331,
+                  0.5707284212112427,
+                  0.15680444240570068,
+                  -0.14006660878658295,
+                  -0.3690650165081024,
+                  -0.3690650165081024,
+                  0,
+                  0,
+                  0,
+                  -0.007847610861063004,
+                  -0.007847610861063004,
+                  0,
+                  0,
+                  0,
+                  0,
+                  -0.39281925559043884,
+                  -0.39281925559043884,
+                  -0.39281925559043884,
+                  -0.06496607512235641,
+                  0,
+                  0,
+                  0,
+                  0,
+                  -0.20133885697199455
+                ],
+                [
+                  -0.05666375905275345,
+                  -0.05666375905275345,
+                  -0.07094725221395493,
+                  -0.06813998520374298,
+                  -0.0654435008764267,
+                  -0.6905825138092041,
+                  -0.36068063974380493,
+                  -1.2901620864868164,
+                  -0.7288225889205933,
+                  -2.051215171813965,
+                  -0.03217701241374016,
+                  -1.3912347555160522,
+                  -1.54917311668396,
+                  3.8538239002227783,
+                  -0.3946303129196167,
+                  -0.32795631885528564,
+                  -0.6333116292953491,
+                  -0.01068311370909214,
+                  -0.8981819152832031,
+                  -0.12636108696460724,
+                  -0.34173455834388733,
+                  -0.05849647894501686,
+                  -0.023506907746195793,
+                  0,
+                  0,
+                  -0.01852388307452202,
+                  0,
+                  0,
+                  -0.05884089693427086,
+                  -0.12636108696460724,
+                  0.9135181903839111,
+                  2.0260043144226074,
+                  -0.24604348838329315,
+                  -0.2667306065559387,
+                  -0.2973858118057251,
+                  -0.2667306065559387,
+                  -0.2667306065559387,
+                  0.6178679466247559,
+                  -0.12774306535720825,
+                  0.5710129737854004,
+                  -1.0254955291748047,
+                  0.8661453127861023,
+                  0.25425174832344055,
+                  -0.011933227069675922,
+                  -0.03681843727827072,
+                  0,
+                  0,
+                  0.1360243856906891,
+                  0.4503314197063446,
+                  0,
+                  0,
+                  -0.005976674146950245,
+                  0,
+                  0.06112316995859146,
+                  0,
+                  0,
+                  -0.005976674146950245,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  -0.12217538803815842,
+                  -0.367201030254364,
+                  -0.367201030254364,
+                  -0.367201030254364,
+                  -0.367201030254364,
+                  -0.13687364757061005,
+                  -0.09280697256326675,
+                  -0.16029025614261627,
+                  -0.09280697256326675,
+                  -0.0006475560367107391,
+                  -0.0006475560367107391,
+                  0,
+                  0,
+                  -0.022932041436433792,
+                  0.15061569213867188,
+                  -0.017911860719323158,
+                  -0.017911860719323158,
+                  0.5507420897483826,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0.2328445315361023,
+                  0,
+                  -0.015849288552999496,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0.05584995076060295,
+                  0,
+                  0,
+                  -0.08551923930644989,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  -0.002868675161153078,
+                  0.4419344365596771,
+                  -1.254741907119751,
+                  0,
+                  0,
+                  -0.6035207509994507,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  -0.0750962570309639,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  -0.37418967485427856,
+                  0,
+                  -0.12613065540790558,
+                  -0.184156596660614,
+                  0,
+                  -0.015849288552999496,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  1.1442174911499023,
+                  1.442082405090332,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  -0.11176490038633347,
+                  -1.0830339193344116,
+                  -0.2767450213432312,
+                  -0.5059027075767517,
+                  -0.184156596660614,
+                  0,
+                  -0.12613065540790558,
+                  -0.12613065540790558,
+                  -0.12613065540790558,
+                  -0.12613065540790558,
+                  -0.1753222793340683,
+                  -0.0959702879190445,
+                  -0.0959702879190445,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  -0.09328567236661911,
+                  -0.4990847408771515,
+                  -0.10234547406435013,
+                  -0.37418967485427856,
+                  -0.020481184124946594,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  -0.008842630311846733,
+                  -0.015849288552999496,
+                  -0.003616339759901166,
+                  -0.0018381442641839385,
+                  0,
+                  0,
+                  0,
+                  -0.008842630311846733,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  -0.34430646896362305,
+                  2.2455999851226807,
+                  5.47443962097168,
+                  0.7674197554588318,
+                  -0.5717012882232666,
+                  0.5155456066131592,
+                  -0.11415960639715195,
+                  -0.11415960639715195,
+                  0.6152186393737793,
+                  0.6152186393737793,
+                  0.3257213234901428,
+                  0.10287313908338547,
+                  -1.6594263315200806,
+                  -1.6594263315200806,
+                  -1.6594263315200806,
+                  -0.40826085209846497,
+                  0,
+                  0,
+                  -0.08551923930644989,
+                  0,
+                  0.04086158814586918
+                ],
+                [
+                  -0.034841135144233704,
+                  -0.034841135144233704,
+                  -0.051465101540088654,
+                  -0.049366533756256104,
+                  -0.04735346883535385,
+                  -0.40871188044548035,
+                  -0.3492451012134552,
+                  -0.9231516122817993,
+                  -0.7077697515487671,
+                  1.317420482635498,
+                  -0.4683292806148529,
+                  -0.28044864535331726,
+                  -0.5529232621192932,
+                  -1.071799635887146,
+                  -0.05858183279633522,
+                  -0.051872871816158295,
+                  -0.15490129590034485,
+                  -0.041574276983737946,
+                  -0.5393237471580505,
+                  -0.04051019996404648,
+                  -0.012829809449613094,
+                  -0.013450317084789276,
+                  -0.040559858083724976,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  -0.006321328692138195,
+                  0,
+                  -0.11192572116851807,
+                  -0.04065537080168724,
+                  -0.5356214046478271,
+                  -0.6929442286491394,
+                  -0.7020550966262817,
+                  -0.6929442286491394,
+                  -0.6929442286491394,
+                  0.03852645680308342,
+                  -0.06164456531405449,
+                  0.2330552041530609,
+                  2.0266568660736084,
+                  0.19377721846103668,
+                  -0.08370468020439148,
+                  0,
+                  0,
+                  -0.04653354734182358,
+                  -0.07506345957517624,
+                  0.29118040204048157,
+                  0.230233296751976,
+                  0,
+                  -0.06662901490926743,
+                  0,
+                  0,
+                  0.05084548145532608,
+                  -0.05744104087352753,
+                  0.05506080016493797,
+                  0,
+                  0,
+                  0,
+                  -0.0007840815815143287,
+                  -0.045928001403808594,
+                  0.12817706167697906,
+                  -0.07506345957517624,
+                  0,
+                  0,
+                  -0.023827027529478073,
+                  -0.2693231403827667,
+                  -0.2693231403827667,
+                  -0.2693231403827667,
+                  -0.2693231403827667,
+                  -0.07988705486059189,
+                  0,
+                  -0.22168073058128357,
+                  -0.024022353813052177,
+                  -0.07426410168409348,
+                  -0.020613910630345345,
+                  -0.0033778308425098658,
+                  -0.03703022375702858,
+                  -0.02272496558725834,
+                  -0.02272496558725834,
+                  0,
+                  0,
+                  0.5130352973937988,
+                  -0.027592791244387627,
+                  -0.027592791244387627,
+                  -0.024022353813052177,
+                  0,
+                  0,
+                  0,
+                  0.3104894757270813,
+                  0,
+                  -0.0045553287491202354,
+                  -0.0045553287491202354,
+                  0,
+                  0,
+                  0,
+                  0.24422305822372437,
+                  0,
+                  0,
+                  -0.10584158450365067,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  -0.4923635423183441,
+                  1.961723804473877,
+                  0,
+                  -0.00030750848236493766,
+                  0,
+                  0,
+                  -0.02272496558725834,
+                  -0.02272496558725834,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  -0.010005678981542587,
+                  0,
+                  -0.008475694805383682,
+                  -0.05468161776661873,
+                  0,
+                  -0.038189757615327835,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  -0.006321328692138195,
+                  -0.03810686990618706,
+                  -0.02535068988800049,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0.6256083846092224,
+                  -0.03810686990618706,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  -0.29173585772514343,
+                  -0.28459876775741577,
+                  -0.23071013391017914,
+                  -0.18552175164222717,
+                  0,
+                  -0.039013225585222244,
+                  0,
+                  0,
+                  -0.006321328692138195,
+                  -0.047036316245794296,
+                  -0.047036316245794296,
+                  0,
+                  0,
+                  -0.006321328692138195,
+                  0,
+                  -0.047036316245794296,
+                  0,
+                  0,
+                  0,
+                  -0.06593833863735199,
+                  0,
+                  0,
+                  -0.006321328692138195,
+                  -0.006321328692138195,
+                  -0.23071013391017914,
+                  -0.17307664453983307,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  -0.047036316245794296,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  -0.0013689458137378097,
+                  -0.10760678350925446,
+                  -0.03518453240394592,
+                  0,
+                  0,
+                  0,
+                  -0.10760678350925446,
+                  0,
+                  -0.038286350667476654,
+                  -0.05879911407828331,
+                  -0.05886009335517883,
+                  0,
+                  0,
+                  0,
+                  -0.026241201907396317,
+                  -0.026241201907396317,
+                  -0.046344731003046036,
+                  0,
+                  -0.006033838260918856,
+                  -0.008010383695363998,
+                  0,
+                  0,
+                  -0.010217850096523762,
+                  -0.0013689458137378097,
+                  -0.06593833863735199,
+                  0.5023027658462524,
+                  -1.2305268049240112,
+                  0,
+                  0,
+                  0,
+                  -0.1108434796333313,
+                  -0.04923815652728081,
+                  0,
+                  0,
+                  0,
+                  0.40129682421684265,
+                  2.8412044048309326,
+                  2.8412044048309326,
+                  2.8412044048309326,
+                  0.6113113164901733,
+                  0.12817706167697906,
+                  -0.015569109469652176,
+                  0.16080217063426971,
+                  -0.15998290479183197,
+                  -0.30901896108851445
                 ]
               ]
             }
@@ -5278,6 +8598,422 @@
       [
         "en",
         "Could you establish a list of potential solutions for a Talent Acquisition software?"
+      ],
+      [
+        "en",
+        "Could you propose a negotiation strategy for"
+      ],
+      [
+        "en",
+        "What negotiation tactics would you recommend for"
+      ],
+      [
+        "en",
+        "Could you outline a negotiation plan for"
+      ],
+      [
+        "en",
+        "I'm seeking advice on negotiating; any strategies you suggest for"
+      ],
+      [
+        "en",
+        "Looking for insights on negotiation strategies; what would you propose for"
+      ],
+      [
+        "en",
+        "What's your recommended negotiation strategy for"
+      ],
+      [
+        "en",
+        "Inquiring about effective negotiation strategies; any ideas for"
+      ],
+      [
+        "en",
+        "What approaches to negotiation do you advise for"
+      ],
+      [
+        "en",
+        "Can you provide guidance on negotiation techniques for"
+      ],
+      [
+        "en",
+        "Seeking recommendations on negotiation methods; what's your perspective on"
+      ],
+      [
+        "en",
+        "Interested in learning negotiation strategies; what would you propose for"
+      ],
+      [
+        "en",
+        "What negotiation tactics should be employed for"
+      ],
+      [
+        "en",
+        "Any suggestions on negotiating? What strategies do you recommend for"
+      ],
+      [
+        "en",
+        "Asking for input on negotiation tactics; what's your take on"
+      ],
+      [
+        "en",
+        "Seeking input on negotiation techniques; what strategies do you think are effective for"
+      ],
+      [
+        "en",
+        "Curious about negotiation strategies; what would you propose for"
+      ],
+      [
+        "en",
+        "What are your thoughts on negotiation approaches for"
+      ],
+      [
+        "en",
+        "Interested in hearing about negotiation strategies; any suggestions for"
+      ],
+      [
+        "en",
+        "Seeking advice on negotiation tactics; what's your perspective on"
+      ],
+      [
+        "en",
+        "What negotiation methods do you suggest for"
+      ],
+      [
+        "en",
+        "Asking for recommendations on negotiation strategies; what's your advice for"
+      ],
+      [
+        "en",
+        "Propose communications with the top 2 vendors"
+      ],
+      [
+        "en",
+        "Suggest communication with the top two vendors."
+      ],
+      [
+        "en",
+        "Propose initiating communication with the top 2 vendors."
+      ],
+      [
+        "en",
+        "Recommend reaching out to the top 2 vendors for communication."
+      ],
+      [
+        "en",
+        "Advocate for contacting the top two vendors."
+      ],
+      [
+        "en",
+        "Put forward a suggestion for engaging with the top 2 vendors."
+      ],
+      [
+        "en",
+        "Advise on communicating with the top two vendors."
+      ],
+      [
+        "en",
+        "Encourage reaching out to the top 2 vendors for communication."
+      ],
+      [
+        "en",
+        "Recommend initiating communication with the top two vendors."
+      ],
+      [
+        "en",
+        "Suggest initiating communication with the top 2 vendors."
+      ],
+      [
+        "en",
+        "Advocate for reaching out to the top two vendors."
+      ],
+      [
+        "en",
+        "Put forward a proposal for engaging with the top 2 vendors."
+      ],
+      [
+        "en",
+        "Advise initiating communication with the top two vendors."
+      ],
+      [
+        "en",
+        "Encourage communication with the top 2 vendors."
+      ],
+      [
+        "en",
+        "Recommend reaching out to the top two vendors."
+      ],
+      [
+        "en",
+        "Suggest initiating communication with the top 2 vendors."
+      ],
+      [
+        "en",
+        "Advocate for initiating communication with the top two vendors."
+      ],
+      [
+        "en",
+        "Put forward a suggestion for reaching out to the top 2 vendors."
+      ],
+      [
+        "en",
+        "Advise on reaching out to the top two vendors."
+      ],
+      [
+        "en",
+        "Encourage initiating communication with the top 2 vendors."
+      ],
+      [
+        "en",
+        "Recommend reaching out to the top two vendors for communication."
+      ],
+      [
+        "en",
+        "Display a chart illustrating the Total Cost of Ownership (TCO) for the various proposals."
+      ],
+      [
+        "en",
+        "Present a chart depicting the TCO across different proposals."
+      ],
+      [
+        "en",
+        "Exhibit a chart showcasing the TCO comparison for the different proposals."
+      ],
+      [
+        "en",
+        "Illustrate a chart demonstrating the TCO variation among the proposals."
+      ],
+      [
+        "en",
+        "Showcase a chart outlining the TCO for each proposal."
+      ],
+      [
+        "en",
+        "Provide a chart visualizing the TCO across the different proposals."
+      ],
+      [
+        "en",
+        "Demonstrate a chart outlining the TCO differences among the proposals."
+      ],
+      [
+        "en",
+        "Depict a chart illustrating the TCO comparison for the different proposals."
+      ],
+      [
+        "en",
+        "Present a chart displaying the TCO breakdown for each proposal."
+      ],
+      [
+        "en",
+        "Exhibit a chart indicating the TCO analysis for the various proposals."
+      ],
+      [
+        "en",
+        "Show a chart detailing the TCO differences among the proposals."
+      ],
+      [
+        "en",
+        "Display a chart illustrating the TCO variance across the proposals."
+      ],
+      [
+        "en",
+        "Present a chart depicting the TCO comparison among the proposals."
+      ],
+      [
+        "en",
+        "Illustrate a chart showcasing the TCO distribution for each proposal."
+      ],
+      [
+        "en",
+        "Provide a chart visualizing the TCO variations across the different proposals."
+      ],
+      [
+        "en",
+        "Demonstrate a chart outlining the TCO comparison for each proposal."
+      ],
+      [
+        "en",
+        "Depict a chart illustrating the TCO analysis across the proposals."
+      ],
+      [
+        "en",
+        "Show a chart detailing the TCO breakdown among the proposals."
+      ],
+      [
+        "en",
+        "Exhibit a chart indicating the TCO distribution for the different proposals."
+      ],
+      [
+        "en",
+        "Present a chart displaying the TCO comparison for each proposal."
+      ],
+      [
+        "en",
+        "do the same : Can you generate me an RFP"
+      ],
+      [
+        "en",
+        "Could you please generate an RFP for me?"
+      ],
+      [
+        "en",
+        "Can you create an RFP for me?"
+      ],
+      [
+        "en",
+        "Would you mind generating an RFP for me?"
+      ],
+      [
+        "en",
+        "Is it possible for you to generate an RFP for me?"
+      ],
+      [
+        "en",
+        "Could you kindly generate an RFP for me?"
+      ],
+      [
+        "en",
+        "Can you assist me in generating an RFP?"
+      ],
+      [
+        "en",
+        "Would you be able to help me generate an RFP?"
+      ],
+      [
+        "en",
+        "Could you generate an RFP, please?"
+      ],
+      [
+        "en",
+        "Can you draft an RFP for me?"
+      ],
+      [
+        "en",
+        "Would you be willing to generate an RFP for me?"
+      ],
+      [
+        "en",
+        "Could you generate an RFP document for me?"
+      ],
+      [
+        "en",
+        "Can you produce an RFP for me?"
+      ],
+      [
+        "en",
+        "Would you be so kind as to create an RFP for me?"
+      ],
+      [
+        "en",
+        "Could you help me draft an RFP?"
+      ],
+      [
+        "en",
+        "Can you provide me with an RFP?"
+      ],
+      [
+        "en",
+        "Would you be able to draft an RFP for me?"
+      ],
+      [
+        "en",
+        "Could you create an RFP on my behalf?"
+      ],
+      [
+        "en",
+        "Can you prepare an RFP for me?"
+      ],
+      [
+        "en",
+        "Would you mind drafting an RFP for me?"
+      ],
+      [
+        "en",
+        "Could you generate an RFP, if possible?"
+      ],
+      [
+        "en",
+        "Can you generate it in a new tab portal"
+      ],
+      [
+        "en",
+        "Can you open it in a new tab portal, please?"
+      ],
+      [
+        "en",
+        "Could you generate it in a new tab portal, please?"
+      ],
+      [
+        "en",
+        "Would you mind generating it in a new tab portal?"
+      ],
+      [
+        "en",
+        "Is it possible to generate it in a new tab portal?"
+      ],
+      [
+        "en",
+        "Could you please open it in a new tab portal?"
+      ],
+      [
+        "en",
+        "Would you kindly generate it in a new tab portal?"
+      ],
+      [
+        "en",
+        "Can you please generate it in a new tab portal?"
+      ],
+      [
+        "en",
+        "Would it be possible to generate it in a new tab portal?"
+      ],
+      [
+        "en",
+        "Could you please open it in a new tab portal for me?"
+      ],
+      [
+        "en",
+        "Would you be able to generate it in a new tab portal?"
+      ],
+      [
+        "en",
+        "Is there a way to generate it in a new tab portal?"
+      ],
+      [
+        "en",
+        "Can you generate it so it opens in a new tab portal?"
+      ],
+      [
+        "en",
+        "Could you generate it in a portal that opens in a new tab?"
+      ],
+      [
+        "en",
+        "Can you generate it in a new tab portal, if possible?"
+      ],
+      [
+        "en",
+        "Would you be able to generate it in a new tab portal for me?"
+      ],
+      [
+        "en",
+        "Can you open it in a new tab portal, if that's feasible?"
+      ],
+      [
+        "en",
+        "Would you be so kind as to generate it in a new tab portal?"
+      ],
+      [
+        "en",
+        "Can you generate it in a new tab portal, if that's convenient?"
+      ],
+      [
+        "en",
+        "Could you please generate it in a new tab portal, if that's an option?"
+      ],
+      [
+        "en",
+        "Can you generate it in a new tab portal, if that's doable?"
       ]
     ]
   },
@@ -5963,6 +9699,298 @@
           },
           {
             "answer": "Attached, you'll find a list of potential software vendors that we believe meet the criteria outlined in your requirements..."
+          }
+        ],
+        "strategy": [
+          {
+            "answer": "Of course. Please find a proposed negotiation strategy for Vendor A below..."
+          },
+          {
+            "answer": "Here is a suggested negotiation strategy for Vendor A..."
+          },
+          {
+            "answer": "Please see below for a proposed negotiation approach for Vendor A..."
+          },
+          {
+            "answer": "Below is a recommended negotiation strategy for engaging with Vendor A..."
+          },
+          {
+            "answer": "Enclosed is a negotiation strategy proposal for Vendor A..."
+          },
+          {
+            "answer": "Attached is a suggested negotiation plan for Vendor A..."
+          },
+          {
+            "answer": "Refer to the following negotiation strategy outline for Vendor A..."
+          },
+          {
+            "answer": "Presented below is a negotiation strategy for Vendor A..."
+          },
+          {
+            "answer": "Provided herein is a proposed negotiation strategy for Vendor A..."
+          },
+          {
+            "answer": "Detailed here is a negotiation strategy proposal specifically tailored for Vendor A..."
+          },
+          {
+            "answer": "Shared below is a negotiation strategy draft for Vendor A..."
+          },
+          {
+            "answer": "Outlined below is a negotiation strategy for Vendor A..."
+          },
+          {
+            "answer": "Attached herewith is a suggested negotiation approach for Vendor A..."
+          },
+          {
+            "answer": "Included below is a negotiation strategy recommendation for Vendor A..."
+          },
+          {
+            "answer": "Presented herein is a proposed negotiation plan for Vendor A..."
+          },
+          {
+            "answer": "Offered below is a negotiation strategy outline for Vendor A..."
+          },
+          {
+            "answer": "Presented here is a negotiation strategy proposal targeting Vendor A..."
+          },
+          {
+            "answer": "Shared here is a negotiation strategy draft aimed at Vendor A..."
+          },
+          {
+            "answer": "Provided below is a suggested negotiation strategy for Vendor A's consideration..."
+          },
+          {
+            "answer": "Enclosed herewith is a negotiation strategy proposal specifically designed for Vendor A..."
+          },
+          {
+            "answer": "Referenced below is a recommended negotiation approach for Vendor A..."
+          }
+        ],
+        "propose.vendors": [
+          {
+            "answer": "Yes. Please find proposed messages to Vendor A and Vendor C below..."
+          },
+          {
+            "answer": "Yes. Below are proposed messages for Vendor A and Vendor C."
+          },
+          {
+            "answer": "Certainly. Enclosed are suggested messages for Vendor A and Vendor C."
+          },
+          {
+            "answer": "Absolutely. Refer to the proposed messages for Vendor A and Vendor C below."
+          },
+          {
+            "answer": "Of course. Attached are draft messages for Vendor A and Vendor C."
+          },
+          {
+            "answer": "Certainly. Provided below are proposed messages for Vendor A and Vendor C."
+          },
+          {
+            "answer": "Sure. Included are suggested messages for Vendor A and Vendor C."
+          },
+          {
+            "answer": "Yes. Here are proposed messages for Vendor A and Vendor C."
+          },
+          {
+            "answer": "Absolutely. Enclosed are suggested messages for Vendor A and Vendor C."
+          },
+          {
+            "answer": "Of course. Refer to the proposed messages for Vendor A and Vendor C below."
+          },
+          {
+            "answer": "Yes. Attached are draft messages for Vendor A and Vendor C."
+          }
+        ],
+        "chart.TCO": [
+          {
+            "answer": "Ok. Please find the received proposals ranked based on your criteria below..."
+          },
+          {
+            "answer": "Ok. Below, you'll find the received proposals ranked according to your criteria."
+          },
+          {
+            "answer": "Sure. The received proposals have been ranked based on your criteria, as shown below."
+          },
+          {
+            "answer": "Alright. You can see the received proposals ranked according to your criteria below."
+          },
+          {
+            "answer": "Understood. The received proposals have been ranked below based on your criteria."
+          },
+          {
+            "answer": "Acknowledged. Below, you'll find the received proposals ranked according to your criteria."
+          },
+          {
+            "answer": "Okay. The received proposals have been ranked based on your criteria, detailed below."
+          },
+          {
+            "answer": "Got it. You'll find the received proposals ranked according to your criteria below."
+          },
+          {
+            "answer": "Affirmed. Below, you'll see the received proposals ranked based on your criteria."
+          },
+          {
+            "answer": "Noted. The received proposals have been ranked according to your criteria, displayed below."
+          },
+          {
+            "answer": "Roger that. Below, you'll find the received proposals ranked according to your criteria."
+          },
+          {
+            "answer": "Copy that. The received proposals have been ranked based on your criteria, listed below."
+          },
+          {
+            "answer": "Understood. You can review the received proposals ranked according to your criteria below."
+          },
+          {
+            "answer": "Confirmed. The received proposals have been ranked according to your criteria, outlined below."
+          },
+          {
+            "answer": "Agreed. Below, you'll see the received proposals ranked based on your criteria."
+          },
+          {
+            "answer": "Copy. The received proposals have been ranked according to your criteria, detailed below."
+          },
+          {
+            "answer": "Gotcha. Below, you'll find the received proposals ranked based on your criteria."
+          },
+          {
+            "answer": "Affirmative. The received proposals have been ranked according to your criteria, displayed below."
+          },
+          {
+            "answer": "Understood. You'll find the received proposals ranked based on your criteria below."
+          },
+          {
+            "answer": "Acknowledged. The received proposals have been ranked according to your criteria, as shown below."
+          },
+          {
+            "answer": "Roger. Below, you'll see the received proposals ranked according to your criteria."
+          }
+        ],
+        "generate.rfp": [
+          {
+            "answer": "Here is a complete RFP template..."
+          },
+          {
+            "answer": "Here's a complete RFP template..."
+          },
+          {
+            "answer": "I have a complete RFP template ready..."
+          },
+          {
+            "answer": "Below is a complete RFP template..."
+          },
+          {
+            "answer": "Attached is a complete RFP template..."
+          },
+          {
+            "answer": "I've prepared a complete RFP template..."
+          },
+          {
+            "answer": "Here's the full RFP template..."
+          },
+          {
+            "answer": "Presenting a complete RFP template..."
+          },
+          {
+            "answer": "Enclosed is a complete RFP template..."
+          },
+          {
+            "answer": "Below you'll find a complete RFP template..."
+          },
+          {
+            "answer": "Providing a complete RFP template..."
+          },
+          {
+            "answer": "Attached is the entire RFP template..."
+          },
+          {
+            "answer": "I've compiled a complete RFP template..."
+          },
+          {
+            "answer": "Sharing a complete RFP template..."
+          },
+          {
+            "answer": "Below is the full RFP template for your review..."
+          },
+          {
+            "answer": "I'm sending a complete RFP template..."
+          },
+          {
+            "answer": "Here's a comprehensive RFP template..."
+          },
+          {
+            "answer": "Presenting the full RFP template..."
+          },
+          {
+            "answer": "Enclosed you'll find a complete RFP template..."
+          },
+          {
+            "answer": "Attached is a comprehensive RFP template..."
+          },
+          {
+            "answer": "I've drafted a complete RFP template..."
+          }
+        ],
+        "portal": [
+          {
+            "answer": "Yes. Please find a link to a proposed RFP portal below..."
+          },
+          {
+            "answer": "Yes. Below, you'll find a link to a proposed RFP portal."
+          },
+          {
+            "answer": "Sure. Please find below a link to a proposed RFP portal."
+          },
+          {
+            "answer": "Alright. Below is a link to a proposed RFP portal for your reference."
+          },
+          {
+            "answer": "Understood. You'll find a link to a proposed RFP portal below."
+          },
+          {
+            "answer": "Acknowledged. Below, you'll find a link to a proposed RFP portal."
+          },
+          {
+            "answer": "Okay. Below is a link to a proposed RFP portal."
+          },
+          {
+            "answer": "Got it. Below, you'll find a link to a proposed RFP portal."
+          },
+          {
+            "answer": "Affirmed. Please find below a link to a proposed RFP portal."
+          },
+          {
+            "answer": "Noted. Below is a link to a proposed RFP portal."
+          },
+          {
+            "answer": "Roger that. Below, you'll find a link to a proposed RFP portal."
+          },
+          {
+            "answer": "Copy that. Please find below a link to a proposed RFP portal."
+          },
+          {
+            "answer": "Understood. Below, you'll find a link to a proposed RFP portal."
+          },
+          {
+            "answer": "Confirmed. Please find below a link to a proposed RFP portal."
+          },
+          {
+            "answer": "Agreed. Below is a link to a proposed RFP portal."
+          },
+          {
+            "answer": "Copy. Below, you'll find a link to a proposed RFP portal."
+          },
+          {
+            "answer": "Gotcha. Please find below a link to a proposed RFP portal."
+          },
+          {
+            "answer": "Affirmative. Below is a link to a proposed RFP portal."
+          },
+          {
+            "answer": "Acknowledged. Please find below a link to a proposed RFP portal."
+          },
+          {
+            "answer": "Roger. Below is a link to a proposed RFP portal."
           }
         ]
       }
