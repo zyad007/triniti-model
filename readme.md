@@ -39,6 +39,49 @@ npm build
 - package.json
 - README.md
 ```
+### Full Scenario
+```console
+List typical requirements for Talent acquisition software.
+```
+```console
+Can you add a requirement for searching and filtering candidates?
+```
+```console
+Can you send these requirements to the entire project team for comments?
+```
+```console
+Can you list possible vendors for Talent acquisition software?
+```
+```console
+Can you propose sourcing options for this software?
+```
+```console
+Can you generate an RFP template?
+```
+```console
+Can you generate it in a new tab portal?
+```
+```console
+Compare the proposals based on our pre-defined criteria.
+```
+```console
+Show a chart of the TCO for the different proposals.
+```
+```console
+Propose communications with the top 2 vendors.
+```
+```console
+Yes.
+```
+```console
+Yes.
+```
+```console
+Yes.
+```
+```console
+Could you propose a negotiation strategy for Vandor A?
+```
 
 ### Important Links
 - [Trinit Chatbot Main host](https://triniti-chatbot.onrender.com).     (might take 90 seconds to open in cold start)
