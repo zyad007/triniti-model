@@ -21,6 +21,7 @@ async function trainModel(manager: any) {
   const generateRFP = await trainIntent(manager, 'generate.rfp', '../data/generate.rfp.txt', '../answers/generate.rfp.txt')
   const portal = await trainIntent(manager, 'portal', '../data/portal.txt', '../answers/portal.txt')
   const compare = await trainIntent(manager, 'compare', '../data/compare.txt', '../answers/compare.txt')
+  const yes = await trainIntent(manager, 'yes', '../data/yes.txt', '../answers/yes.txt')
 
   if (
     greetings &&
@@ -31,13 +32,14 @@ async function trainModel(manager: any) {
     sourcingOptions &&
     sendMessage &&
     writeThank &&
-    sendThank
+    sendThank &&
     strategy && 
     proposeVendors && 
     chartTCO && 
     generateRFP &&
-    portal && 
-    compare
+    portal &&
+    compare &&
+    yes
 
   ) {
     await manager.train()
