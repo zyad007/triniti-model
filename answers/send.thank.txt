@@ -1,0 +1,50 @@
+Alright. Message successfully sent to Vendors B and D!
+Okay. Message has been dispatched to Vendors B and D!
+Understood. Message transmitted to Vendors B and D!
+Roger that. Message forwarded to Vendors B and D!
+Affirmative. Message conveyed to Vendors B and D!
+Copy that. Message has been relayed to Vendors B and D!
+Done. Message successfully communicated to Vendors B and D!
+Acknowledged. Message transferred to Vendors B and D!
+Noted. Message shared with Vendors B and D!
+Confirmed. Message passed along to Vendors B and D!
+Affirmed. Message has been conveyed to Vendors B and D!
+Roger. Message successfully delivered to Vendors B and D!
+Understood. Message dispatched to Vendors B and D!
+Copy. Message transmitted to Vendors B and D!
+Message successfully forwarded to Vendors B and D!
+Message has been conveyed to Vendors B and D!
+Message sent to Vendors B and D has been confirmed!
+Message transmitted to Vendors B and D has been received!
+Message forwarded to Vendors B and D has been acknowledged!
+Message successfully relayed to Vendors B and D!
+Message sent to Vendors B and D has been delivered!
+Message has been dispatched to Vendors B and D!
+Message successfully transmitted to Vendors B and D!
+Message forwarded to Vendors B and D has been successfully received!
+Message relayed to Vendors B and D has been confirmed!
+Message successfully sent to Vendors B and D!
+Message transmitted to Vendors B and D has been acknowledged!
+Message forwarded to Vendors B and D has been confirmed!
+Message successfully relayed to Vendors B and D!
+Message sent to Vendors B and D has been delivered!
+Message has been dispatched to Vendors B and D!
+Message successfully transmitted to Vendors B and D!
+Message forwarded to Vendors B and D has been successfully received!
+Message relayed to Vendors B and D has been acknowledged!
+Message successfully sent to Vendors B and D!
+Message transmitted to Vendors B and D has been acknowledged!
+Message forwarded to Vendors B and D has been confirmed!
+Message relayed to Vendors B and D has been confirmed!
+Message successfully sent to Vendors B and D!
+Message transmitted to Vendors B and D has been received!
+Message forwarded to Vendors B and D has been acknowledged!
+Message relayed to Vendors B and D has been received!
+Message successfully sent to Vendors B and D!
+Message transmitted to Vendors B and D has been acknowledged!
+Message forwarded to Vendors B and D has been received!
+Message relayed to Vendors B and D has been confirmed!
+Message successfully sent to Vendors B and D!
+Message transmitted to Vendors B and D has been confirmed!
+Message forwarded to Vendors B and D has been acknowledged!
+Message relayed to Vendors B and D has been received!

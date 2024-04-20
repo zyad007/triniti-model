@@ -893,6 +893,138 @@
           "a,acquisit,could,establish,for,list,of,potenti,softwar,solut,talent,you": {
             "intent": "list.vendors",
             "domain": "default"
+          },
+          "can,for,option,softwar,sourc,suggest,this,you": {
+            "intent": "sourcing.options",
+            "domain": "default"
+          },
+          "avenu,could,for,potenti,recommend,softwar,sourc,this,you": {
+            "intent": "sourcing.options",
+            "domain": "default"
+          },
+          "abl,be,channel,for,propos,softwar,sourc,this,to,would,you": {
+            "intent": "sourcing.options",
+            "domain": "default"
+          },
+          "can,for,provid,softwar,sourc,suggest,this,you": {
+            "intent": "sourcing.options",
+            "domain": "default"
+          },
+          "could,for,offer,option,recommend,softwar,sourc,this,you": {
+            "intent": "sourcing.options",
+            "domain": "default"
+          },
+          "for,method,mind,possibl,softwar,sourc,suggest,this,would,you": {
+            "intent": "sourcing.options",
+            "domain": "default"
+          },
+          "acquir,can,for,propos,softwar,sourc,strategi,this,you": {
+            "intent": "sourcing.options",
+            "domain": "default"
+          },
+          "altern,could,for,outlin,potenti,softwar,sourc,this,you": {
+            "intent": "sourcing.options",
+            "domain": "default"
+          },
+          "abl,be,for,obtain,present,softwar,solut,sourc,this,to,would,you": {
+            "intent": "sourcing.options",
+            "domain": "default"
+          },
+          "acquir,approach,can,for,softwar,sourc,suggest,this,you": {
+            "intent": "sourcing.options",
+            "domain": "default"
+          },
+          "could,for,guidanc,on,option,provid,softwar,sourc,this,you": {
+            "intent": "sourcing.options",
+            "domain": "default"
+          },
+          "altern,for,insight,into,mind,offer,softwar,sourc,this,would,you": {
+            "intent": "sourcing.options",
+            "domain": "default"
+          },
+          "avenu,can,for,obtain,propos,softwar,sourc,this,you": {
+            "intent": "sourcing.options",
+            "domain": "default"
+          },
+          "acquir,could,for,recommend,softwar,sourc,tactic,this,you": {
+            "intent": "sourcing.options",
+            "domain": "default"
+          },
+          "abl,be,for,obtain,pathway,softwar,sourc,suggest,this,to,would,you": {
+            "intent": "sourcing.options",
+            "domain": "default"
+          },
+          "can,channel,for,provid,softwar,sourc,suggest,this,you": {
+            "intent": "sourcing.options",
+            "domain": "default"
+          },
+          "could,for,method,offer,recommend,softwar,sourc,this,you": {
+            "intent": "sourcing.options",
+            "domain": "default"
+          },
+          "for,mind,possibl,softwar,sourc,strategi,suggest,this,would,you": {
+            "intent": "sourcing.options",
+            "domain": "default"
+          },
+          "acquir,can,for,option,propos,softwar,sourc,this,you": {
+            "intent": "sourcing.options",
+            "domain": "default"
+          },
+          "avenu,could,for,obtain,outlin,potenti,softwar,sourc,this,you": {
+            "intent": "sourcing.options",
+            "domain": "default"
+          },
+          "abl,acquir,altern,be,for,present,softwar,sourc,this,to,would,you": {
+            "intent": "sourcing.options",
+            "domain": "default"
+          },
+          "approach,can,for,obtain,softwar,sourc,suggest,this,you": {
+            "intent": "sourcing.options",
+            "domain": "default"
+          },
+          "acquir,could,for,guidanc,on,option,provid,softwar,sourc,this,you": {
+            "intent": "sourcing.options",
+            "domain": "default"
+          },
+          "for,insight,into,mind,offer,softwar,sourc,tactic,this,would,you": {
+            "intent": "sourcing.options",
+            "domain": "default"
+          },
+          "can,for,obtain,pathway,propos,softwar,sourc,this,you": {
+            "intent": "sourcing.options",
+            "domain": "default"
+          },
+          "acquir,could,for,recommend,softwar,sourc,strategi,this,you": {
+            "intent": "sourcing.options",
+            "domain": "default"
+          },
+          "abl,be,for,obtain,softwar,solut,sourc,suggest,this,to,would,you": {
+            "intent": "sourcing.options",
+            "domain": "default"
+          },
+          "altern,can,for,provid,softwar,sourc,suggest,this,you": {
+            "intent": "sourcing.options",
+            "domain": "default"
+          },
+          "approach,could,for,offer,recommend,softwar,sourc,this,you": {
+            "intent": "sourcing.options",
+            "domain": "default"
+          },
+          "channel,for,mind,possibl,softwar,sourc,suggest,this,would,you": {
+            "intent": "sourcing.options",
+            "domain": "default"
+          },
+          "messag,send": {
+            "intent": "send.message",
+            "domain": "default"
+          },
+          "thank,write": {
+            "intent": "write.thank",
+            "domain": "default"
+          },
+          "send,thank": {
+            "intent": "send.thank",
+            "domain": "default"
           }
         },
         "intentDict": {
@@ -900,7 +1032,11 @@
           "list.requirements": "default",
           "add.requirement": "default",
           "send.team": "default",
-          "list.vendors": "default"
+          "list.vendors": "default",
+          "sourcing.options": "default",
+          "send.message": "default",
+          "write.thank": "default",
+          "send.thank": "default"
         },
         "sentences": [
           {
@@ -2252,6 +2388,271 @@
             "domain": "default",
             "utterance": "Could you establish a list of potential solutions for a Talent Acquisition software?",
             "intent": "list.vendors"
+          },
+          {
+            "domain": "default",
+            "utterance": "Can you suggest sourcing options for this software?",
+            "intent": "sourcing.options"
+          },
+          {
+            "domain": "default",
+            "utterance": "Could you recommend potential sourcing avenues for this software?",
+            "intent": "sourcing.options"
+          },
+          {
+            "domain": "default",
+            "utterance": "Would you be able to propose sourcing channels for this software?",
+            "intent": "sourcing.options"
+          },
+          {
+            "domain": "default",
+            "utterance": "Can you provide suggestions for sourcing this software?",
+            "intent": "sourcing.options"
+          },
+          {
+            "domain": "default",
+            "utterance": "Could you offer recommendations for sourcing options for this software?",
+            "intent": "sourcing.options"
+          },
+          {
+            "domain": "default",
+            "utterance": "Would you mind suggesting possible sourcing methods for this software?",
+            "intent": "sourcing.options"
+          },
+          {
+            "domain": "default",
+            "utterance": "Can you propose sourcing strategies for acquiring this software?",
+            "intent": "sourcing.options"
+          },
+          {
+            "domain": "default",
+            "utterance": "Could you outline potential sourcing alternatives for this software?",
+            "intent": "sourcing.options"
+          },
+          {
+            "domain": "default",
+            "utterance": "Would you be able to present sourcing solutions for obtaining this software?",
+            "intent": "sourcing.options"
+          },
+          {
+            "domain": "default",
+            "utterance": "Can you suggest sourcing approaches for acquiring this software?",
+            "intent": "sourcing.options"
+          },
+          {
+            "domain": "default",
+            "utterance": "Could you provide guidance on sourcing options for this software?",
+            "intent": "sourcing.options"
+          },
+          {
+            "domain": "default",
+            "utterance": "Would you mind offering insights into sourcing alternatives for this software?",
+            "intent": "sourcing.options"
+          },
+          {
+            "domain": "default",
+            "utterance": "Can you propose sourcing avenues for obtaining this software?",
+            "intent": "sourcing.options"
+          },
+          {
+            "domain": "default",
+            "utterance": "Could you recommend sourcing tactics for acquiring this software?",
+            "intent": "sourcing.options"
+          },
+          {
+            "domain": "default",
+            "utterance": "Would you be able to suggest sourcing pathways for obtaining this software?",
+            "intent": "sourcing.options"
+          },
+          {
+            "domain": "default",
+            "utterance": "Can you provide suggestions for sourcing channels for this software?",
+            "intent": "sourcing.options"
+          },
+          {
+            "domain": "default",
+            "utterance": "Could you offer recommendations for sourcing methods for this software?",
+            "intent": "sourcing.options"
+          },
+          {
+            "domain": "default",
+            "utterance": "Would you mind suggesting possible sourcing strategies for this software?",
+            "intent": "sourcing.options"
+          },
+          {
+            "domain": "default",
+            "utterance": "Can you propose sourcing options for acquiring this software?",
+            "intent": "sourcing.options"
+          },
+          {
+            "domain": "default",
+            "utterance": "Could you outline potential sourcing avenues for obtaining this software?",
+            "intent": "sourcing.options"
+          },
+          {
+            "domain": "default",
+            "utterance": "Would you be able to present sourcing alternatives for acquiring this software?",
+            "intent": "sourcing.options"
+          },
+          {
+            "domain": "default",
+            "utterance": "Can you suggest sourcing approaches for obtaining this software?",
+            "intent": "sourcing.options"
+          },
+          {
+            "domain": "default",
+            "utterance": "Could you provide guidance on sourcing options for acquiring this software?",
+            "intent": "sourcing.options"
+          },
+          {
+            "domain": "default",
+            "utterance": "Would you mind offering insights into sourcing tactics for this software?",
+            "intent": "sourcing.options"
+          },
+          {
+            "domain": "default",
+            "utterance": "Can you propose sourcing pathways for obtaining this software?",
+            "intent": "sourcing.options"
+          },
+          {
+            "domain": "default",
+            "utterance": "Could you recommend sourcing strategies for acquiring this software?",
+            "intent": "sourcing.options"
+          },
+          {
+            "domain": "default",
+            "utterance": "Would you be able to suggest sourcing solutions for obtaining this software?",
+            "intent": "sourcing.options"
+          },
+          {
+            "domain": "default",
+            "utterance": "Can you provide suggestions for sourcing alternatives for this software?",
+            "intent": "sourcing.options"
+          },
+          {
+            "domain": "default",
+            "utterance": "Could you offer recommendations for sourcing approaches for this software?",
+            "intent": "sourcing.options"
+          },
+          {
+            "domain": "default",
+            "utterance": "Would you mind suggesting possible sourcing channels for this software?",
+            "intent": "sourcing.options"
+          },
+          {
+            "domain": "default",
+            "utterance": "Can you propose sourcing options for acquiring this software?",
+            "intent": "sourcing.options"
+          },
+          {
+            "domain": "default",
+            "utterance": "Could you outline potential sourcing avenues for obtaining this software?",
+            "intent": "sourcing.options"
+          },
+          {
+            "domain": "default",
+            "utterance": "Would you be able to present sourcing alternatives for acquiring this software?",
+            "intent": "sourcing.options"
+          },
+          {
+            "domain": "default",
+            "utterance": "Can you suggest sourcing approaches for obtaining this software?",
+            "intent": "sourcing.options"
+          },
+          {
+            "domain": "default",
+            "utterance": "Could you provide guidance on sourcing options for acquiring this software?",
+            "intent": "sourcing.options"
+          },
+          {
+            "domain": "default",
+            "utterance": "Would you mind offering insights into sourcing tactics for this software?",
+            "intent": "sourcing.options"
+          },
+          {
+            "domain": "default",
+            "utterance": "Can you propose sourcing pathways for obtaining this software?",
+            "intent": "sourcing.options"
+          },
+          {
+            "domain": "default",
+            "utterance": "Could you recommend sourcing strategies for acquiring this software?",
+            "intent": "sourcing.options"
+          },
+          {
+            "domain": "default",
+            "utterance": "Would you be able to suggest sourcing solutions for obtaining this software?",
+            "intent": "sourcing.options"
+          },
+          {
+            "domain": "default",
+            "utterance": "Can you provide suggestions for sourcing alternatives for this software?",
+            "intent": "sourcing.options"
+          },
+          {
+            "domain": "default",
+            "utterance": "Could you offer recommendations for sourcing methods for this software?",
+            "intent": "sourcing.options"
+          },
+          {
+            "domain": "default",
+            "utterance": "Would you mind suggesting possible sourcing strategies for this software?",
+            "intent": "sourcing.options"
+          },
+          {
+            "domain": "default",
+            "utterance": "Can you propose sourcing options for acquiring this software?",
+            "intent": "sourcing.options"
+          },
+          {
+            "domain": "default",
+            "utterance": "Could you outline potential sourcing avenues for obtaining this software?",
+            "intent": "sourcing.options"
+          },
+          {
+            "domain": "default",
+            "utterance": "Would you be able to present sourcing alternatives for acquiring this software?",
+            "intent": "sourcing.options"
+          },
+          {
+            "domain": "default",
+            "utterance": "Can you suggest sourcing approaches for obtaining this software?",
+            "intent": "sourcing.options"
+          },
+          {
+            "domain": "default",
+            "utterance": "Could you provide guidance on sourcing options for acquiring this software?",
+            "intent": "sourcing.options"
+          },
+          {
+            "domain": "default",
+            "utterance": "Would you mind offering insights into sourcing tactics for this software?",
+            "intent": "sourcing.options"
+          },
+          {
+            "domain": "default",
+            "utterance": "Can you propose sourcing pathways for obtaining this software?",
+            "intent": "sourcing.options"
+          },
+          {
+            "domain": "default",
+            "utterance": "Could you recommend sourcing strategies for acquiring this software?",
+            "intent": "sourcing.options"
+          },
+          {
+            "domain": "default",
+            "utterance": "send message",
+            "intent": "send.message"
+          },
+          {
+            "domain": "default",
+            "utterance": "write thank",
+            "intent": "write.thank"
+          },
+          {
+            "domain": "default",
+            "utterance": "send thank",
+            "intent": "send.thank"
           }
         ],
         "domains": {
@@ -2429,14 +2830,38 @@
               "establish": 1,
               "set": 1,
               "up": 1,
-              "solut": 1
+              "solut": 1,
+              "suggest": 1,
+              "sourc": 1,
+              "option": 1,
+              "this": 1,
+              "avenu": 1,
+              "propos": 1,
+              "channel": 1,
+              "method": 1,
+              "strategi": 1,
+              "acquir": 1,
+              "altern": 1,
+              "obtain": 1,
+              "approach": 1,
+              "insight": 1,
+              "into": 1,
+              "tactic": 1,
+              "pathway": 1,
+              "messag": 1,
+              "write": 1,
+              "thank": 1
             },
             "intents": {
               "greetings": 1,
               "list.requirements": 1,
               "add.requirement": 1,
               "send.team": 1,
-              "list.vendors": 1
+              "list.vendors": 1,
+              "sourcing.options": 1,
+              "send.message": 1,
+              "write.thank": 1,
+              "send.thank": 1
             },
             "intentFeatures": {
               "greetings": {
@@ -2651,6 +3076,57 @@
                 "set": 1,
                 "up": 1,
                 "solut": 1
+              },
+              "sourcing.options": {
+                "can": 1,
+                "you": 1,
+                "suggest": 1,
+                "sourc": 1,
+                "option": 1,
+                "for": 1,
+                "this": 1,
+                "softwar": 1,
+                "could": 1,
+                "recommend": 1,
+                "potenti": 1,
+                "avenu": 1,
+                "would": 1,
+                "be": 1,
+                "abl": 1,
+                "to": 1,
+                "propos": 1,
+                "channel": 1,
+                "provid": 1,
+                "offer": 1,
+                "mind": 1,
+                "possibl": 1,
+                "method": 1,
+                "strategi": 1,
+                "acquir": 1,
+                "outlin": 1,
+                "altern": 1,
+                "present": 1,
+                "solut": 1,
+                "obtain": 1,
+                "approach": 1,
+                "guidanc": 1,
+                "on": 1,
+                "insight": 1,
+                "into": 1,
+                "tactic": 1,
+                "pathway": 1
+              },
+              "send.message": {
+                "send": 1,
+                "messag": 1
+              },
+              "write.thank": {
+                "write": 1,
+                "thank": 1
+              },
+              "send.thank": {
+                "send": 1,
+                "thank": 1
               }
             },
             "featuresToIntent": {
@@ -2685,7 +3161,8 @@
                 "list.requirements",
                 "add.requirement",
                 "send.team",
-                "list.vendors"
+                "list.vendors",
+                "sourcing.options"
               ],
               "a": [
                 "list.requirements",
@@ -2703,7 +3180,8 @@
               ],
               "softwar": [
                 "list.requirements",
-                "list.vendors"
+                "list.vendors",
+                "sourcing.options"
               ],
               "an": [
                 "list.requirements"
@@ -2720,7 +3198,8 @@
               ],
               "outlin": [
                 "list.requirements",
-                "list.vendors"
+                "list.vendors",
+                "sourcing.options"
               ],
               "the": [
                 "list.requirements",
@@ -2734,13 +3213,15 @@
               "provid": [
                 "list.requirements",
                 "send.team",
-                "list.vendors"
+                "list.vendors",
+                "sourcing.options"
               ],
               "detail": [
                 "list.requirements"
               ],
               "present": [
-                "list.requirements"
+                "list.requirements",
+                "sourcing.options"
               ],
               "out": [
                 "list.requirements"
@@ -2759,7 +3240,8 @@
               ],
               "on": [
                 "list.requirements",
-                "send.team"
+                "send.team",
+                "sourcing.options"
               ],
               "overview": [
                 "list.requirements"
@@ -2767,12 +3249,14 @@
               "can": [
                 "add.requirement",
                 "send.team",
-                "list.vendors"
+                "list.vendors",
+                "sourcing.options"
               ],
               "you": [
                 "add.requirement",
                 "send.team",
-                "list.vendors"
+                "list.vendors",
+                "sourcing.options"
               ],
               "add": [
                 "add.requirement"
@@ -2793,7 +3277,8 @@
               "could": [
                 "add.requirement",
                 "send.team",
-                "list.vendors"
+                "list.vendors",
+                "sourcing.options"
               ],
               "featur": [
                 "add.requirement"
@@ -2806,12 +3291,14 @@
               ],
               "possibl": [
                 "add.requirement",
-                "list.vendors"
+                "list.vendors",
+                "sourcing.options"
               ],
               "to": [
                 "add.requirement",
                 "send.team",
-                "list.vendors"
+                "list.vendors",
+                "sourcing.options"
               ],
               "condit": [
                 "add.requirement"
@@ -2828,12 +3315,14 @@
               "would": [
                 "add.requirement",
                 "send.team",
-                "list.vendors"
+                "list.vendors",
+                "sourcing.options"
               ],
               "mind": [
                 "add.requirement",
                 "send.team",
-                "list.vendors"
+                "list.vendors",
+                "sourcing.options"
               ],
               "ad": [
                 "add.requirement"
@@ -2850,7 +3339,8 @@
               "be": [
                 "add.requirement",
                 "send.team",
-                "list.vendors"
+                "list.vendors",
+                "sourcing.options"
               ],
               "viabl": [
                 "add.requirement"
@@ -2913,7 +3403,9 @@
                 "send.team"
               ],
               "send": [
-                "send.team"
+                "send.team",
+                "send.message",
+                "send.thank"
               ],
               "review": [
                 "send.team"
@@ -2960,7 +3452,8 @@
               ],
               "abl": [
                 "send.team",
-                "list.vendors"
+                "list.vendors",
+                "sourcing.options"
               ],
               "convey": [
                 "send.team"
@@ -3086,7 +3579,8 @@
                 "send.team"
               ],
               "offer": [
-                "send.team"
+                "send.team",
+                "sourcing.options"
               ],
               "give": [
                 "send.team"
@@ -3101,7 +3595,8 @@
                 "send.team"
               ],
               "guidanc": [
-                "send.team"
+                "send.team",
+                "sourcing.options"
               ],
               "direct": [
                 "send.team"
@@ -3110,10 +3605,12 @@
                 "send.team"
               ],
               "recommend": [
-                "send.team"
+                "send.team",
+                "sourcing.options"
               ],
               "potenti": [
-                "list.vendors"
+                "list.vendors",
+                "sourcing.options"
               ],
               "vendor": [
                 "list.vendors"
@@ -3179,7 +3676,69 @@
                 "list.vendors"
               ],
               "solut": [
-                "list.vendors"
+                "list.vendors",
+                "sourcing.options"
+              ],
+              "suggest": [
+                "sourcing.options"
+              ],
+              "sourc": [
+                "sourcing.options"
+              ],
+              "option": [
+                "sourcing.options"
+              ],
+              "this": [
+                "sourcing.options"
+              ],
+              "avenu": [
+                "sourcing.options"
+              ],
+              "propos": [
+                "sourcing.options"
+              ],
+              "channel": [
+                "sourcing.options"
+              ],
+              "method": [
+                "sourcing.options"
+              ],
+              "strategi": [
+                "sourcing.options"
+              ],
+              "acquir": [
+                "sourcing.options"
+              ],
+              "altern": [
+                "sourcing.options"
+              ],
+              "obtain": [
+                "sourcing.options"
+              ],
+              "approach": [
+                "sourcing.options"
+              ],
+              "insight": [
+                "sourcing.options"
+              ],
+              "into": [
+                "sourcing.options"
+              ],
+              "tactic": [
+                "sourcing.options"
+              ],
+              "pathway": [
+                "sourcing.options"
+              ],
+              "messag": [
+                "send.message"
+              ],
+              "write": [
+                "write.thank"
+              ],
+              "thank": [
+                "write.thank",
+                "send.thank"
               ]
             },
             "neuralNetwork": {
@@ -3356,99 +3915,123 @@
                 "establish",
                 "set",
                 "up",
-                "solut"
+                "solut",
+                "suggest",
+                "sourc",
+                "option",
+                "this",
+                "avenu",
+                "propos",
+                "channel",
+                "method",
+                "strategi",
+                "acquir",
+                "altern",
+                "obtain",
+                "approach",
+                "insight",
+                "into",
+                "tactic",
+                "pathway",
+                "messag",
+                "write",
+                "thank"
               ],
               "intents": [
                 "greetings",
                 "list.requirements",
                 "add.requirement",
                 "send.team",
-                "list.vendors"
+                "list.vendors",
+                "sourcing.options",
+                "send.message",
+                "write.thank",
+                "send.thank"
               ],
               "perceptrons": [
                 [
-                  3.098417043685913,
-                  3.098417043685913,
-                  5.901320934295654,
-                  5.838144779205322,
-                  5.77379846572876,
-                  -0.5012509822845459,
-                  -1.1381903886795044,
-                  -1.7069817781448364,
-                  -2.9085681438446045,
-                  -1.0794451236724854,
-                  -0.3102002441883087,
-                  -0.5539235472679138,
-                  -2.9539246559143066,
-                  -0.36174917221069336,
-                  -0.888584315776825,
-                  -0.4778106212615967,
-                  -1.7130924463272095,
-                  -0.5025907158851624,
-                  -1.2640633583068848,
-                  -0.7427024245262146,
+                  3.684457540512085,
+                  3.684457540512085,
+                  7.029767036437988,
+                  6.963923931121826,
+                  6.8966240882873535,
+                  -0.4505148231983185,
+                  -0.972896933555603,
+                  -1.4459998607635498,
+                  -2.5819144248962402,
+                  -0.9003766179084778,
+                  -0.29044216871261597,
+                  -0.48937588930130005,
+                  -2.637122869491577,
+                  -0.2998361885547638,
+                  -0.6619830131530762,
+                  -0.37887245416641235,
+                  -1.3086457252502441,
+                  -0.40549543499946594,
+                  -1.0306209325790405,
+                  -0.601834774017334,
+                  -0.021011264994740486,
+                  -0.03052852302789688,
+                  -0.5481674671173096,
                   0,
-                  -0.03335507959127426,
-                  -0.7033218741416931,
+                  0,
+                  -0.031305477023124695,
+                  0,
+                  -0.1997389942407608,
+                  -0.1997389942407608,
+                  0,
+                  -0.3711247146129608,
+                  -0.8510110974311829,
+                  -0.28023162484169006,
+                  -0.5243002772331238,
+                  -0.8507774472236633,
+                  -0.5243002772331238,
+                  -0.5243002772331238,
+                  -0.3766794502735138,
+                  -0.08767026662826538,
+                  -0.17989854514598846,
+                  -0.20476117730140686,
+                  -0.1842036247253418,
+                  -0.44087129831314087,
+                  -0.033635690808296204,
+                  -0.0012320696841925383,
+                  -0.1636233925819397,
+                  -0.044834502041339874,
+                  -0.21358199417591095,
+                  -0.09910576045513153,
+                  -0.036371439695358276,
+                  -0.10575582832098007,
                   0,
                   0,
-                  -0.037358928471803665,
+                  -0.114227794110775,
+                  -0.057382140308618546,
+                  -0.05296021327376366,
                   0,
-                  -0.24370774626731873,
-                  -0.24370774626731873,
                   0,
-                  -0.32677900791168213,
-                  -0.8181029558181763,
-                  -0.33211472630500793,
-                  -0.6734107136726379,
-                  -1.0765267610549927,
-                  -0.6734107136726379,
-                  -0.6734107136726379,
-                  -0.39300134778022766,
-                  -0.12729455530643463,
-                  -0.18230405449867249,
-                  -0.19953225553035736,
-                  -0.18230405449867249,
-                  -0.4763859212398529,
-                  -0.07453210651874542,
-                  -0.03533565625548363,
-                  -0.1651047319173813,
-                  -0.06435710191726685,
-                  -0.19704948365688324,
-                  -0.08623407781124115,
-                  -0.08345595002174377,
-                  -0.13527217507362366,
-                  -0.016182254999876022,
                   0,
-                  -0.09906595945358276,
-                  -0.03999997302889824,
-                  -0.0584094375371933,
-                  -0.016182254999876022,
-                  -0.0011059450916945934,
-                  -0.0015374856302514672,
-                  -0.010718020610511303,
-                  -0.06707434356212616,
-                  -0.08169391751289368,
-                  -0.14094939827919006,
+                  -0.012915766797959805,
+                  -0.051089219748973846,
+                  -0.08560293912887573,
+                  -0.1340237259864807,
                   0,
-                  -0.003140518441796303,
+                  0,
                   -0.0071871899999678135,
-                  -0.426283597946167,
-                  -0.426283597946167,
-                  -0.426283597946167,
-                  -0.426283597946167,
+                  -0.34874585270881653,
+                  -0.34874585270881653,
+                  -0.34874585270881653,
+                  -0.34874585270881653,
                   -0.0071871899999678135,
                   -0.003204206470400095,
-                  -0.4091978669166565,
+                  -0.3326301574707031,
                   -0.003204206470400095,
-                  -0.0017909937305375934,
-                  -0.0017909937305375934,
+                  -4.043117046356201,
+                  -0.0008706645458005369,
                   0,
-                  -0.1709020584821701,
-                  -0.2315121591091156,
-                  -0.2315121591091156,
-                  -0.2315121591091156,
-                  -0.2315121591091156,
+                  -0.12373723089694977,
+                  -0.20217560231685638,
+                  -0.20217560231685638,
+                  -0.20217560231685638,
+                  -0.20217560231685638,
                   0,
                   0,
                   0,
@@ -3456,10 +4039,11 @@
                   0,
                   0,
                   0,
+                  -0.001959943911060691,
                   0,
+                  -0.12373723089694977,
+                  -0.12373723089694977,
                   0,
-                  -0.1709020584821701,
-                  -0.1709020584821701,
                   0,
                   0,
                   0,
@@ -3496,6 +4080,7 @@
                   0,
                   0,
                   0,
+                  -0.05271704122424126,
                   0,
                   0,
                   0,
@@ -3503,6 +4088,8 @@
                   0,
                   0,
                   0,
+                  -0.04946272075176239,
+                  -0.039130643010139465,
                   0,
                   0,
                   0,
@@ -3525,94 +4112,109 @@
                   0,
                   0,
                   0,
-                  0,
-                  0,
-                  0,
-                  0,
-                  8.29465048802765
+                  -0.1056235134601593,
+                  -0.2682952880859375,
+                  -0.07425675541162491,
+                  -0.2682952880859375,
+                  -0.043226681649684906,
+                  -0.063104048371315,
+                  -0.001959943911060691,
+                  -0.006158190779387951,
+                  -0.03361733257770538,
+                  -0.039996225386857986,
+                  -0.03476904332637787,
+                  -0.024648038670420647,
+                  -0.001357600325718522,
+                  -0.04931788891553879,
+                  -0.04931788891553879,
+                  -0.01959609054028988,
+                  -0.022027190774679184,
+                  -2.917503833770752,
+                  -2.908639669418335,
+                  -4.032510757446289,
+                  7.073705459859512
                 ],
                 [
-                  -0.4606078565120697,
-                  -0.4606078565120697,
-                  -0.7637990117073059,
-                  -0.7526051998138428,
-                  -0.7413819432258606,
-                  0.6569635272026062,
-                  0.1696092039346695,
-                  4.755972862243652,
-                  1.4693418741226196,
-                  -0.08057381957769394,
-                  -0.02166033536195755,
-                  -0.01463992428034544,
-                  6.707213878631592,
-                  -0.07583504915237427,
-                  0.44436851143836975,
-                  0.41933485865592957,
-                  4.209970474243164,
-                  1.097614049911499,
-                  -0.006359799765050411,
-                  0.05566941201686859,
-                  -0.9540359377861023,
-                  0.19443373382091522,
-                  0.5936117768287659,
-                  -0.1508481502532959,
-                  0.15802694857120514,
-                  0.6458011269569397,
-                  0.18228471279144287,
-                  0.9637956619262695,
-                  0.9637956619262695,
-                  1.7976722717285156,
-                  -2.7745697498321533,
-                  -6.23521614074707,
-                  -1.1248290538787842,
-                  -1.433678388595581,
-                  -1.433678388595581,
-                  -1.433678388595581,
-                  -1.433678388595581,
-                  -2.3442203998565674,
+                  -0.3754844665527344,
+                  -0.3754844665527344,
+                  -0.6433666944503784,
+                  -0.6356950402259827,
+                  -0.6279412508010864,
+                  0.721896767616272,
+                  0.16151565313339233,
+                  4.842427730560303,
+                  1.4306540489196777,
+                  -0.06977491825819016,
+                  -0.020488116890192032,
+                  -0.007078864146023989,
+                  6.744534969329834,
+                  -0.07774893194437027,
+                  0.5291366577148438,
+                  0.35368385910987854,
+                  4.334747314453125,
+                  1.058716058731079,
+                  0.008778363466262817,
+                  0.1976875364780426,
+                  -1.0524929761886597,
+                  0.28439992666244507,
+                  0.6718506813049316,
+                  -0.12109541147947311,
+                  0.30897778272628784,
+                  0.7390588521957397,
+                  0.2349695861339569,
+                  0.8615652918815613,
+                  0.8615652918815613,
+                  1.7295749187469482,
+                  -2.7504494190216064,
+                  -6.343758583068848,
+                  -1.1191225051879883,
+                  -1.3909788131713867,
+                  -1.3909788131713867,
+                  -1.3909788131713867,
+                  -1.3909788131713867,
+                  -2.334482192993164,
                   -0.1287817358970642,
-                  -0.3674021363258362,
-                  -0.3674021363258362,
-                  -1.1588666439056396,
-                  -1.1715178489685059,
+                  -0.33035993576049805,
+                  -0.33035993576049805,
+                  -1.168122410774231,
+                  -1.2576649188995361,
                   0,
                   0,
                   0,
                   0,
-                  -0.9953660368919373,
-                  -0.8447637557983398,
+                  -1.1451632976531982,
+                  -0.8530798554420471,
                   -0.05595638230443001,
                   0,
                   0,
                   -0.05595638230443001,
+                  -0.11678971350193024,
+                  -0.019782472401857376,
                   0,
-                  -0.02464451640844345,
-                  -0.0007352595566771924,
                   0,
-                  -0.0007352595566771924,
-                  -0.02464451640844345,
                   0,
+                  -0.019782472401857376,
                   0,
                   0,
                   0,
                   0,
                   0,
-                  -0.3426286578178406,
-                  -0.8697870969772339,
-                  -0.8697870969772339,
-                  -0.8697870969772339,
-                  -0.8697870969772339,
-                  -0.3426286578178406,
-                  -0.19068951904773712,
-                  -0.32696276903152466,
-                  -0.24113249778747559,
-                  -0.05245128646492958,
-                  -0.05245128646492958,
                   0,
-                  -0.04169268161058426,
-                  -0.04169268161058426,
-                  -0.04169268161058426,
+                  -0.22717569768428802,
+                  -0.8382576107978821,
+                  -0.8382576107978821,
+                  -0.8382576107978821,
+                  -0.8382576107978821,
+                  -0.22717569768428802,
+                  -0.18733693659305573,
+                  -0.3184753656387329,
+                  -0.23250842094421387,
+                  -0.51432865858078,
+                  -0.04308681935071945,
                   0,
+                  -0.04644191637635231,
+                  -0.04644191637635231,
+                  -0.04644191637635231,
                   0,
                   0,
                   0,
@@ -3622,12 +4224,13 @@
                   0,
                   0,
                   0,
+                  -0.11678971350193024,
                   0,
                   0,
                   0,
-                  -0.016300754621624947,
-                  -0.016300754621624947,
-                  -0.016300754621624947,
+                  -0.0127055449411273,
+                  -0.0127055449411273,
+                  -0.0127055449411273,
                   0,
                   0,
                   0,
@@ -3646,44 +4249,46 @@
                   0,
                   0,
                   0,
-                  -0.04169268161058426,
-                  -0.0003338948590680957,
+                  -0.04644191637635231,
+                  -0.0015098369913175702,
                   0,
                   0,
                   0,
-                  -0.007416378706693649,
-                  -0.007416378706693649,
+                  -0.008659166283905506,
+                  -0.008659166283905506,
                   0,
                   0,
                   0,
-                  -0.19436538219451904,
-                  -0.018920082598924637,
+                  -0.16143056750297546,
+                  -0.01985236071050167,
                   0,
                   0,
                   0,
                   0,
+                  -0.09494312107563019,
                   0,
                   0,
                   0,
+                  -0.0015098369913175702,
                   0,
-                  -0.0003338948590680957,
                   0,
                   0,
+                  -0.06838122755289078,
+                  -2.0360050201416016,
+                  -2.7916653156280518,
+                  -0.9643566012382507,
+                  -0.9643566012382507,
                   0,
                   0,
-                  -2.1622073650360107,
-                  -2.973214626312256,
-                  -1.002608060836792,
-                  -1.002608060836792,
                   0,
+                  -0.27311640977859497,
                   0,
                   0,
-                  -0.30174559354782104,
+                  -0.16143056750297546,
+                  -0.4151785373687744,
+                  -0.117630735039711,
                   0,
                   0,
-                  -0.19436538219451904,
-                  -0.4106510281562805,
-                  -0.1320280283689499,
                   0,
                   0,
                   0,
@@ -3691,77 +4296,95 @@
                   0,
                   0,
                   0,
+                  -0.3033011555671692,
+                  -0.1394052952528,
+                  -0.43403229117393494,
+                  -0.11160016059875488,
+                  -0.43403229117393494,
+                  -0.020567653700709343,
+                  -0.033160027116537094,
+                  -0.033160027116537094,
+                  -0.0554349347949028,
                   0,
+                  -0.0024109594523906708,
+                  -0.04298653453588486,
+                  -0.041230835020542145,
                   0,
-                  -0.2651767432689667,
-                  0.8296078094144637
+                  -0.040918778628110886,
+                  -0.040918778628110886,
+                  -0.002078792080283165,
+                  0,
+                  -0.28818967938423157,
+                  -0.3136916160583496,
+                  -0.4743269383907318,
+                  0.6997341639956809
                 ],
                 [
-                  -0.06711659580469131,
-                  -0.06711659580469131,
-                  -0.09784169495105743,
-                  -0.09685008227825165,
-                  -0.09581016004085541,
-                  -0.8346062898635864,
-                  -0.10668106377124786,
-                  0.16518619656562805,
-                  0.5571931600570679,
-                  1.347013235092163,
-                  -1.0910334587097168,
-                  -0.8584199547767639,
-                  -1.3554574251174927,
+                  -0.04862150549888611,
+                  -0.04862150549888611,
+                  -0.06850674748420715,
+                  -0.06794826686382294,
+                  -0.0674140602350235,
+                  -0.7867850065231323,
+                  -0.0791761502623558,
+                  0.17365683615207672,
+                  0.4985186755657196,
+                  1.4682713747024536,
+                  -1.0447596311569214,
+                  -0.8381356000900269,
+                  -1.439227819442749,
                   0,
-                  -0.218160480260849,
-                  -0.15688686072826385,
-                  0.12276507169008255,
-                  -0.07269309461116791,
+                  -0.18442396819591522,
+                  -0.1304153949022293,
+                  0.14807459712028503,
+                  -0.06864050030708313,
                   -0.7510247230529785,
-                  -0.6645923852920532,
-                  -0.33366909623146057,
+                  -0.663532018661499,
+                  -0.33453434705734253,
                   0,
-                  -0.041129227727651596,
-                  0,
-                  0,
+                  -0.03837253898382187,
                   0,
                   0,
                   0,
                   0,
                   0,
-                  0.2297297716140747,
-                  0.4481129050254822,
-                  0.2794015109539032,
-                  2.791445732116699,
-                  2.791445732116699,
-                  2.791445732116699,
-                  2.791445732116699,
-                  0.2280530035495758,
-                  0.16792619228363037,
-                  0.40326982736587524,
-                  0.3268945813179016,
-                  0.2010352611541748,
-                  -0.19398453831672668,
-                  0.17167066037654877,
-                  0.16288945078849792,
-                  0.10535766184329987,
-                  0.1649998277425766,
-                  0.23371876776218414,
-                  0.02504240907728672,
-                  0.292971134185791,
-                  0.14882095158100128,
-                  0.16651538014411926,
-                  0.030112840235233307,
-                  0.17837828397750854,
-                  0.14624732732772827,
-                  0.14035889506340027,
-                  0.28194937109947205,
-                  0.27230367064476013,
-                  0.28105390071868896,
-                  0.2790949046611786,
-                  0.2824705243110657,
-                  0.31789928674697876,
-                  0.2829689383506775,
-                  0.27273818850517273,
-                  0.2671683430671692,
+                  0,
+                  0,
+                  0.19243057072162628,
+                  0.33868855237960815,
+                  0.28251972794532776,
+                  2.816737413406372,
+                  2.816737413406372,
+                  2.816737413406372,
+                  2.816737413406372,
+                  0.19142262637615204,
+                  0.17508861422538757,
+                  0.3625630736351013,
+                  0.30324041843414307,
+                  0.145070418715477,
+                  -0.24104005098342896,
+                  0.1788836568593979,
+                  0.1723475456237793,
+                  0.1345251351594925,
+                  0.17371316254138947,
+                  0.1972147524356842,
+                  0.011477804742753506,
+                  0.29314011335372925,
+                  0.16325169801712036,
+                  0.1742694228887558,
+                  0.013440706767141819,
+                  0.17204728722572327,
+                  0.1082553043961525,
+                  0.10499955713748932,
+                  0.28327134251594543,
+                  0.2771918475627899,
+                  0.28393155336380005,
+                  0.2808329164981842,
+                  0.28367117047309875,
+                  0.30070146918296814,
+                  0.2830081582069397,
+                  0.27764734625816345,
+                  0.2720082402229309,
                   -0.22115005552768707,
                   -0.7510247230529785,
                   -0.7510247230529785,
@@ -3771,7 +4394,7 @@
                   -0.1407778114080429,
                   -0.26233068108558655,
                   -0.1407778114080429,
-                  -0.025895526632666588,
+                  -0.105397067964077,
                   -0.025895526632666588,
                   0,
                   -0.05116395652294159,
@@ -3786,7 +4409,7 @@
                   0,
                   0,
                   0,
-                  -0.03253734111785889,
+                  -0.05147143825888634,
                   0,
                   0,
                   0,
@@ -3821,7 +4444,13 @@
                   0,
                   0,
                   0,
-                  -0.021414490416646004,
+                  -0.02035409025847912,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  -0.015551168471574783,
                   0,
                   0,
                   0,
@@ -3829,15 +4458,9 @@
                   0,
                   0,
                   0,
-                  0,
-                  0,
-                  0,
-                  0,
-                  0,
-                  0,
-                  0,
-                  -0.31201833486557007,
-                  -0.6990345120429993,
+                  -0.03970428928732872,
+                  -0.3829525113105774,
+                  -0.6949819326400757,
                   -0.11114922910928726,
                   -0.11114922910928726,
                   -0.03253734111785889,
@@ -3846,7 +4469,7 @@
                   0,
                   0,
                   0,
-                  -0.021414490416646004,
+                  -0.02035409025847912,
                   0,
                   0,
                   0,
@@ -3854,154 +4477,174 @@
                   0,
                   0,
                   0,
-                  -0.021048936992883682,
+                  -0.01593683287501335,
                   0,
                   0,
                   0,
-                  -0.010107025504112244,
-                  0.09766799477051
+                  -0.008906380273401737,
+                  -0.11438100785017014,
+                  -0.17731958627700806,
+                  -0.03923716023564339,
+                  -0.17731958627700806,
+                  -0.008085335604846478,
+                  -0.0026654258836060762,
+                  -0.0026654258836060762,
+                  -0.050268977880477905,
+                  -0.015374614857137203,
+                  -0.002228198107331991,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  -0.002228198107331991,
+                  0,
+                  -0.026926279067993164,
+                  -0.03970247879624367,
+                  -0.0658971443772316,
+                  0.06806463533114349
                 ],
                 [
-                  -0.027763022109866142,
-                  -0.027763022109866142,
-                  -0.027267027646303177,
-                  -0.026150047779083252,
-                  -0.025078801438212395,
-                  -0.753288745880127,
-                  -0.601428210735321,
-                  0.969967246055603,
-                  -0.056125808507204056,
-                  -0.6253357529640198,
-                  -0.6064212918281555,
-                  -0.80036461353302,
-                  -1.5389339923858643,
-                  -0.16487611830234528,
-                  -0.015372927300632,
-                  -0.07335774600505829,
-                  -0.07335774600505829,
-                  -0.19857187569141388,
-                  1.451115369796753,
-                  -0.6349532604217529,
-                  -0.25181546807289124,
-                  -0.07335774600505829,
+                  -0.011214415542781353,
+                  -0.011214415542781353,
+                  -0.010996362194418907,
+                  -0.010545259341597557,
+                  -0.010112653486430645,
+                  -0.6750662326812744,
+                  -0.48965883255004883,
+                  1.1358426809310913,
+                  -0.13126954436302185,
+                  -0.5878243446350098,
+                  -0.6071761846542358,
+                  -0.7755563259124756,
+                  -1.732622504234314,
+                  -0.13054697215557098,
+                  -0.004763636272400618,
+                  -0.03542936593294144,
+                  -0.03542936593294144,
+                  -0.18696221709251404,
+                  1.5239894390106201,
+                  -0.6706559062004089,
+                  -0.2294984757900238,
+                  -0.03542936593294144,
                   0,
-                  -0.14085248112678528,
-                  -0.22414539754390717,
-                  0,
-                  0,
-                  0,
-                  -0.10355211049318314,
-                  0,
-                  0.41259530186653137,
-                  1.0554510354995728,
-                  -0.32431989908218384,
-                  -0.5314217805862427,
-                  -0.08279479295015335,
-                  -0.5314217805862427,
-                  -0.5314217805862427,
-                  0.31520915031433105,
-                  -0.015042033046483994,
+                  -0.17454080283641815,
+                  -0.23287104070186615,
                   0,
                   0,
                   0,
-                  0.6933701634407043,
+                  -0.0948127806186676,
                   0,
+                  0.35426053404808044,
+                  0.8662087321281433,
+                  -0.28838911652565,
+                  -0.4788808524608612,
+                  -0.047699011862277985,
+                  -0.4788808524608612,
+                  -0.4788808524608612,
+                  0.24988627433776855,
                   0,
-                  0,
-                  0,
-                  0.32532498240470886,
-                  0.6564146876335144,
-                  -0.03000585362315178,
-                  -0.03000585362315178,
-                  0,
-                  0,
-                  -0.2742984890937805,
-                  0,
-                  0,
-                  -0.0743093192577362,
-                  -0.06302198022603989,
+                  -0.04328228905797005,
+                  -0.04328228905797005,
+                  -0.02325156331062317,
+                  0.6522170305252075,
                   0,
                   0,
                   0,
                   0,
+                  0.25818973779678345,
+                  0.6744519472122192,
+                  -0.02945430390536785,
+                  -0.02945430390536785,
+                  0,
+                  0,
+                  -0.24296019971370697,
+                  -0.002669858979061246,
+                  -0.007814845070242882,
+                  -0.06742831319570541,
+                  -0.06240611895918846,
+                  -0.002669858979061246,
                   0,
                   0,
                   0,
-                  0.31191569566726685,
-                  2.219806671142578,
-                  2.219806671142578,
-                  2.219806671142578,
-                  2.219806671142578,
-                  0.5889662504196167,
-                  0.26274678111076355,
-                  0.5631705522537231,
-                  0.4376576244831085,
-                  0.02780730463564396,
-                  0.4432046711444855,
-                  0.38298529386520386,
-                  0.2991873621940613,
-                  0.4747803211212158,
-                  0.4747803211212158,
-                  0.5783122181892395,
-                  -0.06753934174776077,
-                  0.25589174032211304,
-                  0.25589174032211304,
-                  0.25589174032211304,
-                  0.24586132168769836,
-                  0.24059341847896576,
-                  -0.02275051921606064,
-                  -0.02275051921606064,
-                  -0.2590324580669403,
-                  0.44444936513900757,
-                  0.10101431608200073,
-                  -0.26278120279312134,
-                  0.13355475664138794,
-                  0.13355475664138794,
-                  0.13355475664138794,
-                  -0.30207735300064087,
-                  -0.28594517707824707,
-                  -0.14629864692687988,
-                  -0.14629864692687988,
-                  -0.14629864692687988,
-                  -0.14629864692687988,
-                  -0.7659710049629211,
-                  -0.4580061435699463,
-                  -0.15448123216629028,
-                  -0.23701535165309906,
-                  0.08404596149921417,
-                  0.2500210702419281,
-                  0.2500210702419281,
-                  0.2102489322423935,
-                  0.563143253326416,
-                  0.09487148374319077,
-                  -0.15393976867198944,
-                  -0.051010724157094955,
-                  0.048487596213817596,
-                  -0.20565690100193024,
-                  -0.2726024091243744,
-                  -0.0030189312528818846,
-                  -0.0809265598654747,
-                  0.34418660402297974,
-                  0.34418660402297974,
-                  -0.080721415579319,
-                  -0.10355211049318314,
-                  0.03011298179626465,
-                  0.03011298179626465,
-                  0.03352353349328041,
-                  0.05254339054226875,
-                  0.1264931708574295,
-                  0.0717788115143776,
-                  0.25738289952278137,
-                  -0.1825547218322754,
-                  -0.02060537599027157,
-                  -0.2978672981262207,
-                  -0.026290826499462128,
-                  0.04396269470453262,
-                  0.08379791676998138,
-                  -0.20924842357635498,
-                  -0.1592218279838562,
-                  0.0027942941524088383,
-                  -0.29108908772468567,
+                  0,
+                  0,
+                  0,
+                  0.2658563554286957,
+                  2.272508382797241,
+                  2.272508382797241,
+                  2.272508382797241,
+                  2.272508382797241,
+                  0.6035364866256714,
+                  0.2057148963212967,
+                  0.5929626226425171,
+                  0.42465606331825256,
+                  -0.027628852054476738,
+                  0.45861801505088806,
+                  0.3478677570819855,
+                  0.2914433777332306,
+                  0.43938443064689636,
+                  0.43938443064689636,
+                  0.5277652144432068,
+                  -0.08419398218393326,
+                  0.25553426146507263,
+                  0.25553426146507263,
+                  0.25553426146507263,
+                  0.22959941625595093,
+                  0.29927191138267517,
+                  0.018851574510335922,
+                  0.018851574510335922,
+                  -0.2517477869987488,
+                  0.4898886978626251,
+                  0.04950781166553497,
+                  -0.22621676325798035,
+                  0.16425742208957672,
+                  0.16425742208957672,
+                  0.16425742208957672,
+                  -0.2562828063964844,
+                  -0.27165520191192627,
+                  -0.12147127836942673,
+                  -0.12147127836942673,
+                  -0.12147127836942673,
+                  -0.12147127836942673,
+                  -0.732532262802124,
+                  -0.5648685097694397,
+                  -0.2760263681411743,
+                  -0.29635870456695557,
+                  0.033658742904663086,
+                  0.20885315537452698,
+                  0.20885315537452698,
+                  0.17003008723258972,
+                  0.5081839561462402,
+                  0.22392725944519043,
+                  -0.10357023030519485,
+                  -0.01773965172469616,
+                  0.10476880520582199,
+                  -0.17828258872032166,
+                  -0.2761189043521881,
+                  -0.02174726314842701,
+                  -0.09831283241510391,
+                  0.3101724684238434,
+                  0.3101724684238434,
+                  -0.09047544002532959,
+                  -0.0948127806186676,
+                  0.06695836037397385,
+                  0.06695836037397385,
+                  0.05834810435771942,
+                  0.055258575826883316,
+                  0.16719040274620056,
+                  0.0574006550014019,
+                  0.23804989457130432,
+                  -0.20526228845119476,
+                  -0.00950711127370596,
+                  -0.2512294352054596,
+                  -0.017826758325099945,
+                  0.04240863025188446,
+                  0.09441409260034561,
+                  -0.18904225528240204,
+                  -0.13065312802791595,
+                  -0.05612315982580185,
+                  -0.4020966589450836,
                   -0.4806376099586487,
                   -0.1010330393910408,
                   -0.1010330393910408,
@@ -4024,104 +4667,119 @@
                   0,
                   0,
                   0,
-                  -0.004505978299602002
+                  -0.09987545758485794,
+                  -0.33016011118888855,
+                  -0.10323704034090042,
+                  -0.33016011118888855,
+                  -0.04146089404821396,
+                  -0.04898189753293991,
+                  -0.04898189753293991,
+                  -0.001195031451061368,
+                  0,
+                  0,
+                  -0.006378435995429754,
+                  0,
+                  0,
+                  -0.012450596317648888,
+                  -0.012450596317648888,
+                  -0.0028829423245042562,
+                  0,
+                  -0.08733611553907394,
+                  -0.012426144443452358,
+                  -0.08965788781642914,
+                  -0.09333689670808536
                 ],
                 [
-                  -0.06426771730184555,
-                  -0.06426771730184555,
-                  -0.06321729719638824,
-                  -0.06063117831945419,
-                  -0.058150794357061386,
-                  -0.10742209851741791,
-                  -2.0038981437683105,
-                  -4.6401543617248535,
-                  -0.7456645965576172,
-                  -0.35057568550109863,
-                  1.1431832313537598,
-                  1.1630496978759766,
-                  0.6958779692649841,
-                  -0.5009492039680481,
-                  -1.114803671836853,
-                  -0.7290340662002563,
-                  -1.928006887435913,
-                  1.9651702642440796,
-                  -1.1747617721557617,
-                  2.016195058822632,
-                  0.8865488171577454,
-                  -0.0006929822848178446,
-                  -0.07647572457790375,
+                  -0.010889367200434208,
+                  -0.010889367200434208,
+                  -0.010728436522185802,
+                  -0.010290171019732952,
+                  -0.009869799017906189,
+                  0.026311226189136505,
+                  -2.047746181488037,
+                  -5.090534687042236,
+                  -1.645804524421692,
+                  0.9863876104354858,
+                  2.235891580581665,
+                  2.302589178085327,
+                  -1.0101583003997803,
+                  -0.39120224118232727,
+                  -1.1085553169250488,
+                  -0.5703535079956055,
+                  -1.9046385288238525,
+                  1.7639480829238892,
+                  -1.346946358680725,
+                  1.9104007482528687,
+                  1.0190231800079346,
                   0,
+                  -0.10110091418027878,
                   0,
                   0,
                   0,
                   0,
                   0,
-                  -0.0516667366027832,
-                  1.8346525430679321,
-                  5.248055458068848,
-                  -0.7779481410980225,
-                  -1.357337474822998,
-                  -1.3882709741592407,
-                  -1.357337474822998,
-                  -1.357337474822998,
-                  2.054900884628296,
-                  -0.36306431889533997,
+                  -0.022658290341496468,
+                  -0.19269870221614838,
+                  1.5578571557998657,
+                  4.680875301361084,
+                  -0.6946825385093689,
+                  -1.15898859500885,
+                  -1.15898859500885,
+                  -1.15898859500885,
+                  -1.15898859500885,
+                  1.8196419477462769,
+                  -0.32190170884132385,
                   0,
                   0,
-                  2.8534607887268066,
-                  0.2595357298851013,
-                  -0.2544611990451813,
-                  -0.1250864863395691,
+                  3.0764403343200684,
+                  0.2343314290046692,
+                  -0.2633708417415619,
+                  -0.07870663702487946,
                   0,
-                  -0.1202348917722702,
-                  1.3483891487121582,
-                  1.0809359550476074,
-                  -0.2459544539451599,
-                  -0.3118482232093811,
-                  -0.061829060316085815,
+                  -0.11140431463718414,
+                  1.2808256149291992,
+                  1.0397799015045166,
+                  -0.2412678748369217,
+                  -0.32382556796073914,
                   0,
-                  0.2607138156890869,
                   0,
+                  0.2343314290046692,
                   0,
-                  -0.06213124096393585,
-                  -0.008015090599656105,
-                  -0.02045072428882122,
-                  -0.040824007242918015,
-                  -0.16012273728847504,
                   0,
+                  -0.0018062310991808772,
                   0,
-                  -0.0025287773460149765,
+                  -0.027579760178923607,
+                  -0.0022605678532272577,
+                  -0.16044634580612183,
                   0,
-                  -0.0005890695611014962,
-                  -0.3018258512020111,
-                  -0.3018258512020111,
-                  -0.3018258512020111,
-                  -0.3018258512020111,
-                  -0.257813960313797,
                   0,
-                  -0.3018258512020111,
                   0,
                   0,
                   0,
+                  -0.06564605981111526,
+                  -0.06564605981111526,
+                  -0.06564605981111526,
+                  -0.06564605981111526,
+                  -0.06564605981111526,
                   0,
-                  -0.0005890695611014962,
-                  -0.28826409578323364,
-                  -0.28826409578323364,
-                  0.20635159313678741,
-                  -0.015466750599443913,
+                  -0.06564605981111526,
                   0,
+                  -0.023312430828809738,
                   0,
                   0,
                   0,
+                  -0.06564605981111526,
+                  -0.06564605981111526,
+                  0.32617321610450745,
                   0,
                   0,
                   0,
-                  0.2607138156890869,
                   0,
                   0,
                   0,
                   0,
                   0,
+                  0.2343314290046692,
                   0,
                   0,
                   0,
@@ -4129,20 +4787,18 @@
                   0,
                   0,
                   0,
-                  -0.3680836260318756,
-                  -0.1032666340470314,
                   0,
                   0,
                   0,
-                  -0.257813960313797,
-                  -0.257813960313797,
                   0,
                   0,
+                  -0.5477519631385803,
+                  -0.13956193625926971,
                   0,
                   0,
-                  -0.0005890695611014962,
-                  -0.0005890695611014962,
                   0,
+                  -0.06564605981111526,
+                  -0.06564605981111526,
                   0,
                   0,
                   0,
@@ -4151,7 +4807,6 @@
                   0,
                   0,
                   0,
-                  0.42176201939582825,
                   0,
                   0,
                   0,
@@ -4159,6 +4814,7 @@
                   0,
                   0,
                   0,
+                  0.4855491816997528,
                   0,
                   0,
                   0,
@@ -4166,30 +4822,797 @@
                   0,
                   0,
                   0,
-                  2.6341238021850586,
-                  1.7220726013183594,
-                  0.9409611225128174,
-                  1.416906476020813,
-                  0.2372850924730301,
-                  0.30009570717811584,
-                  0.30009570717811584,
-                  0.5054250955581665,
-                  0.4267539978027344,
-                  0.4267539978027344,
-                  0.42176201939582825,
-                  0.5030673742294312,
-                  0.29054227471351624,
-                  0.06873946636915207,
-                  0.3277798891067505,
-                  0.4710376262664795,
-                  -0.22999602556228638,
-                  -0.4706404507160187,
-                  -0.8105263113975525,
-                  0.04615103453397751,
-                  0.14111994206905365,
-                  0.14111994206905365,
-                  1.049881935119629,
-                  -0.6579690389462848
+                  0,
+                  0,
+                  0,
+                  -0.022658290341496468,
+                  0,
+                  0,
+                  -0.4915379285812378,
+                  2.7224342823028564,
+                  1.9956996440887451,
+                  1.0613675117492676,
+                  1.4281715154647827,
+                  0.32617321610450745,
+                  0.4571743309497833,
+                  0.4571743309497833,
+                  0.5673601031303406,
+                  0.6155372262001038,
+                  0.6155372262001038,
+                  0.4855491816997528,
+                  0.5398622751235962,
+                  0.3338767886161804,
+                  0.07921469956636429,
+                  0.3629245460033417,
+                  0.6419275403022766,
+                  -0.22818732261657715,
+                  -0.6436259150505066,
+                  -0.8440102338790894,
+                  0.08879097551107407,
+                  0.10049155354499817,
+                  0.10049155354499817,
+                  1.2561098337173462,
+                  -0.9368061423301697,
+                  -3.0684008598327637,
+                  -0.6330306529998779,
+                  -3.0684008598327637,
+                  -0.7986218929290771,
+                  -0.201211079955101,
+                  -0.201211079955101,
+                  0,
+                  0,
+                  0,
+                  -0.9438326954841614,
+                  -0.21255794167518616,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  -0.011766229756176472,
+                  -0.01130631659179926,
+                  -0.022771965712308884,
+                  -1.180616366730188
+                ],
+                [
+                  -0.06719090044498444,
+                  -0.06719090044498444,
+                  -0.06626472622156143,
+                  -0.06356018036603928,
+                  -0.060965944081544876,
+                  -1.166034460067749,
+                  -0.8971066474914551,
+                  -1.799452304840088,
+                  -0.001092134858481586,
+                  -2.058553457260132,
+                  -1.3546923398971558,
+                  -1.6321606636047363,
+                  1.1307501792907715,
+                  -0.4843023121356964,
+                  -0.6030857563018799,
+                  -0.5455572605133057,
+                  -1.4423484802246094,
+                  0.35025471448898315,
+                  -0.7297298908233643,
+                  -0.5715636610984802,
+                  0.3270264267921448,
+                  -0.08108523488044739,
+                  0.6670610308647156,
+                  0,
+                  0,
+                  -0.057512130588293076,
+                  0,
+                  0,
+                  0.22795100510120392,
+                  -0.0026729542296379805,
+                  0.9807209372520447,
+                  2.5959208011627197,
+                  -0.48388680815696716,
+                  -0.5799649357795715,
+                  -0.5799649357795715,
+                  -0.5799649357795715,
+                  -0.5799649357795715,
+                  0.9552090167999268,
+                  -0.15455369651317596,
+                  0,
+                  0,
+                  0.16570638120174408,
+                  -0.12813615798950195,
+                  -0.08464912325143814,
+                  -0.005262824706733227,
+                  0,
+                  -0.011224170215427876,
+                  0.6601095795631409,
+                  0.35551923513412476,
+                  -0.03545026481151581,
+                  -0.05149869993329048,
+                  0,
+                  0,
+                  0.3034542500972748,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  -0.009923204779624939,
+                  0,
+                  0,
+                  0,
+                  0,
+                  -0.12784719467163086,
+                  -0.5037606954574585,
+                  -0.5037606954574585,
+                  -0.5037606954574585,
+                  -0.5037606954574585,
+                  -0.12784719467163086,
+                  -0.033691439777612686,
+                  -0.26336175203323364,
+                  -0.1604515165090561,
+                  -0.19557231664657593,
+                  -0.11149200797080994,
+                  0,
+                  0,
+                  0,
+                  0,
+                  -0.2874709367752075,
+                  0,
+                  0,
+                  0,
+                  0,
+                  -0.09728006273508072,
+                  0,
+                  0,
+                  0,
+                  0.3034542500972748,
+                  -0.06337800621986389,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  -0.09728006273508072,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0.24815651774406433,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0.22795100510120392,
+                  0,
+                  0,
+                  0.6950362920761108,
+                  0.5916943550109863,
+                  -0.47374194860458374,
+                  0,
+                  0,
+                  -0.2874709367752075,
+                  -0.027802515774965286,
+                  -0.027802515774965286,
+                  0,
+                  -0.013789808377623558,
+                  -0.013789808377623558,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0.08648526668548584,
+                  0.6605777144432068,
+                  4.30561637878418,
+                  0.4002401530742645,
+                  4.30561637878418,
+                  0.025013620033860207,
+                  0.7442605495452881,
+                  0.29779788851737976,
+                  0.35927581787109375,
+                  0.4451548159122467,
+                  0.1473248451948166,
+                  0.3071739375591278,
+                  0.34880897402763367,
+                  0.31083229184150696,
+                  0.30784696340560913,
+                  0.30784696340560913,
+                  0.41795259714126587,
+                  0.16123025119304657,
+                  -0.049123480916023254,
+                  -0.047062356024980545,
+                  -0.11164547502994537,
+                  -0.3130330825159202
+                ],
+                [
+                  -0.392113596200943,
+                  -0.392113596200943,
+                  -0.6617801189422607,
+                  -0.6532459855079651,
+                  -0.6446455717086792,
+                  -0.08136121928691864,
+                  -0.08377868682146072,
+                  -0.5490753054618835,
+                  -0.6395877599716187,
+                  -0.09068704396486282,
+                  -0.05223376303911209,
+                  -0.07722201198339462,
+                  -0.17920981347560883,
+                  -0.035710327327251434,
+                  -0.05199762061238289,
+                  -0.0392676405608654,
+                  -0.08348293602466583,
+                  -0.007253664080053568,
+                  -0.4663005769252777,
+                  -0.008057482540607452,
+                  -0.01604488305747509,
+                  -0.0022224257700145245,
+                  -0.018612775951623917,
+                  0,
+                  0,
+                  -0.001478628721088171,
+                  0,
+                  -0.001269053784199059,
+                  -0.001269053784199059,
+                  0,
+                  -0.13081210851669312,
+                  -0.46550452709198,
+                  -0.020207807421684265,
+                  -0.022023610770702362,
+                  -0.022023610770702362,
+                  -0.022023610770702362,
+                  -0.022023610770702362,
+                  -0.05853261798620224,
+                  -0.005855941213667393,
+                  -0.0029420750215649605,
+                  -0.002403885591775179,
+                  -0.0029420750215649605,
+                  -0.45096325874328613,
+                  -0.0015976630384102464,
+                  -0.000013579354344983585,
+                  -0.0008780445205047727,
+                  -0.00008961692947195843,
+                  -0.26431170105934143,
+                  -0.15449751913547516,
+                  -0.000017504453353467397,
+                  -0.000017504453353467397,
+                  0,
+                  0,
+                  -0.00008961692947195843,
+                  0,
+                  -0.00008961692947195843,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  -0.0006188659463077784,
+                  -0.0010124172549694777,
+                  0,
+                  0,
+                  -0.00012658284686040133,
+                  -0.44689929485321045,
+                  -0.44689929485321045,
+                  -0.44689929485321045,
+                  -0.44689929485321045,
+                  -0.14401772618293762,
+                  -0.00005649434024235234,
+                  -0.2677500247955322,
+                  -0.07027611136436462,
+                  4.191605091094971,
+                  -0.22217339277267456,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  -0.08361592888832092,
+                  -0.04406552016735077,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  -0.07016357034444809,
+                  0,
+                  0,
+                  -0.01604488305747509,
+                  0,
+                  0,
+                  0,
+                  -0.00033894862281158566,
+                  0,
+                  0,
+                  0,
+                  0,
+                  -0.02980208769440651,
+                  -0.02980208769440651,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  -0.01604488305747509,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  8.660710334777832,
+                  -0.18347297608852386,
+                  -4.256546497344971,
+                  0.6943784166147573
+                ],
+                [
+                  -0.3922423720359802,
+                  -0.3922423720359802,
+                  -0.6628211140632629,
+                  -0.6544966101646423,
+                  -0.6460964679718018,
+                  -0.09004520624876022,
+                  -0.14069385826587677,
+                  -0.19844909012317657,
+                  -0.3314104676246643,
+                  -0.1352873593568802,
+                  -0.060719043016433716,
+                  -0.09487567842006683,
+                  -0.3193274736404419,
+                  -0.05102431774139404,
+                  -0.0865771695971489,
+                  -0.05995989590883255,
+                  -0.1467381715774536,
+                  -0.03790523111820221,
+                  -0.11612984538078308,
+                  -0.055223751813173294,
+                  -0.001383440219797194,
+                  -0.0054732575081288815,
+                  -0.038624297827482224,
+                  0,
+                  0,
+                  -0.005273811519145966,
+                  0,
+                  -0.014467479661107063,
+                  -0.014467479661107063,
+                  0,
+                  -0.04324978590011597,
+                  -0.10694210976362228,
+                  -0.04438208043575287,
+                  -0.0635015219449997,
+                  -0.10277309268712997,
+                  -0.0635015219449997,
+                  -0.0635015219449997,
+                  -0.05059834197163582,
+                  -0.013425921089947224,
+                  -0.015454853884875774,
+                  -0.01730886474251747,
+                  -0.01736265979707241,
+                  -0.043834272772073746,
+                  -0.004929630551487207,
+                  -0.00013297819532454014,
+                  -0.013072211295366287,
+                  -0.0040946160443127155,
+                  -0.01912042871117592,
+                  -0.01090072188526392,
+                  -0.002881430322304368,
+                  -0.00620557414367795,
+                  0,
+                  0,
+                  -0.007672141771763563,
+                  -0.0019772944506257772,
+                  -0.0040946160443127155,
+                  0,
+                  0,
+                  0,
+                  0,
+                  -0.001068884739652276,
+                  -0.005346629768610001,
+                  -0.011312061920762062,
+                  0,
+                  0,
+                  -0.001833297312259674,
+                  -0.04294973239302635,
+                  -0.04294973239302635,
+                  -0.04294973239302635,
+                  -0.04294973239302635,
+                  -0.001833297312259674,
+                  -0.000693391019012779,
+                  -0.03941801190376282,
+                  -0.000693391019012779,
+                  -4.3539252281188965,
+                  0,
+                  0,
+                  -0.012338242493569851,
+                  -0.020614581182599068,
+                  -0.020614581182599068,
+                  -0.020614581182599068,
+                  -0.020614581182599068,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  -0.0005218410515226424,
+                  0,
+                  -0.012338242493569851,
+                  -0.012338242493569851,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  -0.005315663293004036,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  -0.0029813144356012344,
+                  -0.0029813144356012344,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  -0.011904758401215076,
+                  -0.024133779108524323,
+                  -0.00799269787967205,
+                  -0.024133779108524323,
+                  -0.003293341025710106,
+                  -0.00248366454616189,
+                  -0.0005218410515226424,
+                  -0.000902301340829581,
+                  -0.0013285271124914289,
+                  -0.0013285271124914289,
+                  -0.0034476760774850845,
+                  -0.000025466140868957154,
+                  0,
+                  -0.005315663293004036,
+                  -0.005315663293004036,
+                  -0.0011603791499510407,
+                  0,
+                  -0.0697035863995552,
+                  8.540884017944336,
+                  4.2950968742370605,
+                  0.6947332528984056
+                ],
+                [
+                  -0.2644560933113098,
+                  -0.2644560933113098,
+                  -0.36063820123672485,
+                  -0.35023489594459534,
+                  -0.34010040760040283,
+                  -0.09403115510940552,
+                  -0.09552795439958572,
+                  -0.6419339179992676,
+                  -0.7277933955192566,
+                  -0.10124539583921432,
+                  -0.06084618344902992,
+                  -0.08750203996896744,
+                  -0.183895543217659,
+                  -0.041208405047655106,
+                  -0.04879698157310486,
+                  -0.04028673470020294,
+                  -0.07651622593402863,
+                  -0.008324970491230488,
+                  -0.5496593713760376,
+                  -0.00925151165574789,
+                  -0.03156765550374985,
+                  -0.0026635057292878628,
+                  -0.011731171049177647,
+                  0,
+                  0,
+                  -0.0017496872460469604,
+                  0,
+                  -0.0014984839363023639,
+                  -0.0014984839363023639,
+                  0,
+                  -0.17816884815692902,
+                  -0.5486218929290771,
+                  -0.02346646785736084,
+                  -0.025722607970237732,
+                  -0.025722607970237732,
+                  -0.025722607970237732,
+                  -0.025722607970237732,
+                  -0.09338724613189697,
+                  -0.00674849608913064,
+                  -0.0033952342346310616,
+                  -0.002839118242263794,
+                  -0.0033952342346310616,
+                  -0.5318578481674194,
+                  -0.0018048081547021866,
+                  -0.000048029745812527835,
+                  -0.0010812424588948488,
+                  -0.0001969540026038885,
+                  -0.27449125051498413,
+                  -0.17692901194095612,
+                  -0.000019944716768804938,
+                  -0.000019944716768804938,
+                  0,
+                  0,
+                  -0.0001969540026038885,
+                  0,
+                  -0.0001969540026038885,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  -0.0007428830722346902,
+                  -0.0013050134293735027,
+                  0,
+                  0,
+                  -0.00014422975073102862,
+                  -0.5269480347633362,
+                  -0.5269480347633362,
+                  -0.5269480347633362,
+                  -0.5269480347633362,
+                  -0.19331640005111694,
+                  -0.00006437018600990996,
+                  -0.3472473919391632,
+                  -0.09687625616788864,
+                  5.985279560089111,
+                  -0.23307575285434723,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  -0.07664313912391663,
+                  -0.0422857403755188,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  -0.0967475101351738,
+                  0,
+                  0,
+                  -0.03156765550374985,
+                  0,
+                  0,
+                  0,
+                  -0.015440709888935089,
+                  0,
+                  0,
+                  0,
+                  0,
+                  -0.04786965623497963,
+                  -0.04786965623497963,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  -0.03156765550374985,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  0,
+                  -4.527218818664551,
+                  -4.663710594177246,
+                  6.345195770263672,
+                  -0.16424101046167572
                 ]
               ]
             }
@@ -5278,6 +6701,218 @@
       [
         "en",
         "Could you establish a list of potential solutions for a Talent Acquisition software?"
+      ],
+      [
+        "en",
+        "Can you suggest sourcing options for this software?"
+      ],
+      [
+        "en",
+        "Could you recommend potential sourcing avenues for this software?"
+      ],
+      [
+        "en",
+        "Would you be able to propose sourcing channels for this software?"
+      ],
+      [
+        "en",
+        "Can you provide suggestions for sourcing this software?"
+      ],
+      [
+        "en",
+        "Could you offer recommendations for sourcing options for this software?"
+      ],
+      [
+        "en",
+        "Would you mind suggesting possible sourcing methods for this software?"
+      ],
+      [
+        "en",
+        "Can you propose sourcing strategies for acquiring this software?"
+      ],
+      [
+        "en",
+        "Could you outline potential sourcing alternatives for this software?"
+      ],
+      [
+        "en",
+        "Would you be able to present sourcing solutions for obtaining this software?"
+      ],
+      [
+        "en",
+        "Can you suggest sourcing approaches for acquiring this software?"
+      ],
+      [
+        "en",
+        "Could you provide guidance on sourcing options for this software?"
+      ],
+      [
+        "en",
+        "Would you mind offering insights into sourcing alternatives for this software?"
+      ],
+      [
+        "en",
+        "Can you propose sourcing avenues for obtaining this software?"
+      ],
+      [
+        "en",
+        "Could you recommend sourcing tactics for acquiring this software?"
+      ],
+      [
+        "en",
+        "Would you be able to suggest sourcing pathways for obtaining this software?"
+      ],
+      [
+        "en",
+        "Can you provide suggestions for sourcing channels for this software?"
+      ],
+      [
+        "en",
+        "Could you offer recommendations for sourcing methods for this software?"
+      ],
+      [
+        "en",
+        "Would you mind suggesting possible sourcing strategies for this software?"
+      ],
+      [
+        "en",
+        "Can you propose sourcing options for acquiring this software?"
+      ],
+      [
+        "en",
+        "Could you outline potential sourcing avenues for obtaining this software?"
+      ],
+      [
+        "en",
+        "Would you be able to present sourcing alternatives for acquiring this software?"
+      ],
+      [
+        "en",
+        "Can you suggest sourcing approaches for obtaining this software?"
+      ],
+      [
+        "en",
+        "Could you provide guidance on sourcing options for acquiring this software?"
+      ],
+      [
+        "en",
+        "Would you mind offering insights into sourcing tactics for this software?"
+      ],
+      [
+        "en",
+        "Can you propose sourcing pathways for obtaining this software?"
+      ],
+      [
+        "en",
+        "Could you recommend sourcing strategies for acquiring this software?"
+      ],
+      [
+        "en",
+        "Would you be able to suggest sourcing solutions for obtaining this software?"
+      ],
+      [
+        "en",
+        "Can you provide suggestions for sourcing alternatives for this software?"
+      ],
+      [
+        "en",
+        "Could you offer recommendations for sourcing approaches for this software?"
+      ],
+      [
+        "en",
+        "Would you mind suggesting possible sourcing channels for this software?"
+      ],
+      [
+        "en",
+        "Can you propose sourcing options for acquiring this software?"
+      ],
+      [
+        "en",
+        "Could you outline potential sourcing avenues for obtaining this software?"
+      ],
+      [
+        "en",
+        "Would you be able to present sourcing alternatives for acquiring this software?"
+      ],
+      [
+        "en",
+        "Can you suggest sourcing approaches for obtaining this software?"
+      ],
+      [
+        "en",
+        "Could you provide guidance on sourcing options for acquiring this software?"
+      ],
+      [
+        "en",
+        "Would you mind offering insights into sourcing tactics for this software?"
+      ],
+      [
+        "en",
+        "Can you propose sourcing pathways for obtaining this software?"
+      ],
+      [
+        "en",
+        "Could you recommend sourcing strategies for acquiring this software?"
+      ],
+      [
+        "en",
+        "Would you be able to suggest sourcing solutions for obtaining this software?"
+      ],
+      [
+        "en",
+        "Can you provide suggestions for sourcing alternatives for this software?"
+      ],
+      [
+        "en",
+        "Could you offer recommendations for sourcing methods for this software?"
+      ],
+      [
+        "en",
+        "Would you mind suggesting possible sourcing strategies for this software?"
+      ],
+      [
+        "en",
+        "Can you propose sourcing options for acquiring this software?"
+      ],
+      [
+        "en",
+        "Could you outline potential sourcing avenues for obtaining this software?"
+      ],
+      [
+        "en",
+        "Would you be able to present sourcing alternatives for acquiring this software?"
+      ],
+      [
+        "en",
+        "Can you suggest sourcing approaches for obtaining this software?"
+      ],
+      [
+        "en",
+        "Could you provide guidance on sourcing options for acquiring this software?"
+      ],
+      [
+        "en",
+        "Would you mind offering insights into sourcing tactics for this software?"
+      ],
+      [
+        "en",
+        "Can you propose sourcing pathways for obtaining this software?"
+      ],
+      [
+        "en",
+        "Could you recommend sourcing strategies for acquiring this software?"
+      ],
+      [
+        "en",
+        "send message"
+      ],
+      [
+        "en",
+        "write thank"
+      ],
+      [
+        "en",
+        "send thank"
       ]
     ]
   },
@@ -5963,6 +7598,458 @@
           },
           {
             "answer": "Attached, you'll find a list of potential software vendors that we believe meet the criteria outlined in your requirements..."
+          }
+        ],
+        "sourcing.options": [
+          {
+            "answer": "Please find below the suitable sourcing options..."
+          },
+          {
+            "answer": "Below, you'll find the suitable sourcing options..."
+          },
+          {
+            "answer": "Enclosed are the suitable sourcing options for your consideration..."
+          },
+          {
+            "answer": "Attached are the suitable sourcing options for your review..."
+          },
+          {
+            "answer": "Here are the suitable sourcing options for your perusal..."
+          },
+          {
+            "answer": "Provided below are the suitable sourcing options for your examination..."
+          },
+          {
+            "answer": "Following are the suitable sourcing options for your assessment..."
+          },
+          {
+            "answer": "Presented below are the suitable sourcing options for your evaluation..."
+          },
+          {
+            "answer": "Shared below are the suitable sourcing options for your inspection..."
+          },
+          {
+            "answer": "Listed below are the suitable sourcing options for your review..."
+          },
+          {
+            "answer": "Here are the suitable sourcing options for your consideration..."
+          },
+          {
+            "answer": "Attached, you'll find the suitable sourcing options for your review..."
+          },
+          {
+            "answer": "Enclosed within this message are the suitable sourcing options..."
+          },
+          {
+            "answer": "Here are the suitable sourcing options that may be of interest..."
+          },
+          {
+            "answer": "Provided here are the suitable sourcing options for your review..."
+          },
+          {
+            "answer": "Please review the following suitable sourcing options..."
+          },
+          {
+            "answer": "Below, please find the suitable sourcing options..."
+          },
+          {
+            "answer": "Kindly review the attached suitable sourcing options..."
+          },
+          {
+            "answer": "Please find the attached suitable sourcing options for your consideration..."
+          },
+          {
+            "answer": "Here are the suitable sourcing options that you may find useful..."
+          },
+          {
+            "answer": "Enclosed are the suitable sourcing options that may meet your requirements..."
+          },
+          {
+            "answer": "Attached are the suitable sourcing options that you may wish to explore..."
+          },
+          {
+            "answer": "Please see below for the suitable sourcing options that could be suitable..."
+          },
+          {
+            "answer": "Below are the suitable sourcing options that we recommend considering..."
+          },
+          {
+            "answer": "Provided below are the suitable sourcing options that could be a good fit..."
+          },
+          {
+            "answer": "Listed below are the suitable sourcing options that you may want to investigate..."
+          },
+          {
+            "answer": "Please review the suitable sourcing options provided below..."
+          },
+          {
+            "answer": "Below are the suitable sourcing options that we suggest exploring..."
+          },
+          {
+            "answer": "Attached are the suitable sourcing options that may align with your needs..."
+          },
+          {
+            "answer": "Enclosed are the suitable sourcing options that we believe are worth considering..."
+          },
+          {
+            "answer": "Here are the suitable sourcing options that we think could be beneficial..."
+          },
+          {
+            "answer": "Below, you'll find the suitable sourcing options that we have compiled..."
+          },
+          {
+            "answer": "Please review the attached suitable sourcing options at your convenience..."
+          },
+          {
+            "answer": "Here are the suitable sourcing options that we have identified for you..."
+          },
+          {
+            "answer": "Attached are the suitable sourcing options that you may find helpful..."
+          },
+          {
+            "answer": "Enclosed within this message are the suitable sourcing options for your review and consideration..."
+          },
+          {
+            "answer": "Here are the suitable sourcing options that we recommend exploring further..."
+          },
+          {
+            "answer": "Provided here are the suitable sourcing options that we believe could meet your needs..."
+          },
+          {
+            "answer": "Please see below for the suitable sourcing options that we have researched..."
+          },
+          {
+            "answer": "Below, please find the suitable sourcing options that we have gathered for your review..."
+          },
+          {
+            "answer": "Kindly review the attached suitable sourcing options and let us know your thoughts..."
+          },
+          {
+            "answer": "Please find the attached suitable sourcing options for your review and evaluation..."
+          },
+          {
+            "answer": "Here are the suitable sourcing options that we have identified as potential partners..."
+          },
+          {
+            "answer": "Attached are the suitable sourcing options that we have vetted for your consideration..."
+          },
+          {
+            "answer": "Below are the suitable sourcing options that we have curated based on your requirements..."
+          },
+          {
+            "answer": "Please review the suitable sourcing options provided below and provide your feedback..."
+          },
+          {
+            "answer": "Below, you'll find the suitable sourcing options that we believe could be a good fit for your needs..."
+          },
+          {
+            "answer": "Enclosed are the suitable sourcing options that we have selected for your review and consideration..."
+          },
+          {
+            "answer": "Attached, you'll find the suitable sourcing options that we have identified as potential solutions..."
+          }
+        ],
+        "send.message": [
+          {
+            "answer": "Message delivered!"
+          },
+          {
+            "answer": "Message dispatched!"
+          },
+          {
+            "answer": "Message transmitted!"
+          },
+          {
+            "answer": "Message forwarded!"
+          },
+          {
+            "answer": "Message conveyed!"
+          },
+          {
+            "answer": "Message relayed!"
+          },
+          {
+            "answer": "Message sent!"
+          },
+          {
+            "answer": "Message communicated!"
+          },
+          {
+            "answer": "Message transferred!"
+          },
+          {
+            "answer": "Message shared!"
+          },
+          {
+            "answer": "Message passed along!"
+          },
+          {
+            "answer": "Message delivered successfully!"
+          },
+          {
+            "answer": "Message dispatched to the intended recipients!"
+          },
+          {
+            "answer": "Message transmitted to the designated recipients!"
+          },
+          {
+            "answer": "Message forwarded to the appropriate parties!"
+          },
+          {
+            "answer": "Message communicated to the relevant individuals!"
+          },
+          {
+            "answer": "Message relayed to the necessary contacts!"
+          },
+          {
+            "answer": "Message sent out!"
+          },
+          {
+            "answer": "Message successfully conveyed!"
+          },
+          {
+            "answer": "Message effectively transmitted!"
+          },
+          {
+            "answer": "Message efficiently forwarded!"
+          },
+          {
+            "answer": "Message accurately communicated!"
+          },
+          {
+            "answer": "Message appropriately relayed!"
+          },
+          {
+            "answer": "Message effectively delivered!"
+          },
+          {
+            "answer": "Message successfully dispatched!"
+          },
+          {
+            "answer": "Message efficiently transmitted!"
+          },
+          {
+            "answer": "Message promptly forwarded!"
+          },
+          {
+            "answer": "Message promptly communicated!"
+          },
+          {
+            "answer": "Message promptly relayed!"
+          },
+          {
+            "answer": "Message successfully sent!"
+          },
+          {
+            "answer": "Message effectively shared!"
+          },
+          {
+            "answer": "Message promptly passed along!"
+          },
+          {
+            "answer": "Message effectively conveyed!"
+          },
+          {
+            "answer": "Message successfully delivered!"
+          },
+          {
+            "answer": "Message efficiently communicated!"
+          },
+          {
+            "answer": "Message accurately relayed!"
+          },
+          {
+            "answer": "Message successfully transferred!"
+          },
+          {
+            "answer": "Message effectively transmitted to all recipients!"
+          },
+          {
+            "answer": "Message efficiently shared with the intended audience!"
+          },
+          {
+            "answer": "Message accurately conveyed to the necessary contacts!"
+          },
+          {
+            "answer": "Message successfully communicated to all relevant individuals!"
+          },
+          {
+            "answer": "Message promptly delivered to the designated recipients!"
+          },
+          {
+            "answer": "Message effectively dispatched to all recipients!"
+          },
+          {
+            "answer": "Message efficiently transmitted to the appropriate parties!"
+          },
+          {
+            "answer": "Message promptly forwarded to the necessary contacts!"
+          },
+          {
+            "answer": "Message accurately relayed to the intended recipients!"
+          },
+          {
+            "answer": "Message successfully sent to the appropriate individuals!"
+          },
+          {
+            "answer": "Message effectively communicated to the intended audience!"
+          },
+          {
+            "answer": "Message efficiently shared with the designated recipients!"
+          }
+        ],
+        "write.thank": [
+          {
+            "answer": "Of course. Below is a proposed message to Vendors B and D."
+          },
+          {
+            "answer": "Certainly. Attached is a proposed message to Vendors B and D."
+          },
+          {
+            "answer": "Absolutely. Enclosed is a proposed message to Vendors B and D."
+          },
+          {
+            "answer": "Of course. Please find below a proposed message to Vendors B and D."
+          },
+          {
+            "answer": "Certainly. Below, you'll find a proposed message to Vendors B and D."
+          },
+          {
+            "answer": "Absolutely. Attached is a proposed message to Vendors B and D."
+          },
+          {
+            "answer": "Of course. Enclosed is a proposed message to Vendors B and D."
+          },
+          {
+            "answer": "Certainly. Please find attached a proposed message to Vendors B and D."
+          },
+          {
+            "answer": "Absolutely. Below is a proposed message to Vendors B and D."
+          },
+          {
+            "answer": "Of course. Attached is a proposed message to Vendors B and D."
+          },
+          {
+            "answer": "Certainly. Enclosed is a proposed message to Vendors B and D."
+          },
+          {
+            "answer": "Absolutely. Please find below a proposed message to Vendors B and D."
+          },
+          {
+            "answer": "Of course. Below, you'll find a proposed message to Vendors B and D."
+          },
+          {
+            "answer": "Of course. Please find attached a proposed message to Vendors B and D."
+          },
+          {
+            "answer": "Certainly. Below is a proposed message to Vendors B and D."
+          },
+          {
+            "answer": "Certainly. Please find below a proposed message to Vendors B and D."
+          },
+          {
+            "answer": "Absolutely. Below, you'll find a proposed message to Vendors B and D."
+          },
+          {
+            "answer": "Absolutely. Please find attached a proposed message to Vendors B and D."
+          }
+        ],
+        "send.thank": [
+          {
+            "answer": "Alright. Message successfully sent to Vendors B and D!"
+          },
+          {
+            "answer": "Okay. Message has been dispatched to Vendors B and D!"
+          },
+          {
+            "answer": "Understood. Message transmitted to Vendors B and D!"
+          },
+          {
+            "answer": "Roger that. Message forwarded to Vendors B and D!"
+          },
+          {
+            "answer": "Affirmative. Message conveyed to Vendors B and D!"
+          },
+          {
+            "answer": "Copy that. Message has been relayed to Vendors B and D!"
+          },
+          {
+            "answer": "Done. Message successfully communicated to Vendors B and D!"
+          },
+          {
+            "answer": "Acknowledged. Message transferred to Vendors B and D!"
+          },
+          {
+            "answer": "Noted. Message shared with Vendors B and D!"
+          },
+          {
+            "answer": "Confirmed. Message passed along to Vendors B and D!"
+          },
+          {
+            "answer": "Affirmed. Message has been conveyed to Vendors B and D!"
+          },
+          {
+            "answer": "Roger. Message successfully delivered to Vendors B and D!"
+          },
+          {
+            "answer": "Understood. Message dispatched to Vendors B and D!"
+          },
+          {
+            "answer": "Copy. Message transmitted to Vendors B and D!"
+          },
+          {
+            "answer": "Message successfully forwarded to Vendors B and D!"
+          },
+          {
+            "answer": "Message has been conveyed to Vendors B and D!"
+          },
+          {
+            "answer": "Message sent to Vendors B and D has been confirmed!"
+          },
+          {
+            "answer": "Message transmitted to Vendors B and D has been received!"
+          },
+          {
+            "answer": "Message forwarded to Vendors B and D has been acknowledged!"
+          },
+          {
+            "answer": "Message successfully relayed to Vendors B and D!"
+          },
+          {
+            "answer": "Message sent to Vendors B and D has been delivered!"
+          },
+          {
+            "answer": "Message has been dispatched to Vendors B and D!"
+          },
+          {
+            "answer": "Message successfully transmitted to Vendors B and D!"
+          },
+          {
+            "answer": "Message forwarded to Vendors B and D has been successfully received!"
+          },
+          {
+            "answer": "Message relayed to Vendors B and D has been confirmed!"
+          },
+          {
+            "answer": "Message successfully sent to Vendors B and D!"
+          },
+          {
+            "answer": "Message transmitted to Vendors B and D has been acknowledged!"
+          },
+          {
+            "answer": "Message forwarded to Vendors B and D has been confirmed!"
+          },
+          {
+            "answer": "Message relayed to Vendors B and D has been acknowledged!"
+          },
+          {
+            "answer": "Message relayed to Vendors B and D has been received!"
+          },
+          {
+            "answer": "Message forwarded to Vendors B and D has been received!"
+          },
+          {
+            "answer": "Message transmitted to Vendors B and D has been confirmed!"
           }
         ]
       }
