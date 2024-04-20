@@ -15,6 +15,12 @@ async function trainModel(manager: any) {
   const sendMessage = await trainIntent(manager, 'send.message', '../data/send.message.txt', '../answers/send.message.txt')
   const writeThank = await trainIntent(manager, 'write.thank', '../data/write.thank.txt', '../answers/write.thank.txt')
   const sendThank = await trainIntent(manager, 'send.thank', '../data/send.thank.txt', '../answers/send.thank.txt')
+  const strategy = await trainIntent(manager, 'strategy', '../data/strategy.txt', '../answers/strategy.txt')
+  const proposeVendors = await trainIntent(manager, 'propose.vendors', '../data/propose.vendors.txt', '../answers/propose.vendors.txt')
+  const chartTCO = await trainIntent(manager, 'chart.TCO', '../data/chart.TCO.txt', '../answers/chart.TCO.txt')
+  const generateRFP = await trainIntent(manager, 'generate.rfp', '../data/generate.rfp.txt', '../answers/generate.rfp.txt')
+  const portal = await trainIntent(manager, 'portal', '../data/portal.txt', '../answers/portal.txt')
+
   if (
     greetings &&
     listRequirements &&
@@ -25,6 +31,12 @@ async function trainModel(manager: any) {
     sendMessage &&
     writeThank &&
     sendThank
+    strategy && 
+    proposeVendors && 
+    chartTCO && 
+    generateRFP &&
+    portal
+
   ) {
     await manager.train()
     await manager.save();
