@@ -20,6 +20,7 @@ async function trainModel(manager: any) {
   const chartTCO = await trainIntent(manager, 'chart.TCO', '../data/chart.TCO.txt', '../answers/chart.TCO.txt')
   const generateRFP = await trainIntent(manager, 'generate.rfp', '../data/generate.rfp.txt', '../answers/generate.rfp.txt')
   const portal = await trainIntent(manager, 'portal', '../data/portal.txt', '../answers/portal.txt')
+  const compare = await trainIntent(manager, 'compare', '../data/compare.txt', '../answers/compare.txt')
 
   if (
     greetings &&
@@ -35,7 +36,8 @@ async function trainModel(manager: any) {
     proposeVendors && 
     chartTCO && 
     generateRFP &&
-    portal
+    portal && 
+    compare
 
   ) {
     await manager.train()
