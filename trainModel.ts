@@ -22,6 +22,7 @@ async function trainModel(manager: any) {
   const portal = await trainIntent(manager, 'portal', '../data/portal.txt', '../answers/portal.txt')
   const compare = await trainIntent(manager, 'compare', '../data/compare.txt', '../answers/compare.txt')
   const yes = await trainIntent(manager, 'yes', '../data/yes.txt', '../answers/yes.txt')
+
   if (
     greetings &&
     listRequirements &&
