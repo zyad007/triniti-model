@@ -41,6 +41,9 @@ npm build
 ```
 ### Full Scenario
 ```console
+Hello.
+```
+```console
 List typical requirements for Talent acquisition software.
 ```
 ```console
@@ -81,6 +84,9 @@ Yes.
 ```
 ```console
 Could you propose a negotiation strategy for Vandor A?
+```
+```console
+Thank You.
 ```
 
 ### Important Links
