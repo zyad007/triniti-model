@@ -1,0 +1,24 @@
+{
+  "name": "triniti-model",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "build": "rm -rf dist/ && tsc",
+    "start": "rm -rf dist/ && tsc && node dist/index.js",
+    "dev": "nodemon ."
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@types/chalk": "^2.2.0",
+    "chalk": "^4.1.2",
+    "node-nlp": "^4.27.0",
+    "node-nlp-typescript": "^1.0.3",
+    "typescript": "^5.4.5"
+  },
+  "devDependencies": {
+    "@types/node": "^20.12.7"
+  }
+}
