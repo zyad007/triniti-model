@@ -1,4 +1,4 @@
-hello anas,
-hi,
-hola,
+hello
+hi
+hola
 greetings
